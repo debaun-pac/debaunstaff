@@ -1,4 +1,4 @@
-## DeBaun PAC Student Staff
+# DeBaun PAC Student Staff
 
 You should always be able to find the most resent version of this page at <https://stevens.box.com/s/hx3lgjgkywyhejt8q0n7xukwi7zugur2>. We’ll hopefully have a friendlier URL pointer shortly.
 
@@ -12,13 +12,13 @@ The first few events listed occur during orientation, and some of you may not be
 In addition to the listed events, we’ll schedule crew calls and staff training, dates and times to be announced.
 
 
-POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
+## POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
 1pm call / 3:30pm start / 5pm load-out
 NOTE: This gig has been moved to Palmer Lawn. 
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
 
 
-fri 17 sep / LeadHERship conference keynote
+## fri 17 sep / LeadHERship conference keynote
 2pm call / 4pm event start / 6pm load-out
 We’re hosting the opening keynote of the LeadHERship conference, which will be Dr. Mona Hannah Attisha in conversation with Dr. Kevin Ryan. The stage will be set with podium and interview-style seating (with or without ferns) and mics for Dr. Attisha and Dr. Ryan.
 There will be a brief tech run-through the day before (Thursday at noon) to ensure that the video streaming is working properly, that you are welcome (but not obliged) to attend.
@@ -29,7 +29,7 @@ house manager: Alison
 usher: Kian
 
 
-wed 22 sep / convocation at Palmer Lawn [revised date]
+## wed 22 sep / convocation at Palmer Lawn [revised date]
 1pm call / 3:30pm start / 5pm load-out
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
 
@@ -38,7 +38,7 @@ crew: ?
 crew: ?
 
 
-sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
+## sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
 8:30am call / 10am Nariman’s address / 10:45am alumni panel / 11:30am load-out
 Our contribution to FFW this year is to host the President’s morning welcome address and a brief alumni panel. This is a podium and powerpoint event.
 
@@ -50,7 +50,7 @@ usher: ?
 usher: ?
 
 
-fri 15 oct / Entertainment Committee comedian
+## fri 15 oct / Entertainment Committee comedian
 evening performance
 The date is currently a placeholder, and will be updated once we have more details.
 
