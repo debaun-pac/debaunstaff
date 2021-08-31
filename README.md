@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## DeBaun PAC Student Staff
 
-You can use the [editor on GitHub](https://github.com/debaun-pac/debaunstaff/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You should always be able to find the most resent version of this page at <https://stevens.box.com/s/hx3lgjgkywyhejt8q0n7xukwi7zugur2>. We’ll hopefully have a friendlier URL pointer shortly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Normally Shawna wrangles the student staff, but for now, email Carl <crussell@stevens.edu> to sign up for any of the events below that match your interests and availability, and I’ll add you to the roster. Once confirmed, just show up at the listed call time, and we’ll get started.
 
-### Markdown
+If you have any questions or concerns about the gig or about what the roles will entail, please ask. The jobs can vary quite a bit depending on the particular gig. The listed roles are the ideal crew for the events. If we’re short a person or two, we may need to juggle staff around to compensate.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you’re new to the DeBaun PAC crew, feel free to sign up for events even if the roles are filled, as we’ll have you shadow someone who has performed the role before, so you can see how we operate. You’ll catch on quickly.
 
-```markdown
-Syntax highlighted code block
+The first few events listed occur during orientation, and some of you may not be on campus yet. No worries. Do jump in once you land on campus.
+In addition to the listed events, we’ll schedule crew calls and staff training, dates and times to be announced.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
+1pm call / 3:30pm start / 5pm load-out
+NOTE: This gig has been moved to Palmer Lawn. 
+This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+fri 17 sep / LeadHERship conference keynote
+2pm call / 4pm event start / 6pm load-out
+We’re hosting the opening keynote of the LeadHERship conference, which will be Dr. Mona Hannah Attisha in conversation with Dr. Kevin Ryan. The stage will be set with podium and interview-style seating (with or without ferns) and mics for Dr. Attisha and Dr. Ryan.
+There will be a brief tech run-through the day before (Thursday at noon) to ensure that the video streaming is working properly, that you are welcome (but not obliged) to attend.
 
-[Link](url) and ![Image](src)
-```
+stage manager: Luke
+sound op: Mat
+house manager: Alison
+usher: Kian
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+wed 22 sep / convocation at Palmer Lawn [revised date]
+1pm call / 3:30pm start / 5pm load-out
+This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/debaun-pac/debaunstaff/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+crew: ?
+crew: ?
+crew: ?
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
+8:30am call / 10am Nariman’s address / 10:45am alumni panel / 11:30am load-out
+Our contribution to FFW this year is to host the President’s morning welcome address and a brief alumni panel. This is a podium and powerpoint event.
+
+stage manager: Mat
+sound op: Carl
+house manager: Kera
+usher: Luke
+usher: ?
+usher: ?
+
+
+fri 15 oct / Entertainment Committee comedian
+evening performance
+The date is currently a placeholder, and will be updated once we have more details.
+
