@@ -15,7 +15,7 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 
 **POSTPONED ~ wed 1 sep / convocation at Palmer Lawn**
 
-1pm call / 3:30pm start / 5pm load-out
+*1pm call / 3:30pm start / 5pm load-out*
 
 NOTE: This gig has been moved to Palmer Lawn. 
 
@@ -24,13 +24,14 @@ This year 638 Event Management will he handling the technical support for convoc
 
 ### fri 17 sep / LeadHERship conference keynote
 2pm call / 4pm event start / 6pm load-out
+
 We’re hosting the opening keynote of the LeadHERship conference, which will be Dr. Mona Hannah Attisha in conversation with Dr. Kevin Ryan. The stage will be set with podium and interview-style seating (with or without ferns) and mics for Dr. Attisha and Dr. Ryan.
 There will be a brief tech run-through the day before (Thursday at noon) to ensure that the video streaming is working properly, that you are welcome (but not obliged) to attend.
 
-stage manager: Luke
-sound op: Mat
-house manager: Alison
-usher: Kian
+- stage manager: Luke
+- sound op: Mat
+- house manager: Alison
+- usher: Kian
 
 
 ## wed 22 sep / convocation at Palmer Lawn [revised date]
