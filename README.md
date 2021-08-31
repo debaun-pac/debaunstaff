@@ -13,7 +13,7 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 
 ## Events
 
-**POSTPONED ~ wed 1 sep / convocation at Palmer Lawn**
+### POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
 *1pm call / 3:30pm start / 5pm load-out*
 
 NOTE: This gig has been moved to Palmer Lawn. 
@@ -33,7 +33,7 @@ There will be a brief tech run-through the day before (Thursday at noon) to ensu
 - usher: Kian
 
 
-## wed 22 sep / convocation at Palmer Lawn [revised date]
+### wed 22 sep / convocation at Palmer Lawn [revised date]
 *1pm call / 3:30pm start / 5pm load-out*
 
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
@@ -43,7 +43,7 @@ This year 638 Event Management will he handling the technical support for convoc
 - crew: ?
 
 
-## sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
+### sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
 *8:30am call / 10am Nariman’s address / 10:45am alumni panel / 11:30am load-out*
 
 Our contribution to FFW this year is to host the President’s morning welcome address and a brief alumni panel. This is a podium and powerpoint event.
@@ -56,7 +56,7 @@ Our contribution to FFW this year is to host the President’s morning welcome a
 - usher: ?
 
 
-## fri 15 oct / Entertainment Committee comedian
+### fri 15 oct / Entertainment Committee comedian
 *evening performance*
 
 The date is currently a placeholder, and will be updated once we have more details.
