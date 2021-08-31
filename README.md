@@ -11,15 +11,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 The first few events listed occur during orientation, and some of you may not be on campus yet. No worries. Do jump in once you land on campus.
 In addition to the listed events, we’ll schedule crew calls and staff training, dates and times to be announced.
 
-## Events
-
-### POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
-*1pm call / 3:30pm start / 5pm load-out*
-
-NOTE: This gig has been moved to Palmer Lawn. 
-
-This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
-
+## Events (at DeBaun Auditorium unless otherwise noted)
 
 ### fri 17 sep / LeadHERship conference keynote
 *2pm call / 4pm event start / 6pm load-out*
@@ -36,7 +28,7 @@ There will be a brief tech run-through the day before (Thursday at noon) to ensu
 ### wed 22 sep / convocation at Palmer Lawn [revised date]
 *1pm call / 3:30pm start / 5pm load-out*
 
-This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
+This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics. Please meet at Palmer Lawn at call time.
 
 - crew: ?
 - crew: ?
