@@ -13,9 +13,12 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 
 ## Events
 
-### POSTPONED ~ wed 1 sep / convocation at Palmer Lawn
+**POSTPONED ~ wed 1 sep / convocation at Palmer Lawn**
+
 1pm call / 3:30pm start / 5pm load-out
+
 NOTE: This gig has been moved to Palmer Lawn. 
+
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics.
 
 
