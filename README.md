@@ -1,6 +1,6 @@
 ## DeBaun PAC Student Staff
 
-You should always be able to find the most resent version of this page at <https://stevens.box.com/s/hx3lgjgkywyhejt8q0n7xukwi7zugur2>. We’ll hopefully have a friendlier URL pointer shortly.
+You should always be able to find the most resent version of this page at <https://debaun-pac.github.io/debaunstaff/>. We’ll hopefully have a friendlier URL pointer shortly.
 
 Normally Shawna wrangles the student staff, but for now, email Carl <crussell@stevens.edu> to sign up for any of the events below that match your interests and availability, and I’ll add you to the roster. Once confirmed, just show up at the listed call time, and we’ll get started.
 
