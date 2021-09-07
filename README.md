@@ -14,6 +14,7 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
+
 ### fri 17 sep / LeadHERship conference keynote
 *2pm call / 4pm event start / 6pm load-out*
 
@@ -53,8 +54,10 @@ Our contribution to FFW this year is to host the President’s morning welcome a
 ### wed 6 oct / dean's lecture
 *2pm call / 3pm event / 5pm end
 
+This should be a straightforward lecture, presented by the School of Engineering.
+
 - stage manager: ?
-- sound op: Carl
+- sound op: ?
 - house manager: ?
 - usher: ?
 
