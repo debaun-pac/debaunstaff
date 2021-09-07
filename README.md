@@ -50,6 +50,15 @@ Our contribution to FFW this year is to host the President’s morning welcome a
 - usher: ?
 
 
+### wed 6 oct / dean's lecture
+*2pm call / 3pm event / 5pm end
+
+- stage manager: ?
+- sound op: Carl
+- house manager: ?
+- usher: ?
+
+
 ### fri 15 oct / Entertainment Committee comedian
 *evening performance*
 
