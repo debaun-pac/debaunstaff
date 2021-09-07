@@ -59,8 +59,8 @@ Our contribution to FFW this year is to host the President’s morning welcome a
 - usher: ?
 
 
-### fri 15 oct / Entertainment Committee comedian
+### POSTPONED ~ fri 15 oct / Entertainment Committee comedian
 *evening performance*
 
-The date is currently a placeholder, and will be updated once we have more details.
+I'll post details once EC reschedules
 
