@@ -14,6 +14,19 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
+### weekly classes in the theater
+*Mondays ~ 8:30am setup / 9am - 3pm classes*
+
+- staff: ?
+
+*Wednesdays ~ 8:30am setup / 9am - 2pm classes*
+
+- staff: ?
+
+*Fridays ~ 10:30am setup / 11am - 1pm classes*
+
+- staff: ?
+- 
 
 ### fri 17 sep / LeadHERship conference keynote
 *2pm call / 4pm event start / 6pm load-out*
