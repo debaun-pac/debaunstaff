@@ -26,7 +26,7 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 *Fridays ~ 10:30am setup / 11am - 1pm classes*
 
 - staff: ?
-- 
+
 
 ### fri 17 sep / LeadHERship conference keynote
 *2pm call / 4pm event start / 6pm load-out*
