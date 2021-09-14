@@ -28,7 +28,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 *Fridays ~ 10:30am setup / 11am - 1pm classes*
 
-- staff: ?
+- staff: Mat
 
 
 ### fri 17 sep / LeadHERship conference keynote
