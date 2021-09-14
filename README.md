@@ -15,6 +15,9 @@ In addition to the listed events, we’ll schedule crew calls and staff training
 *(at DeBaun Auditorium unless otherwise noted)*
 
 ### weekly classes in the theater
+
+These classes require light A/V support. We're looking for consistent weekly staff that can sign up for a block of at least a few hours, to keep the scheduling from becoming too terribly complicated.
+
 *Mondays ~ 8:30am setup / 9am - 3pm classes*
 
 - staff: ?
