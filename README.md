@@ -49,7 +49,7 @@ There will be a brief tech run-through the day before (Thursday at noon) to ensu
 
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics. Please meet at Palmer Lawn at call time.
 
-- crew: ?
+- crew: Luke
 - crew: ?
 - crew: ?
 
