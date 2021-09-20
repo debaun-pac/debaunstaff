@@ -26,22 +26,9 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 - staff: ?
 
-*Fridays ~ 10:30am setup / 11am - 1pm classes*
+*Fridays ~ 11:30am setup / 12pm - 1pm class*
 
 - staff: Mat
-
-
-### fri 17 sep / LeadHERship conference keynote
-*2pm call / 4pm event start / 6pm load-out*
-
-We’re hosting the opening keynote of the LeadHERship conference, which will be Dr. Mona Hannah Attisha in conversation with Dr. Kevin Ryan. The stage will be set with podium and interview-style seating (with or without ferns) and mics for Dr. Attisha and Dr. Ryan.
-
-There will be a brief tech run-through the day before (Thursday at noon) to ensure that the video streaming is working properly, that you are welcome (but not obliged) to attend.
-
-- stage manager: Luke
-- sound op: Mat
-- house manager: Alison
-- usher: Kian
 
 
 ### wed 22 sep / convocation at Palmer Lawn [revised date]
@@ -54,10 +41,10 @@ This year 638 Event Management will he handling the technical support for convoc
 - crew: ?
 
 
-### sat 25 sep / freshman family weekend: Nariman’s address and alumni panel
-*8:30am call / 10am Nariman’s address / 10:45am alumni panel / 11:30am load-out*
+### sat 25 sep / freshman family weekend: Nariman’s address and other presentation sessions
+*8:30am call / 10am Nariman’s address / 11:30am presentation / 12:30pm presentation / 12:30am load-out*
 
-Our contribution to FFW this year is to host the President’s morning welcome address and a brief alumni panel. This is a podium and powerpoint event.
+Our contribution to FFW this year is to host the President’s morning welcome address and two presentations. This is a podium and powerpoint event.
 
 - stage manager: Mat
 - sound op: Carl
