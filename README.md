@@ -32,7 +32,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 
 ### wed 22 sep / convocation at Palmer Lawn [revised date]
-*1pm call / 3:30pm start / 5pm load-out*
+*2pm call / 3:30pm start / 5pm load-out*
 
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics. Please meet at Palmer Lawn at call time.
 
@@ -55,7 +55,7 @@ Our contribution to FFW this year is to host the President’s morning welcome a
 
 
 ### wed 6 oct / dean's lecture
-*2pm call / 3pm event / 5pm end
+*2pm call / 3pm event / 5pm end*
 
 This should be a straightforward lecture, presented by the School of Engineering.
 
