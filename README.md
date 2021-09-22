@@ -29,7 +29,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: Mat
 
 
-### wed 22 sep / convocation at Palmer Lawn [revised date]
+### wed 22 sep / convocation at Canavan Arena
 *2pm call / 3:30pm start / 5pm load-out*
 
 This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics. Please meet at Palmer Lawn at call time.
