@@ -1,6 +1,6 @@
 ## DeBaun PAC Student Staff
 
-You should always be able to find the most resent version of this page at <https://debaun-pac.github.io/debaunstaff/>. We’ll hopefully have a friendlier URL pointer shortly.
+You should always be able to find the most resent version of this page at <https://debaun-pac.github.io/debaunstaff/>. Eventually, IT may be able to give us a friendlier URL pointer.
 
 Normally Shawna wrangles the student staff, but for now, email Carl <crussell@stevens.edu> to sign up for any of the events below that match your interests and availability, and I’ll add you to the roster. Once confirmed, just show up at the listed call time, and we’ll get started.
 
@@ -8,8 +8,6 @@ If you have any questions or concerns about the gig or about what the roles will
 
 If you’re new to the DeBaun PAC crew, feel free to sign up for events even if the roles are filled, as we’ll have you shadow someone who has performed the role before, so you can see how we operate. You’ll catch on quickly.
 
-The first few events listed occur during orientation, and some of you may not be on campus yet. No worries. Do jump in once you land on campus.
-In addition to the listed events, we’ll schedule crew calls and staff training, dates and times to be announced.
 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
