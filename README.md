@@ -29,18 +29,8 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: Mat
 
 
-### wed 22 sep / convocation at Canavan Arena
-*2pm call / 3:30pm start / 5pm load-out*
-
-This year 638 Event Management will he handling the technical support for convocation, and we’ll be responsible for ushering and general logistics. Please meet at Palmer Lawn at call time.
-
-- crew: Luke
-- crew: ?
-- crew: ?
-
-
 ### sat 25 sep / freshman family weekend: Nariman’s address and other presentation sessions
-*8:30am call / 10am Nariman’s address / 11:30am presentation / 12:30pm presentation / 12:30am load-out*
+*9am call / 10am Nariman’s address / 11:30am presentation / 12:30pm presentation / 12:30am load-out*
 
 Our contribution to FFW this year is to host the President’s morning welcome address and two presentations. This is a podium and powerpoint event.
 
