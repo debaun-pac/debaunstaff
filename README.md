@@ -24,37 +24,13 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 - staff: ?
 
-*Fridays ~ 11:30am setup / 12pm - 1pm class*
-
-- staff: Mat
 
 
-### sat 25 sep / freshman family weekend: Nariman’s address and other presentation sessions
-*9am call / 10am Nariman’s address / 11:30am presentation / 12:30pm presentation / 12:30am load-out*
-
-Our contribution to FFW this year is to host the President’s morning welcome address and two presentations. This is a podium and powerpoint event.
-
-- stage manager: Mat
-- sound op: Carl
-- house manager: Kera
-- usher: Luke
-- usher: Kiera
-- usher: ?
 
 
-### wed 6 oct / dean's lecture
-*2pm call / 3pm event / 5pm end*
+### loft exit and backstage reorganization crew calls
+*Thu & Fri, 14/15 Oct 1-6pm*
 
-This should be a straightforward lecture, presented by the School of Engineering.
+Stop by when you are able, to help with the final days of the loft exit and the subsequent backstage reorganizaiton. Wear sensible shoes and clothing and bring your caffineated selves backstage, as there is plenty to do.
 
-- stage manager: ?
-- sound op: ?
-- house manager: ?
-- usher: ?
-
-
-### POSTPONED ~ fri 15 oct / Entertainment Committee comedian
-*evening performance*
-
-I'll post details once EC reschedules
 
