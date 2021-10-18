@@ -25,12 +25,145 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
+### Stevens Dramatic Society Performances
+
+*11/12/13 Nov*
+
+DeBaun PAC staff is not typically required for these performances. If you are inclined to get involved with SDS (which I can certainly recommend), do contact them directly.
 
 
+### Instrument Shift Across Campus
 
-### loft exit and backstage reorganization crew calls
-*Thu & Fri, 14/15 Oct 1-6pm*
+*Thu 18 Nov ~ afternoon crew call*
 
-Stop by when you are able, to help with the final days of the loft exit and the subsequent backstage reorganizaiton. Wear sensible shoes and clothing and bring your caffineated selves backstage, as there is plenty to do.
+This is the day we will be shifting the departmental instruments from the Music Room to DeBaun Auditorium, for the Orchestra, Concert Band, and Jazz Band. It's a fair bit of gear, so all available hands are requested.
+
+- staff: ?
+- staff: ?
+- staff: ?
+- staff: ?
+- staff: ?
+- staff: ?
+
+
+### Voice Recital
+
+*Fri 19 Nov ~ evening recital*
+
+Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, present their work each semester. This event is usually held in the Ondrick Music Room, and further details will be shared as we finalize them.
+
+- staff: ?
+- staff: ?
+
+
+### Orchestra Performance
+
+*Fri 19 Nov ~ evening dress rehearsal*
+*Sat 20 Nov ~ afternoon rehearsal / evening performance*
+
+We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of thw sort here. More details will arrive shortly.
+
+
+### Phi Sig Lip Sync
+
+*Mon, 22 Nov ~ 3:30pm load-in / evening event*
+
+As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our best to gather technical details in advance and provide lighting, sound, and organizational support. Further details will be shared as they materialize.
+
+- stage manager: ?
+- stage crew: ?
+- lighting op: ?
+- sound op: ?
+- house manager: ?
+- usher: ?
+- usher: ?
+
+
+### Orchestra Performance
+
+*Fri 19 Nov ~ evening dress rehearsal*
+*Sat 20 Nov ~ evening performance*
+
+We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+
+
+## Crew Call ~ set up for Concert Band rehearsal
+
+*Tue 23 Nov ~ afternoon crew call*
+
+Concert Band will be rehearsing at the theater on the Sunday after Thanksgiving, so we'll need to set up the stage for them in advance.
+
+- staff: ?
+- staff: ?
+- staff: ?
+- staff: ?
+
+
+### Tree Lighting
+
+*Tue 30 Nov ~ afternoon setup / evening event*
+
+We will handle some of the sound and lighting support for the annual tree lighting event, at Babbio and perhaps Walker porch as well. We'll have more information shortly.
+
+
+### Conversation with the President
+
+*Wed 1 Dec ~ 2pm setup / 3pm event / 4:30pm breakdown*
+
+Nariman will be presenting to the Stevens community at the theater. The event is largely technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
+
+- stage manager: ?
+- sound op: ? (not a good event for inexperienced sound ops)
+- house manager: ?
+- usher: ?
+- usher: ?
+
+
+### Crew Call ~ Quick Stage Changeover
+
+*Wed 1 Dec ~ 4:30pm crew call*
+
+Immediately after Nariman's presentation, we'll need to quickly set up for this evening's Jazz Band rehearsal.
+
+- staff: ?
+- staff: ?
+- staff: ?
+- staff: ?
+
+
+### Concert Band Performance
+
+*Fri 3 Dec ~ evening dress rehearsal*
+*Sat 4 Dec ~ evening performance*
+
+We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+
+
+### Jazz Band Performance
+
+*Wed 8 Nov ~ evening dress rehearsal*
+*Fri 10 Nov ~ evening performance*
+
+We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+
+
+### Choir Performance
+
+*Mon 6 Nov ~ evening dress rehearsal*
+*Thu 9 Nov ~ evening dress rehearsal*
+*Sat 11 Nov ~ evening performance*
+
+We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+
+
+### finals
+
+*11-21 Dec*
+
+
+### winter break
+
+*23 Dec - 2 Jan*
+
 
 
