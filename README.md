@@ -87,7 +87,7 @@ As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our 
 We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
 
 
-## Crew Call ~ set up for Concert Band rehearsal
+### Crew Call ~ set up for Concert Band rehearsal
 
 *Tue 23 Nov ~ afternoon crew call*
 
