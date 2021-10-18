@@ -25,14 +25,14 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### Stevens Dramatic Society Performances
+### Stevens Dramatic Society performances
 
 *11/12/13 Nov*
 
 DeBaun PAC staff is not typically required for these performances. If you are inclined to get involved with SDS (which I can certainly recommend), do contact them directly.
 
 
-### Instrument Shift Across Campus
+### instrument shift across campus
 
 *Thu 18 Nov ~ afternoon crew call*
 
@@ -46,7 +46,7 @@ This is the day we will be shifting the departmental instruments from the Music 
 - staff: ?
 
 
-### Voice Recital
+### Voice Studio recital
 
 *Fri 19 Nov ~ evening recital*
 
@@ -56,7 +56,7 @@ Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, presen
 - staff: ?
 
 
-### Orchestra Performance
+### Orchestra performance
 
 *Fri 19 Nov ~ evening dress rehearsal*
 *Sat 20 Nov ~ afternoon rehearsal / evening performance*
@@ -79,7 +79,7 @@ As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our 
 - usher: ?
 
 
-### Orchestra Performance
+### Orchestra performance
 
 *Fri 19 Nov ~ evening dress rehearsal*
 *Sat 20 Nov ~ evening performance*
@@ -87,7 +87,7 @@ As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our 
 We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
 
 
-### Crew Call ~ set up for Concert Band rehearsal
+### crew call ~ set up for Concert Band rehearsal
 
 *Tue 23 Nov ~ afternoon crew call*
 
@@ -119,7 +119,7 @@ Nariman will be presenting to the Stevens community at the theater. The event is
 - usher: ?
 
 
-### Crew Call ~ Quick Stage Changeover
+### crew call ~ quick stage changeover
 
 *Wed 1 Dec ~ 4:30pm crew call*
 
@@ -131,7 +131,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 - staff: ?
 
 
-### Concert Band Performance
+### Concert Band performance
 
 *Fri 3 Dec ~ evening dress rehearsal*
 *Sat 4 Dec ~ evening performance*
@@ -139,7 +139,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
 
 
-### Jazz Band Performance
+### Jazz Band performance
 
 *Wed 8 Nov ~ evening dress rehearsal*
 *Fri 10 Nov ~ evening performance*
@@ -147,7 +147,7 @@ We're still sorting out exactly how this will look, depending on Stevens safety 
 We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
 
 
-### Choir Performance
+### Choir performance
 
 *Mon 6 Nov ~ evening dress rehearsal*
 *Thu 9 Nov ~ evening dress rehearsal*
