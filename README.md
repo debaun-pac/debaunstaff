@@ -131,7 +131,7 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 - staff: ?
 
 
-### Shakespeare (Midsummer Night's Dream) auditions
+### Shakespeare (A Midsummer Night's Dream) auditions
 
 *Tue 7 Dec ~ 6:30pm start / 9:45pm end*
 
