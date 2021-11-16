@@ -39,7 +39,7 @@ This is the day we will be shifting the departmental instruments from the Music 
 - staff: ?
 
 
-### Voice Studio recital
+### Voice Studio recital (live invited audience)
 
 *Fri 19 Nov ~ 6pm set up / 7pm recital*
 
@@ -49,7 +49,7 @@ Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, presen
 - usher / video camera op: ?
 
 
-### Orchestra performance (recording)
+### Orchestra performance (recording session)
 
 *Fri 19 Nov ~ afternoon set up / 6pm-ish recording*
 
@@ -152,9 +152,9 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
 
 - stage manager: ?
+- house manager: ?
 - sound recording op: ?
 - video recording op: ?
-- house manager: ?
 
 
 ### finals
@@ -162,10 +162,7 @@ The Stevens Choir has been deconstructed into smaller units, for safe rehearsal 
 *11-21 Dec*
 
 
-
 ### winter break
 
 *23 Dec - 2 Jan*
-
-
 
