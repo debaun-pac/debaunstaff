@@ -18,6 +18,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 *Mondays ~ 8:30am setup / 9am - 3pm classes*
 
+- staff: Mat (1-3pm)
 - staff: ?
 
 *Wednesdays ~ 8:30am setup / 9am - 2pm classes*
