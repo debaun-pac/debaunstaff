@@ -156,11 +156,11 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 
 ### Choir performance (live audience)
 
-*Mon 6 Dec ~ evening dress rehearsal*
+*Mon 6 Dec ~ 6:30pm dress rehearsal*
 
-*Thu 9 Dec ~ evening dress rehearsal*
+*Thu 9 Dec ~ 6:30pm dress rehearsal*
 
-*Sat 11 Dec ~ evening performance*
+*Sat 11 Dec ~ 6:30pm call / 8pm performance*
 
 The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
 
