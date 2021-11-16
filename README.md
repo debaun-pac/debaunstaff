@@ -25,18 +25,11 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### Stevens Dramatic Society performances
-
-*11/12/13 Nov*
-
-DeBaun PAC staff is not typically required for these performances. If you are inclined to get involved with SDS (which I can certainly recommend), do contact them directly.
-
-
 ### instrument shift across campus
 
-*Thu 18 Nov ~ afternoon crew call*
+*Thu 18 Nov ~ noon crew call*
 
-This is the day we will be shifting the departmental instruments from the Music Room to DeBaun Auditorium, for the Orchestra, Concert Band, and Jazz Band. It's a fair bit of gear, so all available hands are requested.
+This is the day we will be shifting the departmental instruments from the Music Room to DeBaun Auditorium, for the Orchestra, Concert Band, and Jazz Band. It's a fair bit of gear, so all available hands are requested. Best to gather at the Music Room, to grab our department's percussion, amps and music folders, to roll them (gently) across campus to the theater. Gear can be put directly on stage. We'll repeat this cycle as necessary. 
 
 - staff: ?
 - staff: ?
@@ -48,20 +41,23 @@ This is the day we will be shifting the departmental instruments from the Music 
 
 ### Voice Studio recital
 
-*Fri 19 Nov ~ evening recital*
+*Fri 19 Nov ~ 6pm set up / 7pm recital*
 
-Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, present their work each semester. This event is usually held in the Ondrick Music Room, and further details will be shared as we finalize them.
+Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, present their work each semester. This event is held in the Ondrick Music Room, which we spiff up a bit for the night. Ushers are needed from about 6-8pm, but we'll set up the video recording mid-afternoon, for anyone interested in keeping an eye on the camera for the performance.
+
+- usher: ?
+- usher / video camera op: ?
+
+
+### Orchestra performance (recording)
+
+*Fri 19 Nov ~ afternoon set up / 6pm-ish recording*
+
+In a last-minute adjustment, the Stevens Orchestra has asked to perform at the theater, without a live audience, in order to spread out further into the space, which will allow the entire gang to safely perform together. We'll make both audio and video recordings of the gig. Based on the musician's availability, their usual Friday evening dress rehearsal slot is a better recording date.
 
 - staff: ?
 - staff: ?
-
-
-### Orchestra performance
-
-*Fri 19 Nov ~ evening dress rehearsal*
-*Sat 20 Nov ~ afternoon rehearsal / evening performance*
-
-We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of thw sort here. More details will arrive shortly.
+- staff: ?
 
 
 ### Phi Sig Lip Sync
@@ -77,14 +73,6 @@ As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our 
 - house manager: ?
 - usher: ?
 - usher: ?
-
-
-### Orchestra performance
-
-*Fri 19 Nov ~ evening dress rehearsal*
-*Sat 20 Nov ~ evening performance*
-
-We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
 
 
 ### crew call ~ set up for Concert Band rehearsal
@@ -110,7 +98,7 @@ We will handle some of the sound and lighting support for the annual tree lighti
 
 *Wed 1 Dec ~ 2pm setup / 3pm event / 4:30pm breakdown*
 
-Nariman will be presenting to the Stevens community at the theater. The event is largely technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
+Nariman will be presenting to the Stevens community at the theater. The event is technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
 
 - stage manager: ?
 - sound op: ? (not a good event for inexperienced sound ops)
@@ -131,34 +119,48 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 - staff: ?
 
 
-### Concert Band performance
+### Concert Band performance (recording sessions)
 
-*Fri 3 Dec ~ evening dress rehearsal*
-*Sat 4 Dec ~ evening performance*
+*Fri 3 Dec ~ evening recording*
+*Sat 4 Dec ~ evening recording*
 
-We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
-
-### Jazz Band performance
-
-*Wed 8 Nov ~ evening dress rehearsal*
-*Fri 10 Nov ~ evening performance*
-
-We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+- staff: ?
+- staff: ?
+- staff: ?
 
 
-### Choir performance
+### Jazz Band performance (recording sessions)
+
+*Wed 8 Nov ~ evening recording*
+*Fri 10 Nov ~ evening recording*
+
+The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
+
+- staff: ?
+- staff: ?
+- staff: ?
+
+
+### Choir performance (live audience)
 
 *Mon 6 Nov ~ evening dress rehearsal*
 *Thu 9 Nov ~ evening dress rehearsal*
 *Sat 11 Nov ~ evening performance*
 
-We're still sorting out exactly how this will look, depending on Stevens safety guidance, but we will be presenting something of this sort here. More details will arrive shortly.
+The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
+
+- stage manager: ?
+- sound recording op: ?
+- video recording op: ?
+- house manager: ?
 
 
 ### finals
 
 *11-21 Dec*
+
 
 
 ### winter break
