@@ -122,6 +122,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 ### Concert Band performance (recording sessions)
 
 *Fri 3 Dec ~ evening recording*
+
 *Sat 4 Dec ~ evening recording*
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
@@ -143,6 +144,7 @@ We'll need someone to staff the audition table, taking information from audition
 ### Jazz Band performance (recording sessions)
 
 *Wed 8 Dec ~ evening recording*
+
 *Fri 10 Dec ~ evening recording*
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
@@ -155,7 +157,9 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 ### Choir performance (live audience)
 
 *Mon 6 Dec ~ evening dress rehearsal*
+
 *Thu 9 Dec ~ evening dress rehearsal*
+
 *Sat 11 Dec ~ evening performance*
 
 The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
