@@ -26,73 +26,16 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### instrument shift across campus
-
-*Thu 18 Nov ~ noon crew call*
-
-This is the day we will be shifting the departmental instruments from the Music Room to DeBaun Auditorium, for the Orchestra, Concert Band, and Jazz Band. It's a fair bit of gear, so all available hands are requested. Best to gather at the Music Room, to grab our department's percussion, amps and music folders, to roll them (gently) across campus to the theater. Gear can be put directly on stage. We'll repeat this cycle as necessary. 
-
-- staff: ?
-- staff: ?
-- staff: ?
-- staff: ?
-- staff: ?
-- staff: ?
-
-
-### Voice Studio recital (live invited audience)
-
-*Fri 19 Nov ~ 6pm set up / 7pm recital*
-
-Students in the DeBaun PAC Voice Studio, under Bethany Reeves' direction, present their work each semester. This event is held in the Ondrick Music Room, which we spiff up a bit for the night. Ushers are needed from about 6-8pm, but we'll set up the video recording mid-afternoon, for anyone interested in keeping an eye on the camera for the performance.
-
-- usher: ?
-- usher / video camera op: ?
-
-
-### Orchestra performance (recording session)
-
-*Fri 19 Nov ~ afternoon set up / 6pm-ish recording*
-
-In a last-minute adjustment, the Stevens Orchestra has asked to perform at the theater, without a live audience, in order to spread out further into the space, which will allow the entire gang to safely perform together. We'll make both audio and video recordings of the gig. Based on the musician's availability, their usual Friday evening dress rehearsal slot is a better recording date.
-
-- staff: ?
-- staff: ?
-- staff: ?
-
-
 ### Phi Sig Lip Sync
 
-*Mon, 22 Nov ~ 3:30pm load-in / evening event*
+*Mon, 22 Nov ~ 3:30pm non-tech rehearsal / 7pm call / 8pm event*
 
 As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our best to gather technical details in advance and provide lighting, sound, and organizational support. Further details will be shared as they materialize.
 
 - stage manager: ?
-- stage crew: ?
-- lighting op: ?
-- sound op: ?
+- sound op: Gab
 - house manager: ?
 - usher: ?
-- usher: ?
-
-
-### crew call ~ set up for Concert Band rehearsal
-
-*Tue 23 Nov ~ afternoon crew call*
-
-Concert Band will be rehearsing at the theater on the Sunday after Thanksgiving, so we'll need to set up the stage for them in advance.
-
-- staff: ?
-- staff: ?
-- staff: ?
-- staff: ?
-
-
-### Tree Lighting
-
-*Tue 30 Nov ~ afternoon setup / evening event*
-
-We will handle some of the sound and lighting support for the annual tree lighting event, at Babbio and perhaps Walker porch as well. We'll have more information shortly.
 
 
 ### Conversation with the President
@@ -102,9 +45,8 @@ We will handle some of the sound and lighting support for the annual tree lighti
 Nariman will be presenting to the Stevens community at the theater. The event is technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
 
 - stage manager: ?
-- sound op: ? (not a good event for inexperienced sound ops)
+- sound op: Gab
 - house manager: ?
-- usher: ?
 - usher: ?
 
 
@@ -128,7 +70,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
-- staff: ?
+- staff: Gab
 - staff: ?
 - staff: ?
 
@@ -150,7 +92,7 @@ We'll need someone to staff the audition table, taking information from audition
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
-- staff: ?
+- staff: Gab
 - staff: ?
 - staff: ?
 
@@ -167,7 +109,7 @@ The Stevens Choir has been deconstructed into smaller units, for safe rehearsal 
 
 - stage manager: ?
 - house manager: ?
-- sound recording op: ?
+- sound recording op: Gab
 - video recording op: ?
 
 
