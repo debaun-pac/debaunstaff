@@ -81,7 +81,7 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 
 We'll need someone to staff the audition table, taking information from auditionees and distributing sides to those wishing to audition. We can probably make this work, even if you intend to audition yourself.
 
-- staff: ?
+- staff: Gab
 
 
 ### Jazz Band performance (recording sessions)
