@@ -32,7 +32,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our best to gather technical details in advance and provide lighting, sound, and organizational support. Further details will be shared as they materialize.
 
-- stage manager: ?
+- stage manager: Luke
 - sound op: Gab
 - house manager: ?
 - usher: ?
@@ -44,7 +44,7 @@ As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our 
 
 Nariman will be presenting to the Stevens community at the theater. The event is technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
 
-- stage manager: ?
+- stage manager: Luke
 - sound op: Gab
 - house manager: ?
 - usher: ?
@@ -71,7 +71,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
 - staff: Gab
-- staff: ?
+- staff: Luke
 - staff: ?
 
 
