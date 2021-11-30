@@ -26,18 +26,6 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### Phi Sig Lip Sync
-
-*Mon, 22 Nov ~ 3:30pm non-tech rehearsal / 7pm call / 8pm event*
-
-As titled, this is a Lip Sync contest that Phi Sig hosts annually. We'll do our best to gather technical details in advance and provide lighting, sound, and organizational support. Further details will be shared as they materialize.
-
-- stage manager: Luke
-- sound op: Gab
-- house manager: ?
-- usher: ?
-
-
 ### Conversation with the President
 
 *Wed 1 Dec ~ 2pm setup / 3pm event / 4:30pm breakdown*
@@ -56,8 +44,8 @@ Nariman will be presenting to the Stevens community at the theater. The event is
 
 Immediately after Nariman's presentation, we'll need to quickly set up for this evening's Jazz Band rehearsal.
 
-- staff: ?
-- staff: ?
+- staff: Eden
+- staff: Luke
 - staff: ?
 - staff: ?
 
@@ -71,7 +59,7 @@ Immediately after Nariman's presentation, we'll need to quickly set up for this 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
 - staff: Gab
-- staff: Luke
+- staff: ?
 - staff: ?
 
 
@@ -93,7 +81,7 @@ We'll need someone to staff the audition table, taking information from audition
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
 - staff: Gab
-- staff: ?
+- staff: Luke
 - staff: ?
 
 
