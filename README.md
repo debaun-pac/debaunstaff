@@ -34,7 +34,7 @@ Nariman will be presenting to the Stevens community at the theater. The event is
 
 - stage manager: Luke
 - sound op: Gab
-- house manager: ?
+- house manager: Eden (2:15-ish)
 - usher: ?
 
 
