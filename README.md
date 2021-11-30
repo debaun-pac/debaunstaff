@@ -94,9 +94,9 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
 
 - stage manager: ?
-- house manager: ?
+- house manager: Kera
 - sound recording op: Gab
-- video recording op: ?
+- video recording op: Carl
 
 
 ### finals
