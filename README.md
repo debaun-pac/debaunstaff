@@ -60,7 +60,6 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 
 - staff: Gab
 - staff: ?
-- staff: ?
 
 
 ### Shakespeare (A Midsummer Night's Dream) auditions
@@ -82,7 +81,6 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 
 - staff: Gab
 - staff: Luke
-- staff: ?
 
 
 ### Choir performance (live audience)
