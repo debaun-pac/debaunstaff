@@ -26,39 +26,15 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### Conversation with the President
-
-*Wed 1 Dec ~ 2pm setup / 3pm event / 4:30pm breakdown*
-
-Nariman will be presenting to the Stevens community at the theater. The event is technically straightforward, but the audience tends to be sizable for these events, so we'll need a few folks to support this.
-
-- stage manager: Luke
-- sound op: Gab
-- house manager: Eden (2:15-ish)
-- usher: ?
-
-
-### crew call ~ quick stage changeover
-
-*Wed 1 Dec ~ 4:30pm crew call*
-
-Immediately after Nariman's presentation, we'll need to quickly set up for this evening's Jazz Band rehearsal.
-
-- staff: Eden
-- staff: Luke
-- staff: ?
-- staff: ?
-
-
 ### Concert Band performance (recording sessions)
 
-*Fri 3 Dec ~ evening recording*
+*Fri 3 Dec ~ 6pm setup / 7pm recording start*
 
-*Sat 4 Dec ~ evening recording*
+*Sat 4 Dec ~ 6pm setup / 7pm recording start*
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
-- staff: Gab
+- staff: Gab (Fri)
 - staff: ?
 
 
@@ -73,9 +49,9 @@ We'll need someone to staff the audition table, taking information from audition
 
 ### Jazz Band performance (recording sessions)
 
-*Wed 8 Dec ~ evening recording*
+*Wed 8 Dec ~ 6pm setup / 7pm recording start*
 
-*Fri 10 Dec ~ evening recording*
+*Fri 10 Dec ~ 6pm setup / 7pm recording start*
 
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
@@ -93,7 +69,7 @@ The Stevens Bands will be performing without a live audience this fall, to be ab
 
 The Stevens Choir has been deconstructed into smaller units, for safe rehearsal and performance, and will perform sequestially, to a live audience. The sound and video recording ops would ideally also be availble for the Mon/Thu dress rehearsals to set recording levels and adjust mics as needed. Stage Manager and House Manager are only needed for the Saturday performance.
 
-- stage manager: ?
+- stage manager: Eden
 - house manager: Kera
 - sound recording op: Gab
 - video recording op: Carl
