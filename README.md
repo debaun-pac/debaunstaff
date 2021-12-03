@@ -35,7 +35,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
 
 - staff: Gab (Fri)
-- staff: ?
+- staff: Luke (Sat)
 
 
 ### Shakespeare (A Midsummer Night's Dream) auditions
