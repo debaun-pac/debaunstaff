@@ -26,18 +26,6 @@ These classes require light A/V support. We're looking for consistent weekly sta
 - staff: ?
 
 
-### Concert Band performance (recording sessions)
-
-*Fri 3 Dec ~ 6pm setup / 7pm recording start*
-
-*Sat 4 Dec ~ 6pm setup / 7pm recording start*
-
-The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
-
-- staff: Gab (Fri)
-- staff: Luke (Sat)
-
-
 ### Shakespeare (A Midsummer Night's Dream) auditions
 
 *Tue 7 Dec ~ 6:30pm start / 9:45pm end*
