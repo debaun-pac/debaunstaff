@@ -32,7 +32,7 @@ These classes require light A/V support. We're looking for consistent weekly sta
 
 We'll need someone to staff the audition table, taking information from auditionees and distributing sides to those wishing to audition. We can probably make this work, even if you intend to audition yourself.
 
-- staff: Gab
+- staff: Mat
 
 
 ### Jazz Band performance (recording sessions)
