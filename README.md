@@ -12,28 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### recurring weekly classes in the theater
-
-These classes require light A/V support. We're looking for consistent weekly staff that can sign up for a block of at least a few hours, to keep the scheduling from becoming too terribly complicated.
-
-*Mondays ~ 8:30am setup / 9am - 3pm classes*
-
-- staff: Mat (1-3pm)
-- staff: ?
-
-*Wednesdays ~ 8:30am setup / 9am - 2pm classes*
-
-- staff: ?
-
-
-### Shakespeare (A Midsummer Night's Dream) auditions
-
-*Tue 7 Dec ~ 6:30pm start / 9:45pm end*
-
-We'll need someone to staff the audition table, taking information from auditionees and distributing sides to those wishing to audition. We can probably make this work, even if you intend to audition yourself.
-
-- staff: Mat
-
 
 ### Jazz Band performance (recording sessions)
 
