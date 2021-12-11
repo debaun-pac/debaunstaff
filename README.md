@@ -13,18 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Jazz Band performance (recording sessions)
-
-*Wed 8 Dec ~ 6pm setup / 7pm recording start*
-
-*Fri 10 Dec ~ 6pm setup / 7pm recording start*
-
-The Stevens Bands will be performing without a live audience this fall, to be able to spread out further into the theater, keeping a safe distance between performers. Both evenings will be recorded and mixed together in post.
-
-- staff: Gab
-- staff: Luke
-
-
 ### Choir performance (live audience)
 
 *Mon 6 Dec ~ 6:30pm dress rehearsal*
