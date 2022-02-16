@@ -21,7 +21,7 @@ This is billed as a fraternity/sorority beauty pageant philanthropy gig with str
 
 - stage manager: ?
 - light op: ?
-- sound op: ?
+- sound op: Mat
 - usher: ?
 - usher: ?
 - usher: ?
@@ -35,7 +35,7 @@ BSU is bringing an acrobatic troupe to our stage.
 
 - stage manager: ?
 - light op: ?
-- sound op: ?
+- sound op: Mat
 - usher: ?
 - usher: ?
 - usher: ?
@@ -60,7 +60,7 @@ Dr. Eric Rose, of Stevens Counseling & Psychological Services, is bringing an in
 The top vocalists in the DeBaun PAC Voice Studio perform on our stage.
 
 - stage manager: ?
-- sound op: ?
+- sound op: Mat
 - usher: ?
 
 
@@ -73,7 +73,7 @@ We'll host the collaboration of EC, AEC, and WCPR, and the Battle of the Bands. 
 - stage manager: ?
 - stage crew: ?
 - light op: ?
-- sound op: ?
+- sound op: Mat
 - usher: ?
 - usher: ?
 - usher: ?
@@ -88,7 +88,7 @@ The semi-annual campus-wide talent show and competition returns, live, to the st
 - stage manager: ?
 - stage crew: ?
 - light op: ?
-- sound op: ?
+- sound op: Mat
 - usher: ?
 - usher: ?
 
