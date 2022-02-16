@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 This is billed as a fraternity/sorority beauty pageant philanthropy gig with straightforward technical support.
 
-- stage manager: ?
+- stage manager: Gab
 - light op: Keira
 - sound op: Mat
 - usher: ?
@@ -33,7 +33,7 @@ This is billed as a fraternity/sorority beauty pageant philanthropy gig with str
 
 BSU is bringing an acrobatic troupe to our stage.
 
-- stage manager: ?
+- stage manager: Gab
 - light op: ?
 - sound op: Mat
 - usher: ?
@@ -48,7 +48,7 @@ BSU is bringing an acrobatic troupe to our stage.
 Dr. Eric Rose, of Stevens Counseling & Psychological Services, is bringing an invited speaker our stage.
 
 - stage manager: ?
-- sound op: ?
+- sound op: Gab
 - usher: ?
 - usher: ?
 
@@ -59,7 +59,7 @@ Dr. Eric Rose, of Stevens Counseling & Psychological Services, is bringing an in
 
 The top vocalists in the DeBaun PAC Voice Studio perform on our stage.
 
-- stage manager: ?
+- stage manager: Gab
 - sound op: Mat
 - usher: ?
 
@@ -70,7 +70,7 @@ The top vocalists in the DeBaun PAC Voice Studio perform on our stage.
 
 We'll host the collaboration of EC, AEC, and WCPR, and the Battle of the Bands. Technical details to follow shortly, as we'll work with the various groups.
 
-- stage manager: ?
+- stage manager: Gab
 - stage crew: ?
 - light op: ?
 - sound op: Mat
@@ -85,7 +85,7 @@ We'll host the collaboration of EC, AEC, and WCPR, and the Battle of the Bands. 
 
 The semi-annual campus-wide talent show and competition returns, live, to the stage. Technical details to come soon.
 
-- stage manager: ?
+- stage manager: Gab
 - stage crew: ?
 - light op: ?
 - sound op: Mat
