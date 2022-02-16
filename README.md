@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 This is billed as a fraternity/sorority beauty pageant philanthropy gig with straightforward technical support.
 
 - stage manager: ?
-- light op: ?
+- light op: Keira
 - sound op: Mat
 - usher: ?
 - usher: ?
