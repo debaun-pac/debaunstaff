@@ -13,19 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Alpha Phi Pageant
-
-*Fri 18 Feb ~ 5pm call / 7-9:30pm event*
-
-This is billed as a fraternity/sorority beauty pageant philanthropy gig with straightforward technical support.
-
-- stage manager: Gab
-- light op: Keira
-- sound op: Mat
-- usher: ?
-- usher: ?
-- usher: ?
-
 
 ### BSU / ZuZu African Acrobats
 
@@ -47,9 +34,9 @@ BSU is bringing an acrobatic troupe to our stage.
 
 Dr. Eric Rose, of Stevens Counseling & Psychological Services, is bringing an invited speaker our stage.
 
-- stage manager: ?
+- stage manager: Mat
 - sound op: Gab
-- usher: ?
+- usher: Keira
 - usher: ?
 
 
