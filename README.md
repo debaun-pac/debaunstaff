@@ -21,11 +21,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 BSU is bringing an acrobatic troupe to our stage.
 
 - stage manager: Gab
-- light op: ?
+- light op: Shawna (if needed) 
 - sound op: Mat
-- usher: ?
-- usher: ?
-- usher: ?
+- usher: Kiera
+- usher: Luke
+- usher: Kian
 
 
 ### Stevens CAPS Invited Speaker
