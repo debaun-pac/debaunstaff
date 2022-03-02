@@ -14,31 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### BSU / ZuZu African Acrobats
-
-*Fri 25 Feb ~ 6pm call / 6:30pm talent arrival / 8pm performance and Q&A*
-
-BSU is bringing an acrobatic troupe to our stage.
-
-- stage manager: Gab
-- light op: Shawna (if needed) 
-- sound op: Mat
-- usher: Kiera
-- usher: Luke
-- usher: Kian
-
-
-### Stevens CAPS Invited Speaker
-
-*Sun 27 Feb ~ 6pm call / 7-8:30pm speaker*
-
-Dr. Eric Rose, of Stevens Counseling & Psychological Services, is bringing an invited speaker our stage.
-
-- stage manager: Mat
-- sound op: Gab
-- usher: Keira
-- usher: ?
-
 
 ### Honors Voice Recital
 
