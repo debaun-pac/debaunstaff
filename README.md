@@ -33,8 +33,8 @@ We'll host the collaboration of EC, AEC, and WCPR, and the Battle of the Bands. 
 
 - stage manager: Gab
 - sound op: Mat
-- usher: ?
-- usher: ?
+- usher: Corey
+- usher: Eden
 - usher: ?
 
 
