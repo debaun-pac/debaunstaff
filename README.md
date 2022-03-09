@@ -14,30 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Honors Voice Recital
-
-*Fri 4 Mar ~ 6pm call / 8pm performance*
-
-The top vocalists in the DeBaun PAC Voice Studio perform on our stage.
-
-- stage manager: Gab
-- sound op: Mat
-- usher: ?
-
-
-### EC Battle of the Bands
-
-*Sat 5 Mar ~ 4pm call / 7:30pm show. House staff called at 6:30pm*
-
-We'll host the collaboration of EC, AEC, and WCPR, and the Battle of the Bands. Technical details to follow shortly, as we'll work with the various groups.
-
-- stage manager: Gab
-- sound op: Mat
-- usher: Corey
-- usher: Eden
-- usher: ?
-
-
 ### Ducks on Display
 
 *Wed 9 Mar ~ 7:30pm call / 9pm show*
@@ -46,7 +22,7 @@ The semi-annual campus-wide talent show and competition returns, live, to the st
 
 - stage manager: Gab
 - stage crew: ?
-- light op: ?
+- light op: Shawna
 - sound op: Mat
 - usher: ?
 - usher: ?
