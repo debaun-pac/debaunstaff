@@ -22,21 +22,21 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Box Office: ?
 
 ### She Loves Me
-*Friday, Apri1 1. Call Time: 6:30pm/8pm Performance*
+*Friday, April 1. Call Time: 6:30pm/8pm Performance*
 
 - Usher: ?
 - Usher: ?
 - Box Office: ?
 
 ### She Loves Me
-*Saturday, Apri1 2. Call Time: 12:30pm/2pm Performance*
+*Saturday, April 2. Call Time: 12:30pm/2pm Performance*
 
 - Usher: ?
 - Usher: ?
 - Box Office: ?
 
 ### She Loves Me
-*Saturday, Apri1 2. Call Time: 6:30pm/8pm Performance*
+*Saturday, April 2. Call Time: 6:30pm/8pm Performance*
 
 - Usher: ?
 - Usher: ?
