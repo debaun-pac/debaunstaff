@@ -14,20 +14,33 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Ducks on Display
+### She Loves Me
+*Thursday, March 31. Call Time: 7:30pm/9pm Performance*
 
-*Wed 9 Mar ~ 7:30pm call / 9pm show*
+- Usher: ?
+- Usher: ?
+- Box Office: ?
 
-The semi-annual campus-wide talent show and competition returns, live, to the stage. Technical details to come soon.
+### She Loves Me
+*Friday, Apri1 1. Call Time: 6:30pm/8pm Performance*
 
-- stage manager: Gab
-- stage crew: ?
-- light op: Shawna
-- sound op: Mat
-- usher: ?
-- usher: ?
+- Usher: ?
+- Usher: ?
+- Box Office: ?
 
+### She Loves Me
+*Saturday, Apri1 2. Call Time: 12:30pm/2pm Performance*
 
+- Usher: ?
+- Usher: ?
+- Box Office: ?
+
+### She Loves Me
+*Saturday, Apri1 2. Call Time: 6:30pm/8pm Performance*
+
+- Usher: ?
+- Usher: ?
+- Box Office: ?
 
 
 
