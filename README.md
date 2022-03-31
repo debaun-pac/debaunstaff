@@ -42,5 +42,20 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Usher: ?
 - Box Office: ?
 
+### Athletics Guest Speaker: Hudson Taylor
+*Wednesday, April 6. Call Time: 7:30pm/9pm Event
+
+- Stage Manager: 
+- Sound Op: 
+- House Manager: 
+- Usher: 
+- Usher:
+
+### Instrument Move & Orchestra Set up
+*Thursday, April 7. Call Time: TBA
+
+- staff
+- staff
+
 
 
