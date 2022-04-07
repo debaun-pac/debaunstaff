@@ -25,10 +25,9 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 ### Instrument Move & Orchestra Set up
-*Thursday, April 7. Call Time: TBA*
+*Friday, April 8. Call Time: TBA*
 
-- staff:
-- staff:
+Facilties is helping us with this instrument shift, but we'll yell if it suddenly needs additional labor thrown at it.
 
 
 ### Voice Recital (Music Room)
@@ -42,7 +41,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Friday, April 8. Call Time: 6pm for 6:30-9pm Rehearsal*
 -set levels for recording
 
-- Sound Op: 
+- Sound Op: Gab
 
 
 ### Orchestra Concert
@@ -50,8 +49,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
-- Usher: 
+- Sound Op: Gab
 
 
 
