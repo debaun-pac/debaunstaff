@@ -37,7 +37,7 @@ Facilties is helping us with this instrument shift, but we'll yell if it suddenl
 ### Orchestra Concert
 *Saturday, April 9. Call Time: 6:30pm/8pm Concert*
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: Gab
 
