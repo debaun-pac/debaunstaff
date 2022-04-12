@@ -39,7 +39,7 @@ Set levels for recording
 - Stage Manager: Mat
 - House Manager: 
 - Sound Op: Gab
-- Usher: 
+- Usher: JJ
 
 
 ### Choir Rehearsal and Concert
@@ -65,7 +65,7 @@ Set levels for recording
 ### Undergrad Awards Ceremony 
 *Wednesday, April 27. Call Time: 4:30pm for 6pm Event*
 
-- Stage Manager: 
+- Stage Manager: JJ
 - House Manager: 
 - Sound Op: Mat
 - Usher: 
@@ -76,7 +76,7 @@ Set levels for recording
 
 *Quick changeover to Concert Band afterward
 
-- Stage Manager: 
+- Stage Manager: JJ
 - House Manager: 
 - Sound Op: Mat
 - Usher:
@@ -94,7 +94,7 @@ Set levels for recording
 *Saturday, April 30. Call Time: 6:30pm for 8pm Concert*
 
 - Stage Manager: Mat
-- House Manager:
+- House Manager: JJ
 - Sound Op: Gab
 - Usher:
 
