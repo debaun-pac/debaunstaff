@@ -14,33 +14,123 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Instrument Move & Orchestra Set up
-*Friday, April 8. Call Time: TBA*
+### Conversation With The President
+*Wednesday, April 20. Call Time: 1:30pm for 3-4:30pm Event*
 
-Facilties is helping us with this instrument shift, but we'll yell if it suddenly needs additional labor thrown at it.
-
-
-### Voice Recital (Music Room)
-*Friday, April 8. Call Time: 6:30pm/8pm Event*
--Help set up the music room for the voice recital and work as usher
-
-- Staff:
-
-
-### Orchestra Dress Rehearsal 
-*Friday, April 8. Call Time: 6pm for 6:30-9pm Rehearsal*
--set levels for recording
-
-- Sound Op: Gab
-
-
-### Orchestra Concert
-*Saturday, April 9. Call Time: 6:30pm/8pm Concert*
-
-- Stage Manager: Luke
+- Stage Manager: 
 - House Manager: 
-- Sound Op: Gab
+- Sound Op: 
+- Usher:
 
+
+### Jazz Band Dress Rehearsal
+*Wednesday, April 20. Call Time: 6pm for 6:30-9:30 Rehearsal*
+
+Set levels for recording 
+
+- Sound Op: 
+
+
+### Jazz Band Performance
+*Friday, April 22. Call Time: 6:30pm for 8-10pm Concert*
+
+*Set up for choir afterward
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+### Choir Rehearsal and Concert
+*Saturday, April 23. Rehearsal Time: TBA, Call Time: 6:30pm for 8pm Concert*
+
+*Set up Concert Band afterward
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+### Stevens A Cappella Showcase
+*Tuesday, April 26. Call Time: TBA*
+
+- Stage Manager:
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+### Undergrad Awards Ceremony 
+*Wednesday, April 27. Call Time: 4:30pm for 6pm Event*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+### Innovation Expo 
+*Friday, April 29. Call Time: TBA*
+
+*Quick changeover to Concert Band afterward
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher:
+
+
+### Concert Band Dress Rehearsal
+*Friday, April 29. Call Time: 5:30 for 6:30pm Dress Rehearsal*
+
+* Help with stage change and set levels for recording
+
+- Sound Op: 
+
+
+### Concert Band Performance
+*Saturday, April 30. Call Time: 6:30pm for 8pm Concert*
+
+- Stage Manager: 
+- House Manager:
+- Sound Op: 
+- Usher:
+
+### Athletics Awards Event 
+*Tuesday, May 3. Call Time: 7:30pm for 9pm Event*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+### Senior Instrumental Recital 
+*Wednesday, May 4. Call Time: 6:30pm for 8pm Recital*
+
+- Stage Manager:
+- House Manager: 
+- Usher: 
+
+
+### Music & Tech Recital 
+*Friday, May 6. Times TBA*
+
+- Stage Manager:
+- House Manager: 
+- Light Op: 
+- Usher: 
+
+
+### Grad Awards
+*Monday, May 23. Call Time: 4:30pm for 6pm Event*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher: 
 
 
 
