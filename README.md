@@ -17,9 +17,9 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Conversation With The President
 *Wednesday, April 20. Call Time: 1:30pm for 3-4:30pm Event*
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op: 
+- Sound Op: Gab
 - Usher:
 
 
@@ -28,7 +28,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 Set levels for recording 
 
-- Sound Op: 
+- Sound Op: Gab
 
 
 ### Jazz Band Performance
@@ -36,9 +36,9 @@ Set levels for recording
 
 *Set up for choir afterward
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op: 
+- Sound Op: Gab
 - Usher: 
 
 
@@ -47,18 +47,18 @@ Set levels for recording
 
 *Set up Concert Band afterward
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op: 
+- Sound Op: Gab
 - Usher: 
 
 
 ### Stevens A Cappella Showcase
 *Tuesday, April 26. Call Time: TBA*
 
-- Stage Manager:
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op: 
+- Sound Op: Gab
 - Usher: 
 
 
@@ -67,7 +67,7 @@ Set levels for recording
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Mat
 - Usher: 
 
 
@@ -78,7 +78,7 @@ Set levels for recording
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Mat
 - Usher:
 
 
@@ -87,39 +87,39 @@ Set levels for recording
 
 * Help with stage change and set levels for recording
 
-- Sound Op: 
+- Sound Op: Gab
 
 
 ### Concert Band Performance
 *Saturday, April 30. Call Time: 6:30pm for 8pm Concert*
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager:
-- Sound Op: 
+- Sound Op: Gab
 - Usher:
 
 ### Athletics Awards Event 
 *Tuesday, May 3. Call Time: 7:30pm for 9pm Event*
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op: 
+- Sound Op: Gab
 - Usher: 
 
 
 ### Senior Instrumental Recital 
 *Wednesday, May 4. Call Time: 6:30pm for 8pm Recital*
 
-- Stage Manager:
-- House Manager: 
+- Stage Manager:Gab
+- House Manager: Mat
 - Usher: 
 
 
 ### Music & Tech Recital 
 *Friday, May 6. Times TBA*
 
-- Stage Manager:
-- House Manager: 
+- Stage Manager: Gab
+- House Manager: Mat
 - Light Op: 
 - Usher: 
 
@@ -127,9 +127,9 @@ Set levels for recording
 ### Grad Awards
 *Monday, May 23. Call Time: 4:30pm for 6pm Event*
 
-- Stage Manager: 
+- Stage Manager: Mat
 - House Manager: 
-- Sound Op:
+- Sound Op: Gab
 - Usher: 
 
 
