@@ -43,7 +43,7 @@ Set levels for recording
 
 
 ### Choir Rehearsal and Concert
-*Saturday, April 23. Rehearsal Time: TBA, Call Time: 6:30pm for 8pm Concert*
+*Saturday, April 23. Rehearsal Time: 1:30pm, Call Time: 6:30pm for 8pm Concert*
 
 *Set up Concert Band afterward
 
