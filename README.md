@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Stage Manager: Mat
 - House Manager: 
 - Sound Op: Gab
-- Usher:
+- Usher: Luke
 
 
 ### Jazz Band Dress Rehearsal
@@ -37,7 +37,7 @@ Set levels for recording
 *Set up for choir afterward
 
 - Stage Manager: Mat
-- House Manager: 
+- House Manager: Luke
 - Sound Op: Gab
 - Usher: JJ
 
@@ -57,7 +57,7 @@ Set levels for recording
 *Tuesday, April 26. Call Time: TBA*
 
 - Stage Manager: Mat
-- House Manager: 
+- House Manager: Luke?
 - Sound Op: Gab
 - Usher: 
 
@@ -77,7 +77,7 @@ Set levels for recording
 *Quick changeover to Concert Band afterward
 
 - Stage Manager: JJ
-- House Manager: 
+- House Manager: Luke?
 - Sound Op: Mat
 - Usher:
 
@@ -96,13 +96,13 @@ Set levels for recording
 - Stage Manager: Mat
 - House Manager: JJ
 - Sound Op: Gab
-- Usher:
+- Usher: Luke
 
 ### Athletics Awards Event 
 *Tuesday, May 3. Call Time: 7:30pm for 9pm Event*
 
 - Stage Manager: Mat
-- House Manager: 
+- House Manager: Luke
 - Sound Op: Gab
 - Usher: 
 
