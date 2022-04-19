@@ -18,9 +18,9 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Wednesday, April 20. Call Time: 1:30pm for 3-4:30pm Event*
 
 - Stage Manager: Mat
-- House Manager: 
-- Sound Op: Gab
-- Usher: Luke
+- House Manager: Luke
+- Sound Op: Carl
+- Usher: ?
 
 
 ### Jazz Band Dress Rehearsal
