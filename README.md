@@ -14,23 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Conversation With The President
-*Wednesday, April 20. Call Time: 1:30pm for 3-4:30pm Event*
-
-- Stage Manager: Mat
-- House Manager: Luke
-- Sound Op: Carl
-- Usher: ?
-
-
-### Jazz Band Dress Rehearsal
-*Wednesday, April 20. Call Time: 6pm for 6:30-9:30 Rehearsal*
-
-Set levels for recording 
-
-- Sound Op: Gab
-
-
 ### Jazz Band Performance
 *Friday, April 22. Call Time: 6:30pm for 8-10pm Concert*
 
@@ -104,7 +87,7 @@ Set levels for recording
 - Stage Manager: Mat
 - House Manager: Luke
 - Sound Op: Gab
-- Usher: 
+- Usher: Kera
 
 
 ### Senior Instrumental Recital 
@@ -112,7 +95,7 @@ Set levels for recording
 
 - Stage Manager:Gab
 - House Manager: Mat
-- Usher: 
+- Usher: Kera
 
 
 ### Music & Tech Recital 
@@ -121,7 +104,7 @@ Set levels for recording
 - Stage Manager: Gab
 - House Manager: Mat
 - Light Op: 
-- Usher: 
+- Usher: Kera
 
 
 ### Grad Awards
