@@ -37,7 +37,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 ### Stevens A Cappella Showcase
-*Tuesday, April 26. Call Time: TBA*
+*Tuesday, April 26. Call Time: 6:30pm for 8pm Event*
 
 - Stage Manager: Mat
 - House Manager: Luke?
@@ -55,7 +55,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 ### Innovation Expo 
-*Friday, April 29. Call Time: TBA*
+*Friday, April 29. Call Time: 1:30pm for 3-4:30pm Event*
 
 *Quick changeover to Concert Band afterward
 
