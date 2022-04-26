@@ -14,33 +14,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Jazz Band Performance
-*Friday, April 22. Call Time: 6:30pm for 8-10pm Concert*
-
-*Set up for choir afterward
-
-- Stage Manager: Mat
-- House Manager: Luke
-- Sound Op: Gab
-- Usher: JJ
-
-
-### Choir Rehearsal and Concert
-*Saturday, April 23. Rehearsal Time: 1:30pm, Call Time: 6:30pm for 8pm Concert*
-
-*Set up Concert Band afterward
-
-- Stage Manager: Mat
-- House Manager: 
-- Sound Op: Gab
-- Usher: 
-
-
 ### Stevens A Cappella Showcase
 *Tuesday, April 26. Call Time: 6:30pm for 8pm Event*
 
 - Stage Manager: Mat
-- House Manager: Luke?
+- House Manager: Luke
 - Sound Op: Gab
 - Usher: 
 
@@ -70,15 +48,15 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 * Help with stage change and set levels for recording
 
-- Sound Op: Gab
+- Sound Op: Mat
 
 
 ### Concert Band Performance
 *Saturday, April 30. Call Time: 6:30pm for 8pm Concert*
 
-- Stage Manager: Mat
+- Stage Manager: Shawna
 - House Manager: JJ
-- Sound Op: Gab
+- Sound Op: Mat
 - Usher: Luke
 
 ### Athletics Awards Event 
