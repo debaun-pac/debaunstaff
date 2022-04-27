@@ -14,15 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Stevens A Cappella Showcase
-*Tuesday, April 26. Call Time: 6:30pm for 8pm Event*
-
-- Stage Manager: Mat
-- House Manager: Luke
-- Sound Op: Gab
-- Usher: 
-
-
 ### Undergrad Awards Ceremony 
 *Wednesday, April 27. Call Time: 4:30pm for 6pm Event*
 
