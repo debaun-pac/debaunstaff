@@ -72,15 +72,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Gab
 - House Manager: Mat
+- Sound Op: Carl
 - Light Op: 
-- Usher: Kera
+- Usher: Kera, Liz
 
 
 ### Grad Awards
 *Monday, May 23. Call Time: 4:30pm for 6pm Event*
 
 - Stage Manager: Mat
-- House Manager: 
+- House Manager: Liz
 - Sound Op: Gab
 - Usher: 
 
