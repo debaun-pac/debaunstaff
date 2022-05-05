@@ -14,66 +14,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Undergrad Awards Ceremony 
-*Wednesday, April 27. Call Time: 4:30pm for 6pm Event*
-
-- Stage Manager: JJ
-- House Manager: 
-- Sound Op: Mat
-- Usher: 
-
-
-### Innovation Expo 
-*Friday, April 29. Call Time: 1:30pm for 3-4:30pm Event*
-
-*Quick changeover to Concert Band afterward
-
-- Stage Manager: JJ
-- House Manager: Luke?
-- Sound Op: Mat
-- Usher:
-
-
-### Concert Band Dress Rehearsal
-*Friday, April 29. Call Time: 5:30 for 6:30pm Dress Rehearsal*
-
-* Help with stage change and set levels for recording
-
-- Sound Op: Mat
-
-
-### Concert Band Performance
-*Saturday, April 30. Call Time: 6:30pm for 8pm Concert*
-
-- Stage Manager: Shawna
-- House Manager: JJ
-- Sound Op: Mat
-- Usher: Luke
-
-### Athletics Awards Event 
-*Tuesday, May 3. Call Time: 7:30pm for 9pm Event*
-
-- Stage Manager: Mat
-- House Manager: Luke
-- Sound Op: Gab
-- Usher: Kera
-
-
-### Senior Instrumental Recital 
-*Wednesday, May 4. Call Time: 6:30pm for 8pm Recital*
-
-- Stage Manager:Gab
-- House Manager: Mat
-- Usher: Kera
-
-
 ### Music & Tech Recital 
-*Friday, May 6. Times TBA*
+*Friday, May 6. Call Time: 6:30pm Event Time: 7:30pm
 
 - Stage Manager: Gab
 - House Manager: Mat
 - Sound Op: Carl
-- Light Op: 
+- Light Op: JJ
 - Usher: Kera, Liz
 
 
