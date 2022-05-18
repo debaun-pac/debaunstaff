@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Stage Manager: Mat
 - House Manager: Liz
 - Sound Op: Gab
-- Usher: 
+- Usher: Eden
 
 
 ### Alumni Recital 
