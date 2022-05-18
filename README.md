@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Music & Tech Recital 
-*Friday, May 6. Call Time: 6:30pm Event Time: 7:30pm
-
-- Stage Manager: Gab
-- House Manager: Mat
-- Sound Op: Carl
-- Light Op: JJ
-- Usher: Kera, Liz
-
-
 ### Grad Awards
 *Monday, May 23. Call Time: 4:30pm for 6pm Event*
 
@@ -33,5 +22,39 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Usher: 
 
 
+### Alumni Recital 
+*Saturday, June 11. Call Time: 6pm. Event Time: 7-9:30pm*
+
+- Sound Op:
+- House Manager: 
+
+### Hudson School Moving Up Ceremony
+*Thursday, June 16. Call Time: 12pm. Event Time: 1-3pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
 
 
+### Hudson School Graduation
+*Friday, June 17. Call Time: 3pm. Event Time: 4-6pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+### Sinatra Idol (Rain Location)
+*-This event will only occur if it rains the day of the event*
+*Thursday, June 23. Call Time: TBA. Event Time: TBA*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+
+
+### Mauritius Performances
+*Friday, July 15 @ 8pm*
+*Saturday, July 16 @ 2pm and 8pm*
+
+- More info TBA 
