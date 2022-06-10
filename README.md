@@ -13,14 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Grad Awards
-*Monday, May 23. Call Time: 4:30pm for 6pm Event*
-
-- Stage Manager: Mat
-- House Manager: Liz
-- Sound Op: Gab
-- Usher: Eden
-
 
 ### Alumni Recital 
 *Saturday, June 11. Call Time: 6pm. Event Time: 7-9:30pm*
@@ -31,16 +23,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Hudson School Moving Up Ceremony
 *Thursday, June 16. Call Time: 12pm. Event Time: 1-3pm*
 
-- Stage Manager: 
-- House Manager: 
+- Stage Manager: JJ
+- House Manager: Shawna
 - Sound Op: 
 
 
 ### Hudson School Graduation
 *Friday, June 17. Call Time: 3pm. Event Time: 4-6pm*
 
-- Stage Manager: 
-- House Manager: 
+- Stage Manager: JJ
+- House Manager: Corey
 - Sound Op: 
 
 
