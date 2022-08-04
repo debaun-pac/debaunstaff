@@ -12,7 +12,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-**Orientation Events
+**Orientation Events**
 
 *Tuesday, August 30*
 
