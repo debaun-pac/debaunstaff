@@ -32,7 +32,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Say What? Presentation - Call Time: 11:15am. Event Time: 11:30am - 12:30pm**
 - House Manager:
-- Stage Manager: 
+- Stage Manager: Eden
 - Sound Op: 
 - Usher: 
 - Usher:
@@ -40,7 +40,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Sexual Assault Prevention - Call Time: 12:30pm. Event Time: 1pm - 2pm**
 - House Manager:
-- Stage Manager: 
+- Stage Manager: Eden
 - Sound Op: 
 - Usher: 
 - Usher:
@@ -48,7 +48,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Sexual Assault Prevention - Call Time: 2pm. Event Time: 2:15pm - 3:15pm**
 - House Manager:
-- Stage Manager: 
+- Stage Manager: Eden
 - Sound Op: 
 - Usher: 
 - Usher:
@@ -56,7 +56,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Sexual Assault Prevention - Call Time: 3:15pm. Event Time: 3:30pm - 4:30pm**
 - House Manager:
-- Stage Manager: 
+- Stage Manager: Eden
 - Sound Op: 
 - Usher: 
 - Usher:
