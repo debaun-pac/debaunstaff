@@ -15,7 +15,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Orientation Events - *Tuesday, August 30***
 
 **Say What? Presentation - Call Time: 7:30am. Event Time: 9am - 10am**
-- House Manager:
+- House Manager: Kera
 - Stage Manager: 
 - Sound Op: 
 - Usher: 
@@ -23,7 +23,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 **Say What? Presentation - Call Time: 10am. Event Time: 10:15am - 11:15am**
-- House Manager:
+- House Manager: Kera
 - Stage Manager: 
 - Sound Op: 
 - Usher: 
@@ -31,7 +31,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 **Say What? Presentation - Call Time: 11:15am. Event Time: 11:30am - 12:30pm**
-- House Manager:
+- House Manager: Kera
 - Stage Manager: Eden
 - Sound Op: 
 - Usher: 
