@@ -15,6 +15,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Wednesday, Sept. 7**
 
 **Convocation**
+
 *Location: Canavan Arena, Call Time: 2:30pm, Event Time: 3-5pm*
 
 -Usher: Luke
