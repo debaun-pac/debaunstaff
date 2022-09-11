@@ -12,17 +12,31 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-**Wednesday, Sept. 7**
+**Friday, Sept. 23**
 
-**Convocation**
+**Here I Go Again Performance**
 
-*Location: Canavan Arena, Call Time: 2:30pm, Event Time: 3-5pm*
+*Call Time: 6:30pm, Event Time: 8pm*
 
--Usher: Luke
+-House Manager: 
+
+-Usher: 
+
+-Box Office Manager: 
+
+
+
+**Saturday, Sept. 24**
+
+**Here I Go Again Performance**
+
+*Call Time: 6:30pm, Event Time: 8pm*
+
+-House Manager: 
 
 -Usher: 
 
--Usher: 
+-Box Office Manager: 
 
 
 
