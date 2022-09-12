@@ -24,6 +24,10 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 -Box Office Manager: 
 
+- Spot Op: 
+
+- Spot Op:
+
 
 
 **Saturday, Sept. 24**
@@ -38,5 +42,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 -Box Office Manager: 
 
+- Spot Op: 
+
+- Spot Op:
 
 
