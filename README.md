@@ -26,16 +26,26 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Usher: 
 
 
-
 **Friday, Nov. 18**
 
 **Orchestra Dress Rehearsal**
-
-*Call Time: 6pm, Rehearsal Time: 6:30pm*
+Note - Preferably the same staff for the rehearsal and concert. 
+*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
 - Stage Manager: 
 - Sound Op: 
 
+
+**Saturday, Nov. 19**
+
+**Orchestra Concert**
+
+*Call Time: 6:30pm Concert Time: 8pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher:
 
 
 
