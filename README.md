@@ -31,6 +31,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Orchestra Dress Rehearsal**
 
 Note - Preferably the same staff for the rehearsal and concert. 
+
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
 - Stage Manager: 
