@@ -12,38 +12,21 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-**Friday, Sept. 23**
+**Friday, Oct. 21**
 
-**Here I Go Again Performance**
+**Phantom of the Opera**
 
-*Call Time: 6:30pm, Event Time: 8pm*
-
-- House Manager: 
-
-- Usher: 
-
-- Box Office Manager: 
-
-- Spot Op: 
-
-- Spot Op:
-
-
-
-**Saturday, Sept. 24**
-
-**Here I Go Again Performance**
-
-*Call Time: 6:30pm, Event Time: 8pm*
+*Call Time: 6pm, Event Time: 8pm*
 
 - House Manager: 
-
+- Stage Manager: 
+- Sound Op: 
+- Usher: 
+- Usher: 
 - Usher: 
 
-- Box Office Manager: Luke
 
-- Spot Op: 
 
-- Spot Op:
+
 
 
