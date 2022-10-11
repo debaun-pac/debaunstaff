@@ -52,9 +52,9 @@ Note - Preferably the same staff for the rehearsal and concert.
 **Thursday, Nov. 30**
 
 **Christmas Tree Lighting**
-- Setup and run audio support for performances
 
 *Call Time: 5pm, Event Time: 7pm
+- Setup and run audio support for performances
 
 - Staff: 
 
