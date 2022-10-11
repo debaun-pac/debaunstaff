@@ -49,8 +49,99 @@ Note - Preferably the same staff for the rehearsal and concert.
 - Sound Op:
 - Usher:
 
+**Thursday, Nov. 30**
+
+**Christmas Tree Lighting**
+- Setup and run audio support for performances
+
+*Call Time: 5pm, Event Time: 7pm
+
+- Staff: 
+
+
+**Friday, Dec. 2**
+
+**Concert Band Dress Rehearsal**
+Note - Preferably the same staff for the rehearsal and concert. 
+
+*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
+
+- Stage Manager: 
+- Sound Op: 
+
+
+**Saturday, Dec. 3**
+
+**Concert Band Concert**
+
+*Call Time: 6:30pm, Concert Time: 8pm*
+-Set up for choir afterward.
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher:
+
+
+**Tuesday, Dec. 6**
+
+**Phi Sig Lip Sync**
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager: 
+- House Manager:
+- Sound Op: 
+- Light Op: 
+- Usher: 
+
+**Wednesday, Dec. 7**
+
+**Jazz Band Dress Rehearsal**
+Note - Preferably the same staff for the rehearsal and concert. 
+
+*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
+
+- Stage Manager: 
+- Sound Op: 
+
+
+**Friday, Dec. 9**
+
+**Jazz Band Concert**
+
+*Call Time: 5:30pm, Concert Time: 7pm*
+-Set up for Choir afterward
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher:
+
+**Saturday, Dec. 10**
+
+**Choir Dress Rehearsal**
+
+*Call Time: TBA*
+
+- Stage Manager: 
+- Sound Op: 
 
 
 
+**Choir Concert**
+
+*Call Time: 6:30pm, Concert Time: 8pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher:
+
+
+**Thursday, Dec. 22**
+
+*Call Time: 9pm*
+**Enjoy your winter recess**
 
 
