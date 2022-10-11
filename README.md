@@ -142,6 +142,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 **Thursday, Dec. 22**
 
 *Call Time: 9pm*
+
 **Enjoy your winter recess**
 
 
