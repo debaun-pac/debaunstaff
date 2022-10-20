@@ -35,7 +35,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
 - Stage Manager: 
-- Sound Op: 
+- Sound Op: Luke
 
 
 **Saturday, Nov. 19**
@@ -46,7 +46,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op:
+- Sound Op: Luke
 - Usher:
 
 **Thursday, Nov. 30**
@@ -56,7 +56,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 5pm, Event Time: 7pm
 - Setup and run audio support for performances
 
-- Staff: 
+- Staff: Luke?
 
 
 **Friday, Dec. 2**
@@ -67,7 +67,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
 - Stage Manager: 
-- Sound Op: 
+- Sound Op: Luke?
 
 
 **Saturday, Dec. 3**
@@ -79,7 +79,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op:
+- Sound Op: Luke?
 - Usher:
 
 
