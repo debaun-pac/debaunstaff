@@ -12,19 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-**Friday, Oct. 21**
-
-**Phantom of the Opera**
-
-*Call Time: 6pm, Event Time: 8pm*
-
-- House Manager: Eden
-- Stage Manager: 
-- Sound Op: 
-- Usher: 
-- Usher: 
-- Usher: 
-
 
 **Friday, Nov. 18**
 
@@ -45,7 +32,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6:30pm Concert Time: 8pm*
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: Shawna
 - Sound Op: Luke
 - Usher:
 
@@ -66,8 +53,8 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
-- Stage Manager: 
-- Sound Op: Luke?
+- Stage Manager: Shawna
+- Sound Op: 
 
 
 **Saturday, Dec. 3**
@@ -77,9 +64,9 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6:30pm, Concert Time: 8pm*
 -Set up for choir afterward.
 
-- Stage Manager: 
+- Stage Manager: Shawna
 - House Manager: 
-- Sound Op: Luke?
+- Sound Op: 
 - Usher:
 
 
@@ -92,7 +79,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 - Stage Manager: 
 - House Manager:
 - Sound Op: 
-- Light Op: 
+- Light Op: Luke?
 - Usher: 
 
 **Wednesday, Dec. 7**
@@ -102,8 +89,8 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
-- Stage Manager: 
-- Sound Op: 
+- Stage Manager: Luke
+- Sound Op: Carl
 
 
 **Friday, Dec. 9**
@@ -114,8 +101,8 @@ Note - Preferably the same staff for the rehearsal and concert.
 -Set up for Choir afterward
 
 - Stage Manager: 
-- House Manager: 
-- Sound Op:
+- House Manager: Luke
+- Sound Op: Carl
 - Usher:
 
 **Saturday, Dec. 10**
@@ -125,7 +112,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: TBA*
 
 - Stage Manager: 
-- Sound Op: 
+- Sound Op: Carl
 
 
 
@@ -135,8 +122,18 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op:
+- Sound Op: Carl
 - Usher:
+
+
+**Thursday, Dec. 15**
+
+**Music & Tech Fall Recital**
+
+*Call Time: TBA, Concert Time: TBA*
+
+- House Manager: 
+
 
 
 **Thursday, Dec. 22**
