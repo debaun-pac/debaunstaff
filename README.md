@@ -13,39 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-**Friday, Nov. 18**
-
-**Orchestra Dress Rehearsal**
-
-Note - Preferably the same staff for the rehearsal and concert. 
-
-*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
-
-- Stage Manager: 
-- Sound Op: Luke
-
-
-**Saturday, Nov. 19**
-
-**Orchestra Concert**
-
-*Call Time: 6:30pm Concert Time: 8pm*
-
-- Stage Manager: 
-- House Manager: Shawna
-- Sound Op: Luke
-- Usher:
-
-**Thursday, Nov. 30**
-
-**Christmas Tree Lighting**
-
-*Call Time: 5pm, Event Time: 7pm
-- Setup and run audio support for performances
-
-- Staff: Luke?
-
-
 **Friday, Dec. 2**
 
 **Concert Band Dress Rehearsal**
@@ -54,7 +21,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
 
 - Stage Manager: Shawna
-- Sound Op: 
+- Sound Op: Carl
 
 
 **Saturday, Dec. 3**
@@ -65,9 +32,8 @@ Note - Preferably the same staff for the rehearsal and concert.
 -Set up for choir afterward.
 
 - Stage Manager: Shawna
-- House Manager: 
-- Sound Op: 
-- Usher:
+- Box Ofice: Carl
+- Usher: Manasi Haldankar and Bhavi Kavedia
 
 
 **Tuesday, Dec. 6**
@@ -78,7 +44,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 - Stage Manager: 
 - House Manager:
-- Sound Op: 
+- Sound Op: Carl
 - Light Op: Luke?
 - Usher: 
 
