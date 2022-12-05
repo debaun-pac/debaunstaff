@@ -13,40 +13,18 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-**Friday, Dec. 2**
-
-**Concert Band Dress Rehearsal**
-Note - Preferably the same staff for the rehearsal and concert. 
-
-*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
-
-- Stage Manager: Shawna
-- Sound Op: Carl
-
-
-**Saturday, Dec. 3**
-
-**Concert Band Concert**
-
-*Call Time: 6:30pm, Concert Time: 8pm*
--Set up for choir afterward.
-
-- Stage Manager: Shawna
-- Box Ofice: Carl
-- Usher: Manasi Haldankar and Bhavi Kavedia
-
 
 **Tuesday, Dec. 6**
 
 **Phi Sig Lip Sync**
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 7pm, Event Time: 9pm*
 
-- Stage Manager: 
-- House Manager:
+- Stage Manager: Shawna
+- House Manager: JJ
 - Sound Op: Carl
-- Light Op: Luke?
-- Usher: 
+- Light Op: Luke
+- Ushers: Liam & Evan
 
 **Wednesday, Dec. 7**
 
@@ -66,7 +44,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 5:30pm, Concert Time: 7pm*
 -Set up for Choir afterward
 
-- Stage Manager: 
+- Stage Manager: Shawna
 - House Manager: Luke
 - Sound Op: Carl
 - Usher:
@@ -86,7 +64,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 *Call Time: 6:30pm, Concert Time: 8pm*
 
-- Stage Manager: 
+- Stage Manager: Evan
 - House Manager: 
 - Sound Op: Carl
 - Usher:
