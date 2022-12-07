@@ -14,18 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Tuesday, Dec. 6**
-
-**Phi Sig Lip Sync**
-
-*Call Time: 7pm, Event Time: 9pm*
-
-- Stage Manager: Shawna
-- House Manager: JJ
-- Sound Op: Carl
-- Light Op: Luke
-- Ushers: Liam & Evan
-
 **Wednesday, Dec. 7**
 
 **Jazz Band Dress Rehearsal**
@@ -47,7 +35,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 - Stage Manager: Shawna
 - House Manager: Luke
 - Sound Op: Carl
-- Usher:
+- Usher: Kera
 
 **Saturday, Dec. 10**
 
@@ -76,7 +64,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 *Call Time: TBA, Concert Time: TBA*
 
-- House Manager: 
+- House Manager: Kera
 
 
 
