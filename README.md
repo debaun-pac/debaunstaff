@@ -52,7 +52,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Music & Tech Fall Recital**
 
-*Call Time: TBA, Concert Time: TBA*
+*Call Time: 6:30pm, Concert Time: 7:30pm
 
 - House Manager: Kera
 
