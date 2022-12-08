@@ -14,16 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Wednesday, Dec. 7**
-
-**Jazz Band Dress Rehearsal**
-Note - Preferably the same staff for the rehearsal and concert. 
-
-*Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm*
-
-- Stage Manager: Luke
-- Sound Op: Carl
-
 
 **Friday, Dec. 9**
 
@@ -32,8 +22,8 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 5:30pm, Concert Time: 7pm*
 -Set up for Choir afterward
 
-- Stage Manager: Shawna
-- House Manager: Luke
+- Stage Manager: Luke
+- House Manager/Box Office: Shawna
 - Sound Op: Carl
 - Usher: Kera
 
@@ -41,7 +31,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 
 **Choir Dress Rehearsal**
 
-*Call Time: TBA*
+*Call Time: 2pm
 
 - Stage Manager: 
 - Sound Op: Carl
@@ -53,7 +43,7 @@ Note - Preferably the same staff for the rehearsal and concert.
 *Call Time: 6:30pm, Concert Time: 8pm*
 
 - Stage Manager: Evan
-- House Manager: 
+- House Manager/Box Office: Shawna
 - Sound Op: Carl
 - Usher:
 
