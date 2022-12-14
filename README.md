@@ -14,40 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-
-**Friday, Dec. 9**
-
-**Jazz Band Concert**
-
-*Call Time: 5:30pm, Concert Time: 7pm*
--Set up for Choir afterward
-
-- Stage Manager: Luke
-- House Manager/Box Office: Shawna
-- Sound Op: Carl
-- Usher: Kera
-
-**Saturday, Dec. 10**
-
-**Choir Dress Rehearsal**
-
-*Call Time: 2pm
-
-- Stage Manager: 
-- Sound Op: Carl
-
-
-
-**Choir Concert**
-
-*Call Time: 6:30pm, Concert Time: 8pm*
-
-- Stage Manager: Evan
-- House Manager/Box Office: Shawna
-- Sound Op: Carl
-- Usher:
-
-
 **Thursday, Dec. 15**
 
 **Music & Tech Fall Recital**
@@ -55,6 +21,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 6:30pm, Concert Time: 7:30pm
 
 - House Manager: Kera
+- Usher: Evan
 
 
 
