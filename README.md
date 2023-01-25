@@ -70,7 +70,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - House Manager: Corey
 - Light Op: 
 - Sound Op: 
-- Usher: 
+- Usher: Luke
 
 
 **Saturday, Feb. 18**
@@ -127,7 +127,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Recital Time: 8pm*
 
 - House Manager: 
-- Usher: 
+- Usher: Luke
 
 
 **Wednesday, March 8**
