@@ -67,7 +67,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 6:30pm, Performance: 8pm*
 
 - Box Office Clerk: 
-- House Manager: 
+- House Manager: Corey
 - Light Op: 
 - Sound Op: 
 - Usher: 
