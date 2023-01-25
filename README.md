@@ -14,21 +14,135 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Thursday, Dec. 15**
+**Thursday, Feb. 2**
 
-**Music & Tech Fall Recital**
+**Eddie Allen Aggregation**
 
-*Call Time: 6:30pm, Concert Time: 7:30pm*
+*Call Time: 5:30pm, Concert Time: 7:00pm - 8:30pm*
 
-- House Manager: Kera
-- Usher: Evan
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+**Tuesday, Feb. 14**
+
+**Romeo & Juliet Tech/Dress Run** 
+
+*Call Time: 8:45pm, Tech Run: 9:15pm*
+* Must be available for tech and performances below.
+
+- Light Op: 
+- Sound Op:
+
+
+**Wednesday, Feb. 15**
+
+**Romeo & Juliet Tech/Dress Run** 
+
+*Call Time: 8:45pm, Tech Run: 9:15pm*
+
+- Light Op: 
+- Sound Op:
+
+
+**Thursday, Feb. 16**
+
+**Romeo & Juliet Performance**
+
+*Call Time: 7:30pm, Performance: 9pm*
+
+- Box Office Clerk: 
+- House Manager: 
+- Light Op: 
+- Sound Op: 
+- Usher: 
+
+
+**Friday, Feb. 17**
+
+**Romeo & Juliet Performance**
+
+*Call Time: 6:30pm, Performance: 8pm*
+
+- Box Office Clerk: 
+- House Manager: 
+- Light Op: 
+- Sound Op: 
+- Usher: 
+
+
+**Saturday, Feb. 18**
+
+**Romeo & Juliet Performance**
+
+*Call Time: 12:30pm, Performance: 2pm*
+
+- Box Office Clerk:
+- House Manager: 
+- Light Op: 
+- Sound Op: 
+- Usher: 
+
+
+**Friday, Feb. 24**
+
+**NJFO Opera: Gianni Schicchi**
+
+*Call Time: 6:30pm, Performance: 8pm*
+
+- House Manager: 
+- Usher: 
+- Usher: 
+
+
+**Monday, Feb. 27**
+
+**CAPS Speaker**
+
+*Call Time: 7pm, Event Time: 8pm*
+
+- Stage Manager: 
+- House Manager:
+- Sound Op: 
+- Usher: 
+
+
+**Thursday, March 2**
+
+**Music & Tech Faculty Concert**
+
+*Call Time: 5:30pm/6pm, Concert Time: 7pm*
+
+- Stage Manager: 
+- House Manager: 
+- Usher: 
+
+
+**Friday, March 3**
+
+**Honors Voice Recital**
+
+*Call Time: 7pm, Recital Time: 8pm*
+
+- House Manager: 
+- Usher: 
+
+
+**Wednesday, March 8**
+
+**Ducks on Display**
+
+*Call Time: 7:30pm, Event Time: 9pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound/Video Op: 
+- Light Op: 
+- Usher: 
 
 
 
-**Thursday, Dec. 22**
-
-*Call Time: 9pm*
-
-**Enjoy your winter recess**
 
 
