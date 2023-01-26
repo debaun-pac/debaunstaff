@@ -57,7 +57,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - House Manager: 
 - Light Op: 
 - Sound Op: 
-- Usher: 
+- Usher: Kera
 
 
 **Friday, Feb. 17**
@@ -66,7 +66,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 6:30pm, Performance: 8pm*
 
-- Box Office Clerk: 
+- Box Office Clerk: Kera
 - House Manager: Corey
 - Light Op: 
 - Sound Op: 
@@ -83,7 +83,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - House Manager: 
 - Light Op: 
 - Sound Op: 
-- Usher: 
+- Usher: Kera
 
 
 **Friday, Feb. 24**
