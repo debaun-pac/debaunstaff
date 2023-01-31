@@ -20,9 +20,9 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 5:30pm, Concert Time: 7:00pm - 8:30pm*
 
-- Stage Manager: 
-- House Manager: 
-- Sound Op: 
+- Stage Manager: Shawna
+- House Manager: JJ
+- Sound Op: Carl 
 - Usher: 
 
 
@@ -33,7 +33,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 8:45pm, Tech Run: 9:15pm*
 * Must be available for tech and performances below.
 
-- Light Op: 
+- Light Op: JJ
 - Sound Op:
 
 
@@ -43,7 +43,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 8:45pm, Tech Run: 9:15pm*
 
-- Light Op: 
+- Light Op: JJ
 - Sound Op:
 
 
@@ -55,7 +55,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Box Office Clerk: 
 - House Manager: 
-- Light Op: 
+- Light Op: JJ
 - Sound Op: 
 - Usher: Kera
 
@@ -68,7 +68,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Box Office Clerk: Kera
 - House Manager: Corey
-- Light Op: 
+- Light Op: JJ 
 - Sound Op: 
 - Usher: Luke
 
@@ -81,7 +81,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Box Office Clerk:
 - House Manager: 
-- Light Op: 
+- Light Op: JJ
 - Sound Op: 
 - Usher: Kera
 
@@ -103,7 +103,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7pm, Event Time: 8pm*
 
-- Stage Manager: 
+- Stage Manager: JJ
 - House Manager:
 - Sound Op: 
 - Usher: 
@@ -115,7 +115,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 5:30pm/6pm, Concert Time: 7pm*
 
-- Stage Manager: 
+- Stage Manager: JJ
 - House Manager: 
 - Usher: 
 
@@ -126,7 +126,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7pm, Recital Time: 8pm*
 
-- House Manager: 
+- House Manager: JJ
 - Usher: Luke
 
 
@@ -139,7 +139,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Stage Manager: 
 - House Manager: 
 - Sound/Video Op: 
-- Light Op: 
+- Light Op: JJ
 - Usher: 
 
 
