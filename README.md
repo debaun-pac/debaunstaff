@@ -14,17 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Thursday, Feb. 2**
-
-**Eddie Allen Aggregation**
-
-*Call Time: 5:30pm, Concert Time: 7:00pm - 8:30pm*
-
-- Stage Manager: Shawna
-- House Manager: JJ
-- Sound Op: Carl 
-- Usher: 
-
 
 **Tuesday, Feb. 14**
 
@@ -34,7 +23,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 * Must be available for tech and performances below.
 
 - Light Op: JJ
-- Sound Op:
+- Sound Op: Carl
 
 
 **Wednesday, Feb. 15**
@@ -44,7 +33,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 8:45pm, Tech Run: 9:15pm*
 
 - Light Op: JJ
-- Sound Op:
+- Sound Op: Carl
 
 
 **Thursday, Feb. 16**
@@ -56,7 +45,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Box Office Clerk: 
 - House Manager: 
 - Light Op: JJ
-- Sound Op: 
+- Sound Op: Carl
 - Usher: Kera
 
 
@@ -69,7 +58,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Box Office Clerk: Kera
 - House Manager: Corey
 - Light Op: JJ 
-- Sound Op: 
+- Sound Op: Carl
 - Usher: Luke
 
 
@@ -82,7 +71,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Box Office Clerk:
 - House Manager: 
 - Light Op: JJ
-- Sound Op: 
+- Sound Op: Carl
 - Usher: Kera
 
 
@@ -92,8 +81,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 6:30pm, Performance: 8pm*
 
-- House Manager: 
-- Usher: 
+- House Manager: Shawna
+- Usher: Eden
 - Usher: 
 
 
@@ -138,7 +127,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: 
 - House Manager: 
-- Sound/Video Op: 
+- Sound/Video Op: Luke
 - Light Op: JJ
 - Usher: 
 
