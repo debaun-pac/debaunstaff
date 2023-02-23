@@ -76,7 +76,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Orchestra Dress Rehearsal**
 
-*Call Time: 5:45pm, Rehearsal Time: 6pm*
+*Call Time: 5:45pm, Rehearsal Time: 6pm* 
+
 (Should be available for Concert as well)
 
 - Sound Op:  
@@ -125,6 +126,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Concert Band Dress Rehearsal**
 
 *Call Time: 5:45pm, Rehearsal Time: 6pm*
+
 (Should be available for Concert as well)
 
 - Stage Manager: 
@@ -146,6 +148,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Jazz Band Dress Rehearsal**
 
 *Call Time: 5:45pm, Rehearsal Time: 6pm*
+
 (Should be available for Concert as well)
 
 
@@ -179,6 +182,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Choir Dress Rehearsal**
 
 *Call Time: TBA (likely early to mid afternoon)*
+
 (Should be available for Concert as well)
  
 - Sound Op: 
