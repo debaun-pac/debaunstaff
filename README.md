@@ -160,7 +160,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Innovation Expo**
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 1:30p, Event Time: 3-4:30pm*
 
 - Stage Manager:
 - House Manager: 
