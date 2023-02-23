@@ -14,67 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-
-**Tuesday, Feb. 14**
-
-**Romeo & Juliet Tech/Dress Run** 
-
-*Call Time: 8:45pm, Tech Run: 9:15pm*
-* Must be available for tech and performances below.
-
-- Light Op: JJ
-- Sound Op: Carl
-
-
-**Wednesday, Feb. 15**
-
-**Romeo & Juliet Tech/Dress Run** 
-
-*Call Time: 8:45pm, Tech Run: 9:15pm*
-
-- Light Op: JJ
-- Sound Op: Carl
-
-
-**Thursday, Feb. 16**
-
-**Romeo & Juliet Performance**
-
-*Call Time: 7:30pm, Performance: 9pm*
-
-- Box Office Clerk: 
-- House Manager: 
-- Light Op: JJ
-- Sound Op: Carl
-- Usher: Kera
-
-
-**Friday, Feb. 17**
-
-**Romeo & Juliet Performance**
-
-*Call Time: 6:30pm, Performance: 8pm*
-
-- Box Office Clerk: Kera
-- House Manager: Corey
-- Light Op: JJ 
-- Sound Op: Carl
-- Usher: Luke
-
-
-**Saturday, Feb. 18**
-
-**Romeo & Juliet Performance**
-
-*Call Time: 12:30pm, Performance: 2pm*
-
-- Box Office Clerk:
-- House Manager: 
-- Light Op: JJ
-- Sound Op: Carl
-- Usher: Kera
-
-
 **Friday, Feb. 24**
 
 **NJFO Opera: Gianni Schicchi**
@@ -93,7 +32,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm*
 
 - Stage Manager: JJ
-- House Manager:
+- House Manager: Shawna
 - Sound Op: 
 - Usher: 
 
@@ -116,7 +55,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Recital Time: 8pm*
 
 - House Manager: JJ
-- Usher: Luke
+- Usher: Luke 
+- Stage: Eden
 
 
 **Wednesday, March 8**
