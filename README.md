@@ -72,6 +72,214 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Usher: 
 
 
+**Friday, April 14**
+
+**Orchestra Dress Rehearsal**
+
+*Call Time: 5:45pm, Rehearsal Time: 6pm*
+(Should be available for Concert as well)
+
+- Sound Op:  
+
+
+**Voice Recital (Ondrick Music Room, 4th FL Howe)** 
+
+*Call Time: 6pm, Event Time: 7pm*
+
+- House Manager: 
+
+
+**Saturday, April 15**
+
+**Financial Aid Info Session**
+
+*Call Time: TBA, Event Time: TBA (morning)*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Orchestra Concert**
+
+*Call Time: 7pm, Event Time: 8pm* 
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Sunday, April 16**
+
+**Financial Aid Info Session**
+
+*Call Time: TBA, Event Time: TBA (morning)*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Friday, April 22**
+
+**Concert Band Dress Rehearsal**
+
+*Call Time: 5:45pm, Rehearsal Time: 6pm*
+(Should be available for Concert as well)
+
+- Stage Manager: 
+- Sound Op:
+
+
+**Saturday, April 23**
+
+**Concert Band Concert**
+*Call Time: 7pm, Event Time: 8pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Wednesday, April 26**
+
+**Jazz Band Dress Rehearsal**
+
+*Call Time: 5:45pm, Rehearsal Time: 6pm*
+(Should be available for Concert as well)
+
+
+- Stage Manager: 
+- Sound Op: Carl 
+
+
+**Friday, April 28**
+
+**Innovation Expo**
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager:
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+**Jazz Band Concert**
+
+*Call Time: 7pm, Event Time: 8pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Saturday, April 29**
+
+**Choir Dress Rehearsal**
+
+*Call Time: TBA (likely early to mid afternoon)*
+(Should be available for Concert as well)
+ 
+- Sound Op: 
+
+
+**Choir Concert**
+
+*Call Time: 7pm, Event Time: 8pm* 
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Wednesday, May 3**
+
+**Conversation with the President**
+
+*Call Time: 12:30pm, Event Time: 2pm*
+
+- Stage Manager: Shawna
+- House Manager: 
+- Sound Op: Carl
+
+
+**Undergrad Awards Ceremony**
+
+*Call Time: 5:30pm, Event Time: 6pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+**Friday, May 4**
+
+**A Capella Spring Showcase**
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+
+
+**Wednesday, May 10**
+
+**Music & Tech Soring Concert**
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager: 
+- House Manager: 
+- Usher: 
+
+
+**Monday, May 14**
+
+**Athletics Awards**
+
+*Call Time: 8pm, Event Time: 9pm*
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+**Monday, May 22**
+
+**Grad Awards Ceremony**
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager:
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+**Tuesday, May 23**
+
+**Senior Awards Ceremony**
+
+
+*Call Time: TBA, Event Time: TBA*
+
+- Stage Manager:
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+
+
+
+
+
+
+
+
 
 
 
