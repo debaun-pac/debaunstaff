@@ -45,7 +45,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: JJ
 - House Manager: 
-- Usher: 
+- Usher: Luke
 
 
 **Friday, March 3**
@@ -87,16 +87,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 6pm, Event Time: 7pm*
 
-- House Manager: 
+- House Manager: Luke
 
 
 **Saturday, April 15**
 
 **Financial Aid Info Session**
 
-*Call Time: TBA, Event Time: TBA (morning)*
+*Call Time: 10am, Event Time: 11am - 12pm
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: 
 
@@ -105,7 +105,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7pm, Event Time: 8pm* 
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: 
 
@@ -114,14 +114,14 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Financial Aid Info Session**
 
-*Call Time: TBA, Event Time: TBA (morning)*
+*Call Time: 10am, Event Time: 11am - 12pm
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: 
 
 
-**Friday, April 22**
+**Friday, April 21**
 
 **Concert Band Dress Rehearsal**
 
@@ -130,17 +130,17 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 (Should be available for Concert as well)
 
 - Stage Manager: 
-- Sound Op:
+- Sound Op: Luke
 
 
-**Saturday, April 23**
+**Saturday, April 22**
 
 **Concert Band Concert**
 *Call Time: 7pm, Event Time: 8pm*
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Luke
 
 
 **Wednesday, April 26**
@@ -152,7 +152,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 (Should be available for Concert as well)
 
 
-- Stage Manager: 
+- Stage Manager: Luke
 - Sound Op: Carl 
 
 
@@ -172,7 +172,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7pm, Event Time: 8pm*
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: 
 
@@ -185,7 +185,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 (Should be available for Concert as well)
  
-- Sound Op: 
+- Sound Op: Luke
 
 
 **Choir Concert**
@@ -194,7 +194,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Luke
 
 
 **Wednesday, May 3**
@@ -214,17 +214,17 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Luke
 - Usher: 
 
 
-**Friday, May 4**
+**Thursday, May 4**
 
 **A Capella Spring Showcase**
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 7:30p, Event Time: 9pm*
 
-- Stage Manager: 
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: 
 
