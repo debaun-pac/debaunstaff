@@ -2,7 +2,7 @@
 
 You should always be able to find the most resent version of this page at <https://debaun-pac.github.io/debaunstaff/>. Eventually, IT may be able to give us a friendlier URL pointer.
 
-Now that Shawna is back, you can email her at <scathey@stevens.edu>  to sign up for any of the events below that match your interests and availability, and she'll add you to the roster. Once confirmed, just show up at the listed call time, and we’ll get started.
+Email Shawna at <scathey@stevens.edu>  to sign up for any of the events below that match your interests and availability, and she'll add you to the roster. Once confirmed, just show up at the listed call time, and we’ll get started.
 
 If you have any questions or concerns about the gig or about what the roles will entail, please ask. The jobs can vary quite a bit depending on the particular gig. The listed roles are the ideal crew for the events. If we’re short a person or two, we may need to juggle staff around to compensate.
 
