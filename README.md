@@ -65,7 +65,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7:30pm, Event Time: 9pm*
 
-- Stage Manager: 
+- Stage Manager: Eden
 - House Manager: 
 - Sound/Video Op: Luke
 - Light Op: JJ
@@ -173,8 +173,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm*
 
 - Stage Manager: Luke
-- House Manager: 
-- Sound Op: 
+- House Manager: Eden
+- Sound Op: Carl
 
 
 **Saturday, April 29**
@@ -224,7 +224,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7:30p, Event Time: 9pm*
 
-- Stage Manager: Luke
+- Stage Manager: Luke (8pm)
 - House Manager: 
 - Sound Op: 
 
