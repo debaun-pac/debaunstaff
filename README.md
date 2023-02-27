@@ -14,17 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Friday, Feb. 24**
-
-**NJFO Opera: Gianni Schicchi**
-
-*Call Time: 6:30pm, Performance: 8pm*
-
-- House Manager: Shawna
-- Usher: Eden
-- Usher: 
-
-
 **Monday, Feb. 27**
 
 **CAPS Speaker**
@@ -33,8 +22,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: JJ
 - House Manager: Shawna
-- Sound Op: 
-- Usher: 
+- Sound Op: Gsab
+- Usher: Evan
 
 
 **Thursday, March 2**
@@ -69,7 +58,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - House Manager: 
 - Sound/Video Op: Luke
 - Light Op: JJ
-- Usher: 
+- Usher: Jasper
 
 
 **Friday, April 14**
@@ -80,7 +69,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 (Should be available for Concert as well)
 
-- Sound Op:  
+- Sound Op:  Jasper
 
 
 **Voice Recital (Ondrick Music Room, 4th FL Howe)** 
@@ -97,8 +86,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 10am, Event Time: 11am - 12pm
 
 - Stage Manager: Luke
-- House Manager: 
-- Sound Op: 
+- House Manager: Evan
+- Sound Op: Jasper
 
 
 **Orchestra Concert**
@@ -107,7 +96,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Luke
 - House Manager: 
-- Sound Op: 
+- Sound Op: Jasper
 
 
 **Sunday, April 16**
@@ -117,8 +106,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 10am, Event Time: 11am - 12pm
 
 - Stage Manager: Luke
-- House Manager: 
-- Sound Op: 
+- House Manager: Evan
+- Sound Op: Jasper
 
 
 **Friday, April 21**
@@ -139,7 +128,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm*
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: Jasperf
 - Sound Op: Luke
 
 
@@ -162,8 +151,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 1:30p, Event Time: 3-4:30pm*
 
-- Stage Manager:
-- House Manager: 
+- Stage Manager: 
+- House Manager: Evan
 - Sound Op: 
 - Usher: 
 
@@ -192,7 +181,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7pm, Event Time: 8pm* 
 
-- Stage Manager: 
+- Stage Manager: Evan
 - House Manager: 
 - Sound Op: Luke
 
@@ -204,7 +193,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 12:30pm, Event Time: 2pm*
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Evan
 - Sound Op: Carl
 
 
@@ -225,7 +214,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7:30p, Event Time: 9pm*
 
 - Stage Manager: Luke (8pm)
-- House Manager: 
+- House Manager: Evan
 - Sound Op: 
 
 
@@ -246,7 +235,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 8pm, Event Time: 9pm*
 
-- Stage Manager: 
+- Stage Manager: Evan
 - House Manager: 
 - Sound Op: 
 - Usher: 
