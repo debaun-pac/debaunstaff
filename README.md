@@ -22,7 +22,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: JJ
 - House Manager: Shawna
-- Sound Op: Gsab
+- Sound Op: Gab
 - Usher: Evan
 
 
@@ -32,9 +32,10 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 5:30pm/6pm, Concert Time: 7pm*
 
-- Stage Manager: JJ
+- Stage Manager:
 - House Manager: 
 - Usher: Luke
+- Light Op: JJ
 
 
 **Friday, March 3**
