@@ -14,54 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Monday, Feb. 27**
-
-**CAPS Speaker**
-
-*Call Time: 7pm, Event Time: 8pm*
-
-- Stage Manager: JJ
-- House Manager: Shawna
-- Sound Op: Gab
-- Usher: Evan
-
-
-**Thursday, March 2**
-
-**Music & Tech Faculty Concert**
-
-*Call Time: 5:30pm/6pm, Concert Time: 7pm*
-
-- Stage Manager:
-- House Manager: 
-- Usher: 
-- Light Op: JJ
-
-
-**Friday, March 3**
-
-**Honors Voice Recital**
-
-*Call Time: 7pm, Recital Time: 8pm*
-
-- House Manager: JJ
-- Usher: Luke 
-- Stage: Eden
-
-
-**Wednesday, March 8**
-
-**Ducks on Display**
-
-*Call Time: 7:30pm, Event Time: 9pm*
-
-- Stage Manager: Eden
-- House Manager: 
-- Sound/Video Op: Luke
-- Light Op: JJ
-- Usher: Jasper
-
-
 **Friday, April 14**
 
 **Orchestra Dress Rehearsal**
