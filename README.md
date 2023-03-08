@@ -34,32 +34,12 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Saturday, April 15**
 
-**Financial Aid Info Session**
-
-*Call Time: 10am, Event Time: 11am - 12pm
-
-- Stage Manager: Luke
-- House Manager: Evan
-- Sound Op: Jasper
-
-
 **Orchestra Concert**
 
 *Call Time: 7pm, Event Time: 8pm* 
 
 - Stage Manager: Luke
 - House Manager: 
-- Sound Op: Jasper
-
-
-**Sunday, April 16**
-
-**Financial Aid Info Session**
-
-*Call Time: 10am, Event Time: 11am - 12pm
-
-- Stage Manager: Luke
-- House Manager: Evan
 - Sound Op: Jasper
 
 
