@@ -119,6 +119,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Sound Op: Luke
 
 
+**Wednesday, May 3**
+
 **Undergrad Awards Ceremony**
 
 *Call Time: 5:30pm, Event Time: 6pm*
