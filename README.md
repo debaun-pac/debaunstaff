@@ -119,17 +119,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Sound Op: Luke
 
 
-**Wednesday, May 3**
-
-**Conversation with the President**
-
-*Call Time: 12:30pm, Event Time: 2pm*
-
-- Stage Manager: Shawna
-- House Manager: Evan
-- Sound Op: Carl
-
-
 **Undergrad Awards Ceremony**
 
 *Call Time: 5:30pm, Event Time: 6pm*
