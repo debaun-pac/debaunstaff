@@ -84,7 +84,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 1:30p, Event Time: 3-4:30pm*
 
-- Stage Manager: 
+- Stage Manager: Eden
 - House Manager: Evan
 - Sound Op: 
 - Usher: 
@@ -140,6 +140,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Stage Manager: Luke (8pm)
 - House Manager: Evan
 - Sound Op: 
+
+
+**Saturday, May 6**
+
+**Honors Voice Recital**
+
+*Call Time: 6pm, Recital Time: 7pm*
+
+- Stage Manager:
+- House Manager: 
 
 
 **Wednesday, May 10**
