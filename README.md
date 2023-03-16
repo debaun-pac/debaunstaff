@@ -39,7 +39,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm* 
 
 - Stage Manager: Luke
-- House Manager: 
+- House Manager: JJ
 - Sound Op: Jasper
 
 
@@ -51,7 +51,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 (Should be available for Concert as well)
 
-- Stage Manager: 
+- Stage Manager: JJ
 - Sound Op: Luke
 
 
@@ -60,7 +60,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Concert Band Concert**
 *Call Time: 7pm, Event Time: 8pm*
 
-- Stage Manager: 
+- Stage Manager: JJ
 - House Manager: Jasperf
 - Sound Op: Luke
 
@@ -86,7 +86,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Eden
 - House Manager: Evan
-- Sound Op: 
+- Sound Op: JJ
 - Usher: 
 
 
@@ -115,7 +115,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm* 
 
 - Stage Manager: Evan
-- House Manager: 
+- House Manager: JJ
 - Sound Op: Luke
 
 
@@ -139,7 +139,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Luke (8pm)
 - House Manager: Evan
-- Sound Op: 
+- Sound Op: JJ
 
 
 **Saturday, May 6**
@@ -149,17 +149,17 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 6pm, Recital Time: 7pm*
 
 - Stage Manager:
-- House Manager: 
+- House Manager: JJ
 
 
 **Wednesday, May 10**
 
-**Music & Tech Soring Concert**
+**Music & Tech Spring Concert**
 
 *Call Time: TBA, Event Time: TBA*
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: JJ
 - Usher: 
 
 
@@ -170,7 +170,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 8pm, Event Time: 9pm*
 
 - Stage Manager: Evan
-- House Manager: 
+- House Manager: JJ
 - Sound Op: 
 - Usher: 
 
@@ -181,7 +181,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 7am, Event Time: 8am*
 
-- House Manager: 
+- House Manager: JJ
 - Sound Op: 
 
 
@@ -191,7 +191,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: TBA, Event Time: TBA*
 
-- Stage Manager:
+- Stage Manager: JJ
 - House Manager: 
 - Sound Op: 
 - Usher: 
@@ -204,7 +204,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: TBA, Event Time: TBA*
 
-- Stage Manager:
+- Stage Manager: JJ
 - House Manager: 
 - Sound Op: 
 - Usher: 
