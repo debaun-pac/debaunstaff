@@ -175,6 +175,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Usher: 
 
 
+**Saturday, May 20**
+
+**Math Olympiad**
+
+*Call Time: 7am, Event Time: 8am*
+
+- House Manager: 
+- Sound Op: 
+
+
 **Monday, May 22**
 
 **Grad Awards Ceremony**
