@@ -148,7 +148,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 6pm, Recital Time: 7pm*
 
-- Stage Manager:
+- Stage Manager: Evan
 - House Manager: JJ
 
 
