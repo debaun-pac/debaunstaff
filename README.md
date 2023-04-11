@@ -107,7 +107,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 (Should be available for Concert as well)
  
-- Sound Op: Luke
+- Sound Op:
 
 
 **Choir Concert**
@@ -116,7 +116,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Evan
 - House Manager: JJ
-- Sound Op: Luke
+- Sound Op: 
 
 
 **Wednesday, May 3**
