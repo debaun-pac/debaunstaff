@@ -58,7 +58,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 - Stage Manager: Eden
 - House Manager: Evan
 - Sound Op: JJ
-- Usher: 
+- Usher: Jasper
 
 
 **Jazz Band Concert**
@@ -142,7 +142,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Evan
 - House Manager: JJ
-- Sound Op: 
+- Sound Op: Jasper
 - Usher: 
 
 
