@@ -14,35 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Friday, April 14**
-
-**Orchestra Dress Rehearsal**
-
-*Call Time: 5:45pm, Rehearsal Time: 6pm* 
-
-(Should be available for Concert as well)
-
-- Sound Op:  Jasper
-
-
-**Voice Recital (Ondrick Music Room, 4th FL Howe)** 
-
-*Call Time: 6pm, Event Time: 7pm*
-
-- House Manager: Luke
-
-
-**Saturday, April 15**
-
-**Orchestra Concert**
-
-*Call Time: 7pm, Event Time: 8pm* 
-
-- Stage Manager: Luke
-- House Manager: JJ
-- Sound Op: Jasper
-
-
 **Friday, April 21**
 
 **Concert Band Dress Rehearsal**
