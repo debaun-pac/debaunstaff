@@ -32,7 +32,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Call Time: 7pm, Event Time: 8pm*
 
 - Stage Manager: JJ
-- House Manager: Jasperf
+- House Manager: Jasper
 - Sound Op: Luke
 
 
