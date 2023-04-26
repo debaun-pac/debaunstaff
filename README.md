@@ -14,28 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Friday, April 21**
-
-**Concert Band Dress Rehearsal**
-
-*Call Time: 5:45pm, Rehearsal Time: 6pm*
-
-(Should be available for Concert as well)
-
-- Stage Manager: JJ
-- Sound Op: Luke
-
-
-**Saturday, April 22**
-
-**Concert Band Concert**
-*Call Time: 7pm, Event Time: 8pm*
-
-- Stage Manager: JJ
-- House Manager: Jasper
-- Sound Op: Luke
-
-
 **Wednesday, April 26**
 
 **Jazz Band Dress Rehearsal**
@@ -96,7 +74,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Call Time: 5:30pm, Event Time: 6pm*
 
-- Stage Manager: 
+- Stage Manager: Jasper
 - House Manager: 
 - Sound Op: Luke
 - Usher: 
