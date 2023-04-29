@@ -14,27 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Friday, April 28**
-
-**Innovation Expo**
-
-*Call Time: 1:30p, Event Time: 3-4:30pm*
-
-- Stage Manager: JJ
-- House Manager: Evan
-- Sound Op: Carl
-- Usher: Eden
-
-
-**Jazz Band Concert**
-
-*Call Time: 7pm, Event Time: 8pm*
-
-- Stage Manager: Luke
-- House Manager: Eden
-- Sound Op: Carl
-
-
 **Saturday, April 29**
 
 **Choir Dress Rehearsal**
