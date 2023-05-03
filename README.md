@@ -13,27 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-**Saturday, April 29**
-
-**Choir Dress Rehearsal**
-
-*Call Time: TBA (likely early to mid afternoon)*
-
-(Should be available for Concert as well)
- 
-- Sound Op: Carl
-
-
-**Choir Concert**
-
-*Call Time: 7pm, Event Time: 8pm* 
-
-- Stage Manager: Evan
-- House Manager: JJ
-- Sound Op: Carl
-
-
 **Wednesday, May 3**
 
 **Undergrad Awards Ceremony**
