@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-**Wednesday, May 3**
-
-**Undergrad Awards Ceremony**
-
-*Call Time: 5:30pm, Event Time: 6pm*
-
-- Stage Manager: Jasper
-- House Manager: 
-- Sound Op: Luke
-- Usher: 
-
 
 **Thursday, May 4**
 
@@ -50,7 +39,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Music & Tech Spring Concert**
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 6pm, Event Time: 7:30-9pm*
 
 - Stage Manager: 
 - House Manager: JJ
@@ -83,7 +72,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Grad Awards Ceremony**
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 5:00pm, Event Time: 6pm-7:30pm*
 
 - Stage Manager: JJ
 - House Manager: 
@@ -96,7 +85,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Senior Awards Ceremony**
 
 
-*Call Time: TBA, Event Time: TBA*
+*Call Time: 5:00pm, Event Time: 6pm-7:30pm*
 
 - Stage Manager: JJ
 - House Manager: 
