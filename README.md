@@ -22,7 +22,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 - Stage Manager: Luke (8pm)
 - House Manager: Evan
-- Sound Op: JJ
+- Usher: JJ
+- Sound Op: 
 
 
 **Saturday, May 6**
