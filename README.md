@@ -14,46 +14,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Thursday, May 4**
-
-**A Capella Spring Showcase**
-
-*Call Time: 7:30p, Event Time: 9pm*
-
-- Stage Manager: Luke (8pm)
-- House Manager: Evan
-- Usher: JJ
-- Sound Op: 
-
-
-**Saturday, May 6**
-
-**Honors Voice Recital**
-
-*Call Time: 6pm, Recital Time: 7pm*
-
-- Stage Manager: Evan
-- House Manager: JJ
-
-
-**Wednesday, May 10**
-
-**Music & Tech Spring Concert**
-
-*Call Time: 6pm, Event Time: 7:30-9pm*
-
-- Stage Manager: 
-- House Manager: JJ
-- Usher: 
-
-
 **Monday, May 14**
 
 **Athletics Awards**
 
-*Call Time: 8pm, Event Time: 9pm*
+*Call Time: 6pm, Event Time: 7pm-9pm
 
-- Stage Manager: Evan
+- Stage Manager: 
 - House Manager: JJ
 - Sound Op: Jasper
 - Usher: 
