@@ -14,51 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Monday, May 14**
-
-**Athletics Awards**
-
-*Call Time: 6pm, Event Time: 7pm-9pm
-
-- Stage Manager: 
-- House Manager: JJ
-- Sound Op: Jasper
-- Usher: 
-
-
-**Saturday, May 20**
-
-**Math Olympiad**
-
-*Call Time: 7am, Event Time: 8am*
-
-- House Manager: JJ
-- Sound Op: 
-
-
-**Monday, May 22**
-
-**Grad Awards Ceremony**
-
-*Call Time: 5:00pm, Event Time: 6pm-7:30pm*
-
-- Stage Manager: JJ
-- House Manager: 
-- Sound Op: 
-- Usher: 
-
-
-**Tuesday, May 23**
-
-**Senior Awards Ceremony**
-
-
-*Call Time: 5:00pm, Event Time: 6pm-7:30pm*
-
-- Stage Manager: JJ
-- House Manager: 
-- Sound Op: 
-- Usher: 
 
 
 
