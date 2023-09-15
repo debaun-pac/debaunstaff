@@ -182,7 +182,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 **Thursday, Dec. 14**
 
 **Music & Tech Recital**
-_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm _
+_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 
 - Stage Manager:
 - House Manager:
