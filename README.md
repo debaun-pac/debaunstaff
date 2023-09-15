@@ -59,9 +59,9 @@ _Time: TBA_
 
 ### Thursday, Oct. 19
 
-**Music & Tech Faculty Recital**
+**Music & Tech Faculty Recital** 
 
-_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
+_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_ 
 
 - Stage Manager:
 - House Manager:
