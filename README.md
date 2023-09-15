@@ -16,6 +16,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 **Saturday, Oct. 14**
 
 **Family Day President's Presentation**
+
 _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 
 - Stage Manager: Shawna
@@ -25,6 +26,7 @@ _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 
 
 **Career Center Presentation**
+
 _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 
 - Stage Manager: Shawna
@@ -36,6 +38,7 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 **Wednesday, Oct. 18**
 
 **SES Dean's Lecture Series**
+
 _Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-5pm_
 
 Stage Manager: Shawna 
