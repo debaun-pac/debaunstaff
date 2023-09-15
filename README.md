@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Sofia
 - Sound Op: Carl
 - Usher: 
 
@@ -30,7 +30,7 @@ _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Sofia
 - Sound Op: Carl
 - Usher:
 
@@ -76,7 +76,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 
 _Call Time: 6:15pm_
 
-- Audition Monitor:
+- Audition Monitor: Sofia
 
 
 ### Friday, Nov. 10
@@ -109,7 +109,7 @@ _Call/Rehearsal Time: 6-9pm_
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Sofia
 - *Sound Op:
 - Usher:
 
@@ -122,7 +122,7 @@ _Call/Rehearsal time: 6-9pm_
 
 *Should also be avialable for the concert Sat. Dec. 2
 
-- Stage Manager:
+- Stage Manager: Sofia
 - Sound Op:
 
 
@@ -132,7 +132,7 @@ _Call/Rehearsal time: 6-9pm_
 
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
-- Stage Manager:
+- Stage Manager: Sofia
 - House Manager:
 - *Sound Op:
 - Usher:
@@ -144,7 +144,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 _Call/Rehearsal Time: 6-9pm_
 
-Sound Op: 
+Sound Op: Sofia
 
 
 ### Wednesday, Dec. 6
@@ -165,7 +165,7 @@ _Call/Rehearsal time: 6-9pm_
 
 _Call/Rehearsal Time: 6-9pm_
 
-Sound Op: 
+Sound Op: Sofia
 
 
 ### Friday, Dec. 8
@@ -188,7 +188,7 @@ _Call/Rehearsal Time: TBA_
 
 *Should also be avialable for the concert
 
-- Sound Op:
+- Sound Op: Sofia
 
 
 **Choir Concert**
@@ -197,7 +197,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager:
 - House Manager:
-- *Sound Op:
+- *Sound Op: Sofia
 - Usher:
 
 
