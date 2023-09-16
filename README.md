@@ -22,7 +22,7 @@ _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 - Stage Manager: Shawna
 - House Manager: Sofia
 - Sound Op: Carl
-- Usher: 
+- Usher: Jasper
 
 
 **Career Center Presentation**
@@ -32,7 +32,7 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 - Stage Manager: Shawna
 - House Manager: Sofia
 - Sound Op: Carl
-- Usher:
+- Usher: Jasper
 
 
 ### Wednesday, Oct. 18
@@ -66,7 +66,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
-- Light Op:
+- Light Op: Luke
 - Usher:
 
 
@@ -87,7 +87,7 @@ _Call Time: 2pm House Open: 3pm Event Time: 3:30-5pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op: 
+- Sound Op: Jasper
 - Usher:
 
 
@@ -99,7 +99,7 @@ _Call Time: 2pm House Open: 3pm Event Time: 3:30-5pm_
 
 _Call/Rehearsal Time: 6-9pm_
 
-- Sound Op:
+- Sound Op: Jasper
 
 
 ### Saturday, Nov. 18
@@ -108,9 +108,9 @@ _Call/Rehearsal Time: 6-9pm_
 
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
-- Stage Manager:
+- Stage Manager: Luke
 - House Manager: Sofia
-- *Sound Op:
+- *Sound Op: Jasper
 - Usher:
 
 
@@ -123,7 +123,7 @@ _Call/Rehearsal time: 6-9pm_
 *Should also be avialable for the concert Sat. Dec. 2
 
 - Stage Manager: Sofia
-- Sound Op:
+- Sound Op: Jasper
 
 
 ### Saturday, Dec. 2
@@ -133,8 +133,8 @@ _Call/Rehearsal time: 6-9pm_
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager: Sofia
-- House Manager:
-- *Sound Op:
+- House Manager: Luke
+- *Sound Op: Jasper
 - Usher:
 
 
@@ -155,7 +155,7 @@ _Call/Rehearsal time: 6-9pm_
 
 *Should also be avialable for the concert Fri. Dec. 8
 
-- Stage Manager: 
+- Stage Manager: Luke
 - Sound Op: Carl
 
 
@@ -174,10 +174,10 @@ Sound Op: Sofia
 
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
-- Stage Manager:
+- Stage Manager: Luke
 - House Manager:
 - *Sound Op: Carl
-- Usher:
+- Usher: Jasper
 
 
 ### Saturday, Dec. 9
@@ -195,7 +195,7 @@ _Call/Rehearsal Time: TBA_
 
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
-- Stage Manager:
+- Stage Manager: Luke
 - House Manager:
 - *Sound Op: Sofia
 - Usher:
@@ -210,7 +210,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
-- Light Op:
+- Light Op: Luke
 - Usher:
 
 
