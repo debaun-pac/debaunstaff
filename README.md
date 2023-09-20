@@ -66,7 +66,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
-- Light Op: Luke
+- Light Op: Luke/Chloe
 - Usher:
 
 
