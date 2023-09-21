@@ -22,7 +22,7 @@ _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 - Stage Manager: Shawna
 - House Manager: Sofia
 - Sound Op: Carl
-- Usher: Jasper
+- Usher: Jasper/Abhishek
 
 
 **Career Center Presentation**
@@ -32,7 +32,7 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 - Stage Manager: Shawna
 - House Manager: Sofia
 - Sound Op: Carl
-- Usher: Jasper
+- Usher: Jasper/Abhishek
 
 
 ### Wednesday, Oct. 18
@@ -42,7 +42,7 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 _Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-5pm_
 
 - Stage Manager: Shawna 
-- House Manager: 
+- House Manager: Abhishek
 - Sound Op: Carl
 - Usher: 
 
@@ -53,7 +53,7 @@ _* A couple of crew would be usefule to help load in and set up_
 
 _Time: TBA_
 
-- Crew:
+- Crew: Abhishek
 - Crew:
 
 
@@ -76,7 +76,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 
 _Call Time: 6:15pm_
 
-- Audition Monitor: Sofia
+- Audition Monitor: Sofia/Abhishek
 
 
 ### Friday, Nov. 10
@@ -99,7 +99,7 @@ _Call Time: 2pm House Open: 3pm Event Time: 3:30-5pm_
 
 _Call/Rehearsal Time: 6-9pm_
 
-- Sound Op: Jasper
+- Sound Op: Jasper/Abhishek
 
 
 ### Saturday, Nov. 18
@@ -111,7 +111,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - Stage Manager: Luke
 - House Manager: Sofia
 - *Sound Op: Jasper
-- Usher:
+- Usher: Abhishek
 
 
 ### Friday, Dec. 1
