@@ -21,7 +21,7 @@ _Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
 
 - Stage Manager: Shawna
 - House Manager: Sofia
-- Sound Op: Carl
+- Sound Op: Carl/Ismael
 - Usher: Jasper/Abhishek
 
 
@@ -31,7 +31,7 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 
 - Stage Manager: Shawna
 - House Manager: Sofia
-- Sound Op: Carl
+- Sound Op: Carl/Ismael
 - Usher: Jasper/Abhishek
 
 
