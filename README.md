@@ -12,6 +12,40 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
+### Monday, Oct. 2 - Thursday, Oct. 5
+
+**Crew Calls**
+
+_Call Times: 1-6pm_ 
+
+**Monday, Oct. 2** 
+
+- Staff:
+- Staff:
+- Staff: 
+
+
+**Tuesday, Oct. 3** 
+
+- Staff:
+- Staff:
+- Staff:
+
+
+**Wednesday,Oct. 4**
+
+- Staff:
+- Staff:
+- Staff:
+
+
+**Thursday, Oct. 5** 
+If needed..
+
+- Staff:
+- Staff:
+- Staff:
+
 
 ### Saturday, Oct. 14
 
