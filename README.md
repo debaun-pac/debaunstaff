@@ -68,6 +68,16 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 - Sound Op: Carl/Ismael
 - Usher: Jasper/Abhishek
 
+**Jazz Band Sound Setup**
+
+_Location: Palmer Lawn  Call Time: TBA  Event Time: TBA_
+
+- Setup and run the mobile sound unit for Jazz Band set on Palmer Lawn
+
+- Staff:
+- Staff: 
+
+
 
 ### Wednesday, Oct. 18
 
