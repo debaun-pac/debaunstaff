@@ -42,7 +42,7 @@ _Call Times: 1-6pm_
 **Thursday, Oct. 5** 
 If needed..
 
-- Staff:
+- Staff: Joonho (5)
 - Staff:
 - Staff:
 
