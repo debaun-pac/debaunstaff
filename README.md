@@ -88,7 +88,7 @@ _Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-5pm_
 - Stage Manager: Shawna 
 - House Manager: Abhishek
 - Sound Op: Carl
-- Usher: 
+- Usher: Joonho
 
 
 **Load In for Music & Tech Faculty Recital**
@@ -111,7 +111,7 @@ _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
 - House Manager:
 - Sound Op: Carl
 - Light Op: Luke/Chloe
-- Usher:
+- Usher: Joonho
 
 
 ### Wednesday, Nov. 8
