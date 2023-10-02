@@ -18,13 +18,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Times: 1-6pm_ 
 
-**Monday, Oct. 2** 
-
-- Staff:
-- Staff:
-- Staff: 
-
-
 **Tuesday, Oct. 3** 
 
 - Staff:
