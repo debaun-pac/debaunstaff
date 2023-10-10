@@ -42,9 +42,8 @@ _Location: Palmer Lawn (Rain Location: UCC Commons) Call Time: 11:30  Event Time
 *Set up the Mobile Unit for Jazz Band & A Capella on Palmer Lawn. 
 
 - Staff: Jasper
-- Staff: 
-
-
+- Staff: Abhishek
+- Staff: JJ
 
 ### Wednesday, Oct. 18
 
