@@ -37,11 +37,11 @@ _Call Time: 11:15am Event Time: 11:30am - 12:30pm_
 
 **Jazz Band Sound Setup**
 
-_Location: Palmer Lawn  Call Time: TBA  Event Time: TBA_
+_Location: Palmer Lawn  Call Time: 11:30  Event Time: 1-3:30pm
 
 - Setup and run the mobile sound unit for Jazz Band set on Palmer Lawn
 
-- Staff:
+- Staff: Jasper
 - Staff: 
 
 
