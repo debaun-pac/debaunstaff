@@ -13,43 +13,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Saturday, Oct. 14
-
-**Family Day President's Presentation**
-
-_Call Time: 9:30am House Opens: 10am Event Time: 10:30am-11:15am_
-
-- Stage Manager: Shawna
-- House Manager: Sofia
-- Sound Op: Carl/Ismael
-- Usher: Jasper/Abhishek
-
-
-**Career Center Presentation**
-
-_Call Time: 11:15am Event Time: 11:30am - 12:30pm_
-
-- Stage Manager: Shawna
-- House Manager: Sofia
-- Sound Op: Carl/Ismael
-- Usher: Jasper/Abhishek
-
-**Jazz Band & A Capella Sound Setup**
-
-_Location: Palmer Lawn (Rain Location: UCC Commons) Call Time: 11:30  Event Time: 1-3:30pm_
-
-*Set up the Mobile Unit for Jazz Band & A Capella on Palmer Lawn. 
-
-- Staff: Jasper
-- Staff: Abhishek
-- Staff: JJ
-
 ### Wednesday, Oct. 18
 
 **SES Dean's Lecture Series**
 
-_Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-5pm_
+_Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-4:00pm_
 
 - Stage Manager: Shawna 
 - House Manager: Abhishek
@@ -57,11 +25,11 @@ _Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-5pm_
 - Usher: 
 
 
-**Load In for Music & Tech Faculty Recital**
+**Load In & Sound Check for Music & Tech Faculty Recital**
 
 _* A couple of crew would be usefule to help load in and set up_
 
-_Time: TBA_
+_Time: 5pm_
 
 - Crew: Abhishek
 - Crew:
@@ -73,7 +41,7 @@ _Time: TBA_
 
 _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_ 
 
-- Stage Manager:
+- Stage Manager:Shawna
 - House Manager:
 - Sound Op: Carl
 - Light Op: Luke/Chloe
