@@ -32,7 +32,7 @@ _* A couple of crew would be usefule to help load in and set up_
 _Time: 5pm_
 
 - Crew: Abhishek
-- Crew:
+- Crew: JJ
 
 
 ### Thursday, Oct. 19
@@ -42,7 +42,7 @@ _Time: 5pm_
 _Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_ 
 
 - Stage Manager:Shawna
-- House Manager:
+- House Manager:JJ
 - Sound Op: Carl
 - Light Op: Luke/Chloe
 - Usher: Joonho
