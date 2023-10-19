@@ -13,28 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, Oct. 18
-
-**SES Dean's Lecture Series**
-
-_Call Time: 1:30pm House Opens: 3pm Event Time: 3:30-4:00pm_
-
-- Stage Manager: Shawna 
-- House Manager: Abhishek
-- Sound Op: Carl
-- Usher: 
-
-
-**Load In & Sound Check for Music & Tech Faculty Recital**
-
-_* A couple of crew would be usefule to help load in and set up_
-
-_Time: 5pm_
-
-- Crew: Abhishek
-- Crew: JJ
-
-
 ### Thursday, Oct. 19
 
 **Music & Tech Faculty Recital** 
