@@ -13,18 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, Oct. 19
-
-**Music & Tech Faculty Recital** 
-
-_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_ 
-
-- Stage Manager:Shawna
-- House Manager:JJ
-- Sound Op: Carl
-- Light Op: Luke/Chloe
-- Usher: Joonho
-
 
 ### Wednesday, Nov. 8
 
@@ -41,8 +29,8 @@ _Call Time: 6:15pm_
 
 _Call Time: 2pm House Open: 3pm Event Time: 3:30-5pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Shawna
+- House Manager: Abhiskek
 - Sound Op: Jasper
 - Usher:
 
