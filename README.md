@@ -54,7 +54,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager: Luke
 - House Manager: Sofia
-- *Sound Op: Jasper
+- *Sound Op: Jasper/Joonho
 - Usher: Abhishek
 
 
@@ -119,7 +119,7 @@ Sound Op: Sofia
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager: Luke
-- House Manager:
+- House Manager: Joonho
 - *Sound Op: Carl
 - Usher: Jasper
 
