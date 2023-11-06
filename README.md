@@ -27,7 +27,7 @@ _Call Time: 6:15pm_
 
 **LeadHership Conference**
 
-_Call Time: 2pm House Open: 3pm Event Time: 3:30-5pm_
+_Call Time: 2pm House Open: 2:45pm Event Time: 3-5pm_
 
 - Stage Manager: Shawna
 - House Manager: Abhiskek
