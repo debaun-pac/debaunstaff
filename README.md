@@ -174,7 +174,7 @@ _Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
   
 ### Thursday, Dec. 14
 
-**Cancelled** ~**Music & Tech Recital**~ 
+**Canceled** ~**Music & Tech Recital**~ 
 
 
 
