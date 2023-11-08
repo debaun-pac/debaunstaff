@@ -160,7 +160,7 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 - Usher: 
 
 
-### Wednesday, Dec. 12
+### Wednesday, Dec. 13
 
 **Conversation with the President**
 
