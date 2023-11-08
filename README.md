@@ -157,7 +157,7 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 - House Manager: Evan
 - Sound Op:
 - Light Op: Luke
-- Usher: 
+- Usher: Michael
 
 
 ### Wednesday, Dec. 13
