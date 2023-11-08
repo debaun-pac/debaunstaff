@@ -30,7 +30,7 @@ _Call Time: 6:15pm_
 _Call Time: 2pm House Open: 2:45pm Event Time: 3-5pm_
 
 - Stage Manager: Shawna
-- House Manager: Abhiskek
+- House Manager: Abhishek
 - Sound Op: Jasper
 - Usher: Ismael
 - Usher: Sruthi
@@ -155,7 +155,7 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 
 - Stage Manager:
 - House Manager: Evan
-- Sound Op:
+- Sound Op: Sofia
 - Light Op: Luke
 - Usher: Michael
 
