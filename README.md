@@ -144,19 +144,39 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - Stage Manager: Luke
 - House Manager:
 - *Sound Op: Sofia
-- Usher:
+- Usher: Joonho
 
 
-### Thursday, Dec. 14
+### Monday, Dec. 11
 
-**Music & Tech Recital**
+**Phi Sig Lip Sync**
 
-_Call Time: 5:30p House Opens: 6:30pm Event Time: 7pm_
+_Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 
 - Stage Manager:
 - House Manager:
+- Sound Op:
+- Light Op: 
+- Usher: 
+
+
+### Wednesday, Dec. 12
+
+**Conversation with the President**
+
+_Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
+
+- Stage Manager: Shawna
+- House Manager:
 - Sound Op: Carl
-- Light Op: Luke
 - Usher:
+
+  
+### Thursday, Dec. 14
+
+**Cancelled** ~**Music & Tech Recital**~ 
+
+
+
 
 
