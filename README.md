@@ -154,9 +154,9 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Evan
 - Sound Op:
-- Light Op: 
+- Light Op: Luke
 - Usher: 
 
 
@@ -167,9 +167,9 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 _Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Luke
 - Sound Op: Carl
-- Usher:
+- Usher: Michael
 
   
 ### Thursday, Dec. 14
