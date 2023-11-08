@@ -32,7 +32,8 @@ _Call Time: 2pm House Open: 2:45pm Event Time: 3-5pm_
 - Stage Manager: Shawna
 - House Manager: Abhiskek
 - Sound Op: Jasper
-- Usher:
+- Usher: Ismael
+- Usher: Sruthi
 
 
 ### Friday, Nov. 17
@@ -43,7 +44,7 @@ _Call Time: 2pm House Open: 2:45pm Event Time: 3-5pm_
 
 _Call/Rehearsal Time: 6-9pm_
 
-- Sound Op: Jasper/Abhishek
+- Sound Op: Jasper/Abhishek/Sruthi
 
 
 ### Saturday, Nov. 18
@@ -56,6 +57,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - House Manager: Sofia
 - *Sound Op: Jasper/Joonho
 - Usher: Abhishek
+- Usher: Sruthi
 
 
 ### Friday, Dec. 1
