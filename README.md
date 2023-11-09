@@ -153,7 +153,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 
-- Stage Manager:
+- Stage Manager: JJ
 - House Manager: Evan
 - Sound Op: Sofia
 - Light Op: Luke
