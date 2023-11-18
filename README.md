@@ -14,39 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Wednesday, Nov. 8
-
-**Shakespeare Auditions**
-
-_Call Time: 6:15pm_
-
-- Audition Monitor: Sofia/Abhishek
-
-
-### Friday, Nov. 10
-
-**LeadHership Conference**
-
-_Call Time: 2pm House Open: 2:45pm Event Time: 3-5pm_
-
-- Stage Manager: Shawna
-- House Manager: Abhishek
-- Sound Op: Jasper
-- Usher: Ismael
-- Usher: Sruthi
-
-
-### Friday, Nov. 17
-
-**Orchestra Dress Rehearsal**
-
-*Should also be avialable for the concert Sat. Nov. 18
-
-_Call/Rehearsal Time: 6-9pm_
-
-- Sound Op: Jasper/Abhishek/Sruthi
-
-
 ### Saturday, Nov. 18
 
 **Orchestra Concert**
