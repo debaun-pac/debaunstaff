@@ -14,18 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Saturday, Nov. 18
-
-**Orchestra Concert**
-
-_Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
-
-- Stage Manager: Luke
-- House Manager: Sofia
-- *Sound Op: Jasper/Joonho
-- Usher: Abhishek
-- Usher: Sruthi
-
 
 ### Friday, Dec. 1
 
