@@ -36,7 +36,8 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - Stage Manager: Sofia
 - House Manager: Luke
 - *Sound Op: Jasper
-- Usher:
+- Usher: Abhishek
+- Usher: Sruthi
 
 
 ### Monday, Dec. 4
@@ -79,6 +80,8 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - House Manager: Joonho
 - *Sound Op: Carl
 - Usher: Jasper
+- Usher: Abhishek
+- Usher: Sruthi
 
 
 ### Saturday, Dec. 9
@@ -97,9 +100,10 @@ _Call/Rehearsal Time: TBA_
 _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 - Stage Manager: Luke
-- House Manager:
+- House Manager:Abhishek
 - *Sound Op: Sofia
 - Usher: Joonho
+- Usher: Sruthi
 
 
 ### Monday, Dec. 11
@@ -113,6 +117,8 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 - Sound Op: Sofia
 - Light Op: Luke
 - Usher: Michael
+- Usher: Abhishek
+- Usher: Sruthi
 
 
 ### Wednesday, Dec. 13
@@ -125,6 +131,8 @@ _Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
 - House Manager: Luke
 - Sound Op: Carl
 - Usher: Michael
+- Usher: Abhishek
+- Usher: Sruthi
 
   
 ### Thursday, Dec. 14
