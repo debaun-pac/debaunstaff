@@ -21,7 +21,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call/Rehearsal time: 6-9pm_
 
-*Should also be avialable for the concert Sat. Dec. 2
+*Should also be available for the concert Sat. Dec. 2
 
 - Stage Manager: Sofia
 - Sound Op: Jasper
@@ -75,7 +75,7 @@ _Rehearsal: 9pm - 11pm_
 
 _Call/Rehearsal time: 6-9pm_
 
-*Should also be avialable for the concert Fri. Dec. 8
+*Should also be available for the concert Fri. Dec. 8
 
 - Stage Manager: Luke
 - Sound Op: Carl
@@ -110,7 +110,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 _Call/Rehearsal Time: TBA_
 
-*Should also be avialable for the concert
+*Should also be available for the concert
 
 - Sound Op: Sofia
 
