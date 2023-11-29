@@ -40,6 +40,16 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - Usher: Sruthi
 
 
+### Sunday, Dec. 3
+
+**Phi Sig Rehearsal**
+
+_Rehearsal: 6pm - 9pm_
+
+- Staff: Abhishek
+- Staff: Sruthi
+
+
 ### Monday, Dec. 4
 
 **Choir Rehearsal**
@@ -47,6 +57,16 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 _Call/Rehearsal Time: 6-9pm_
 
 Sound Op: Sofia
+
+
+### Tuesay, Dec. 5
+
+**Phi Sig Rehearsal**
+
+_Rehearsal: 9pm - 11pm_
+
+- Staff: Abhishek
+- Staff: Sruthi
 
 
 ### Wednesday, Dec. 6
@@ -104,6 +124,16 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 - *Sound Op: Sofia
 - Usher: Joonho
 - Usher: Sruthi
+
+
+### Sunday, Dec. 10
+
+**Phi Sig Rehearsal**
+
+_Rehearsal: 9am - 9pm_
+
+- Staff: Abhishek
+- Staff: Sruthi
 
 
 ### Monday, Dec. 11
