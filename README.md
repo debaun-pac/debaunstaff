@@ -13,62 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-
-### Friday, Dec. 1
-
-**Concert Band Dress Rehearsal**
-
-_Call/Rehearsal time: 6-9pm_
-
-*Should also be available for the concert Sat. Dec. 2
-
-- Stage Manager: Sofia
-- Sound Op: Jasper
-
-
-### Saturday, Dec. 2
-
-**Concert Band Concert**
-
-_Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
-
-- Stage Manager: Sofia
-- House Manager: Luke
-- *Sound Op: Jasper
-- Usher: Abhishek
-- Usher: Sruthi
-
-
-### Sunday, Dec. 3
-
-**Phi Sig Rehearsal**
-
-_Rehearsal: 6pm - 9pm_
-
-- Staff: Abhishek
-- Staff: Sruthi
-
-
-### Monday, Dec. 4
-
-**Choir Rehearsal**
-
-_Call/Rehearsal Time: 6-9pm_
-
-Sound Op: Sofia
-
-
-### Tuesay, Dec. 5
-
-**Phi Sig Rehearsal**
-
-_Rehearsal: 9pm - 11pm_
-
-- Staff: Abhishek
-- Staff: Sruthi
-
-
 ### Wednesday, Dec. 6
 
 **Jazz Band Dress Rehearsal**
@@ -108,7 +52,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 **Choir Tech**
 
-_Call/Rehearsal Time: TBA_
+_Call/Rehearsal Time: 2-5pm
 
 *Should also be available for the concert
 
@@ -158,11 +102,10 @@ _Call Time: 8:30pm  House Opens: 9pm  Event Time: 9:30-11pm_
 _Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
 
 - Stage Manager: Shawna
-- House Manager: Luke
+- House Manager: Sruthi
 - Sound Op: Carl
 - Usher: Michael
 - Usher: Abhishek
-- Usher: Sruthi
 
   
 ### Thursday, Dec. 14
