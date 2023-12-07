@@ -40,7 +40,7 @@ _Call Time: 6:30pm  House Opens: 7:30pm  Event Time: 8pm_
 
 **Choir Tech**
 
-_Call/Rehearsal Time: 2-5pm
+_Call/Rehearsal Time: 2-5pm_
 
 *Should also be available for the concert
 
