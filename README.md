@@ -13,18 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, Dec. 6
-
-**Jazz Band Dress Rehearsal**
-
-_Call/Rehearsal time: 6-9pm_
-
-*Should also be available for the concert Fri. Dec. 8
-
-- Stage Manager: Luke
-- Sound Op: Carl
-
-
 ### Thursday, Dec. 7
 
 **Choir Rehearsal**
