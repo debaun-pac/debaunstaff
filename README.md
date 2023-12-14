@@ -13,22 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, Dec. 13
-
-**Conversation with the President**
-
-_Call Time: 12pm  House Opens: 1pm  Event Time: 1:30-3pm_
-
-- Stage Manager: Shawna
-- House Manager: Sruthi
-- Sound Op: Carl
-- Usher: Michael
-- Usher: Abhishek
-
-  
-### Thursday, Dec. 14
-
-**Canceled** ~**Music & Tech Recital**~ 
 
 
 
