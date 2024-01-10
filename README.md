@@ -13,7 +13,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-**January 11, 2024**
+### January 11, 2024
 
 **Costume Organization Crew Call**
 
