@@ -13,18 +13,87 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### January 11, 2024
+### Thursday, February 15
 
-**Costume Organization Crew Call**
+**Julius Caesar Performance #1**
 
-_Call Time: 12pm - 3pm_
+_Call Time: 7:30, Performance Time: 9pm-11pm_
 
-
-
-
-
+- House Manager:
+- Usher:
 
 
+### Friday, February 16
+
+**Julius Caesar Performance #2**
+
+_Call Time: 6:30pm, Performance Time: 8pm-10pm_
+
+- House Manager:
+- Usher:
 
 
+### Saturday, February 17
 
+**Julius Caesar Performance #3**
+
+_Call Time: 12pm, Performance Time: 2pm-4pm_
+
+- House Manager:
+- Usher:
+
+
+### Tuesday, February 20 & Wednesday, February 21
+
+**Shakespeare Tear Down**
+
+_Call Times: TBA_
+
+- Staff:
+- Staff:
+- Staff:
+
+
+### Thursday, February 22
+
+**Ducks on Display**
+
+_Call Time: 5:30pm, Event Time: 7pm_
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Light Op: 
+- Usher:
+
+
+  ### Friday, March 1
+
+  **Honors Voice Recital**
+
+  _Call Time: 6:30pm, Performance: 8pm_
+
+  - House Manager:
+  - Usher:
+ 
+
+  ### Saturday, March 2
+
+  **Alpha Phi Beauty Pageant**
+
+  _Details TBA_
+
+
+  ### Thursday, March 7
+
+  **SpellaTHON**
+
+  _Call Time: 7:30pm, Event Time: 9pm_
+
+  - Stage Manager:
+  - House Manager:
+  - Sound Op:
+  - Usher:
+ 
+    
+    
