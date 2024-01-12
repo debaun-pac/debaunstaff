@@ -17,7 +17,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Julius Caesar Performance #1**
 
-_Call Time: 7:30, Performance Time: 9pm-11pm_
+_Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
 - House Manager:
 - Usher:
@@ -43,7 +43,7 @@ _Call Time: 12pm, Performance Time: 2pm-4pm_
 - Usher:
 
 
-### Tuesday, February 20 & Wednesday, February 21
+### Tuesday, February 20 and/or Wednesday, February 21
 
 **Shakespeare Tear Down**
 
@@ -67,7 +67,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 - Usher:
 
 
-  ### Friday, March 1
+### Friday, March 1
 
   **Honors Voice Recital**
 
@@ -95,5 +95,187 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - Sound Op:
   - Usher:
  
-    
-    
+
+  ### Friday, April 12
+
+  **Orchestra Dress Rehearsal**
+
+  _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
+
+  - Sound Op: _*Must be available for the concert on 4/13_
+
+ 
+  ### Saturday, April 13
+
+  **Orchestra Concert**
+
+  _Call Time: 6:30pm, Concert Time: 8pm_
+
+  - Stage Manager:
+  - House Manager:
+  - Sound Op: _*Must be available for dress rehearsal on 4/12_
+  - Usher:
+ 
+
+  ### Friday, April 19
+
+  **Concert Band Dress Rehearsal**
+
+  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+
+  - Stage Manager: Shawna
+  - Sound Op: _*Must be available for the concert on 4/20_
+ 
+
+  ### Saturday, April 20
+
+  **Concert Band Concert**
+
+  _Call Time: 6:30pm, Concert Time: 8pm_
+
+  - Stage Manager: Shawna
+  - House Manager:
+  - Sound Op: _*Must be available for dress rehearsal on 4/19_
+  - Usher:
+ 
+
+  ### Monday, April 22
+
+  **Choir Rehearsal**
+
+  _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
+
+  - Sound Op: _*Must be available 4/25 and 4/27_
+ 
+
+  ### Wednesday, April 24
+
+  **Jazz Band Dress Rehearsal**
+
+  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+
+  - Sound Op: Carl
+ 
+
+  ### Thursday, April 25
+
+  **Choir Rehearsal**
+
+  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+
+  _Sound Op: _*Must be available 4/22 and 4/27_
+
+
+  ### Friday, April 26
+
+  **Innovation Expo Ansary Pitch Competition**
+
+  _Call Time: TBA, Event Time: TBA_
+
+  - Stage Manager: Shawna
+  - House Manager:
+  - Sound Op: Carl
+  - Usher:
+  - Usher:
+ 
+
+  **Jazz Band Concert**
+
+  _Call Time: 6:30pm, Concert Time: 8pm_
+
+  - Stage Manager:
+  - House Manager:
+  - Sound Op: Carl
+  - Usher:
+ 
+
+  ### Saturday, April 27
+
+  **Full Choir Dress Rehearsal**
+
+  _Call Time: TBA_
+
+  - Sound Op: _*Must be available 4/22 and 4/25_
+ 
+
+  **Choir Concert**
+
+  _Call Time: 6:30pm, Concert Time: 8pm_
+
+  - Stage Manager:
+  - House Manager: 
+  - Sound Op: *See other dates/times
+  - Usher: 
+
+
+  ### Wednesday, May 1
+
+  **Undergraduate Student Awards**
+
+  _Call Time: 3:30pm, Event Time: 5pm - 7pm_
+
+  - Stage Manager:
+  - House Manager:
+  - Sound Op:
+  - Usher:
+ 
+
+  ### Friday, May 3
+
+  **Music & Tech Recital**
+
+  _To be confirmed_
+
+
+ ### Monday, May 6
+
+ **Athletic Awards**
+
+ _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
+
+ - Stage Manager:
+ - House Manager:
+ - Sound Op:
+ - Usher:
+
+
+### Monday, May 20 
+
+**PhD Hooding Ceremony**
+
+_Call Time: 11:30am, Event Time: 1pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+
+**Graduate Awards Ceremony**
+
+_Call Time: 4:30pm, Event Time: 6pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+
+### Tuesday, May 21
+
+**Senior Awards**
+
+_Call Time: 11:30am, Event Time: 1pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+
+**Order of the Engineer Ceremony**
+
+_Details TBA_
+
+
+
