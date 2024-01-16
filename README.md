@@ -50,7 +50,7 @@ _Call Time: 12pm, Performance Time: 2pm-4pm_
 _Call Times: TBA_
 
 - Staff: Abhishek
-- Staff:
+- Staff: Evan (Tue)
 - Staff:
 
 
@@ -176,7 +176,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - House Manager: Abhishek
   - Sound Op: Carl
   - Usher: Michael
-  - Usher:
+  - Usher: Evan 
  
 
   **Jazz Band Concert**
@@ -202,7 +202,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6:30pm, Concert Time: 8pm_
 
-  - Stage Manager:
+  - Stage Manager: Evan 
   - House Manager: Michael
   - Sound Op: *See other dates/times
   - Usher: Abhishek
@@ -216,8 +216,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   - Stage Manager: Shawna
   - House Manager: Abhishek
-  - Sound Op:
-  - Usher:
+  - Sound Op: Evan 
+  - Usher: 
  
 
   ### Friday, May 3
@@ -225,6 +225,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
   **Music & Tech Recital**
 
   _To be confirmed_
+
+  Staff: Evan 
 
 
  ### Monday, May 6
@@ -235,7 +237,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
  - Stage Manager: Shawna
  - House Manager: Abhishek
- - Sound Op:
+ - Sound Op: Evan 
  - Usher:
 
 
