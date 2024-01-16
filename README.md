@@ -19,8 +19,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
-- House Manager:
-- Usher:
+- House Manager: Abhishek
+- Usher: Michael 
 
 
 ### Friday, February 16
@@ -29,8 +29,8 @@ _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
 _Call Time: 6:30pm, Performance Time: 8pm-10pm_
 
-- House Manager:
-- Usher:
+- House Manager: Abhishek
+- Usher: Michael 
 
 
 ### Saturday, February 17
@@ -39,8 +39,8 @@ _Call Time: 6:30pm, Performance Time: 8pm-10pm_
 
 _Call Time: 12pm, Performance Time: 2pm-4pm_
 
-- House Manager:
-- Usher:
+- House Manager: Abhishek
+- Usher: Michael
 
 
 ### Tuesday, February 20 and/or Wednesday, February 21
@@ -49,7 +49,7 @@ _Call Time: 12pm, Performance Time: 2pm-4pm_
 
 _Call Times: TBA_
 
-- Staff:
+- Staff: Abhishek
 - Staff:
 - Staff:
 
@@ -60,10 +60,10 @@ _Call Times: TBA_
 
 _Call Time: 5:30pm, Event Time: 7pm_
 
-- Stage Manager: 
+- Stage Manager: Abhishek
 - House Manager: 
 - Sound Op: 
-- Light Op: 
+- Light Op: Michael
 - Usher:
 
 
@@ -73,8 +73,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6:30pm, Performance: 8pm_
 
-  - House Manager:
-  - Usher:
+ - House Manager: Abhishek
+ - Usher: Michael
  
 
   ### Saturday, March 2
@@ -91,8 +91,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: 7:30pm, Event Time: 9pm_
 
   - Stage Manager:
-  - House Manager:
-  - Sound Op:
+  - House Manager: 
+  - Sound Op: Abhishek
   - Usher:
  
 
@@ -111,8 +111,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6:30pm, Concert Time: 8pm_
 
-  - Stage Manager:
-  - House Manager:
+  - Stage Manager: Abhishek
+  - House Manager: Michael
   - Sound Op: _*Must be available for dress rehearsal on 4/12_
   - Usher:
  
@@ -134,9 +134,9 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: 6:30pm, Concert Time: 8pm_
 
   - Stage Manager: Shawna
-  - House Manager:
+  - House Manager: Michael
   - Sound Op: _*Must be available for dress rehearsal on 4/19_
-  - Usher:
+  - Usher: Abhishek
  
 
   ### Monday, April 22
@@ -173,9 +173,9 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: TBA, Event Time: TBA_
 
   - Stage Manager: Shawna
-  - House Manager:
+  - House Manager: Abhishek
   - Sound Op: Carl
-  - Usher:
+  - Usher: Michael
   - Usher:
  
 
@@ -183,8 +183,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6:30pm, Concert Time: 8pm_
 
-  - Stage Manager:
-  - House Manager:
+  - Stage Manager: 
+  - House Manager: Abhishek
   - Sound Op: Carl
   - Usher:
  
@@ -203,9 +203,9 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: 6:30pm, Concert Time: 8pm_
 
   - Stage Manager:
-  - House Manager: 
+  - House Manager: Michael
   - Sound Op: *See other dates/times
-  - Usher: 
+  - Usher: Abhishek
 
 
   ### Wednesday, May 1
@@ -214,8 +214,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 3:30pm, Event Time: 5pm - 7pm_
 
-  - Stage Manager:
-  - House Manager:
+  - Stage Manager: Shawna
+  - House Manager: Abhishek
   - Sound Op:
   - Usher:
  
@@ -233,8 +233,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
  _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 
- - Stage Manager:
- - House Manager:
+ - Stage Manager: Shawna
+ - House Manager: Abhishek
  - Sound Op:
  - Usher:
 
@@ -245,8 +245,8 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
 _Call Time: 11:30am, Event Time: 1pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Shawna
+- House Manager: Abhishek
 - Sound Op:
 - Usher:
 
