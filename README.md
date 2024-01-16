@@ -255,8 +255,8 @@ _Call Time: 11:30am, Event Time: 1pm_
 
 _Call Time: 4:30pm, Event Time: 6pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Shawna
+- House Manager: Abhishek
 - Sound Op:
 - Usher:
 
