@@ -62,7 +62,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
 - Stage Manager: Abhishek
 - House Manager: 
-- Sound Op: 
+- Sound Op: Julia
 - Light Op: Michael
 - Usher:
 
