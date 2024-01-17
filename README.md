@@ -93,7 +93,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - Stage Manager:
   - House Manager: 
   - Sound Op: Abhishek
-  - Usher:
+  - Usher: Sofia
  
 
   ### Friday, April 12
@@ -124,7 +124,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
   - Stage Manager: Shawna
-  - Sound Op: _*Must be available for the concert on 4/20_
+  - Sound Op: Sofia
  
 
   ### Saturday, April 20
@@ -135,7 +135,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   - Stage Manager: Shawna
   - House Manager: Michael
-  - Sound Op: _*Must be available for dress rehearsal on 4/19_
+  - Sound Op: Sofia
   - Usher: Abhishek
  
 
@@ -145,7 +145,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
-  - Sound Op: _*Must be available 4/25 and 4/27_
+  - Sound Op: Sofia
  
 
   ### Wednesday, April 24
@@ -163,7 +163,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
-  _Sound Op: _*Must be available 4/22 and 4/27_
+  _Sound Op: Sofia
 
 
   ### Friday, April 26
@@ -186,7 +186,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - Stage Manager: 
   - House Manager: Abhishek
   - Sound Op: Carl
-  - Usher:
+  - Usher: Sofia
  
 
   ### Saturday, April 27
@@ -195,7 +195,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: TBA_
 
-  - Sound Op: _*Must be available 4/22 and 4/25_
+  - Sound Op: Sofia
  
 
   **Choir Concert**
@@ -204,7 +204,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   - Stage Manager: Evan 
   - House Manager: Michael
-  - Sound Op: *See other dates/times
+  - Sound Op: Sofia
   - Usher: Abhishek
 
 
@@ -217,7 +217,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - Stage Manager: Shawna
   - House Manager: Abhishek
   - Sound Op: Evan 
-  - Usher: 
+  - Usher: Sofia
  
 
   ### Friday, May 3
@@ -249,7 +249,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager: Shawna
 - House Manager: Abhishek
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 
