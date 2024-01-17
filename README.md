@@ -69,174 +69,176 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
 ### Friday, March 1
 
-  **Honors Voice Recital**
+**Honors Voice Recital**
 
-  _Call Time: 6:30pm, Performance: 8pm_
+_Call Time: 6:30pm, Performance: 8pm_
 
- - House Manager: Abhishek
- - Usher: Michael
+- House Manager: Abhishek
+- Usher: Michael
  
 
-  ### Saturday, March 2
+### Saturday, March 2
 
-  **Alpha Phi Beauty Pageant**
+**Alpha Phi Beauty Pageant**
 
-  _Details TBA_
+_Details TBA_
 
 
-  ### Thursday, March 7
+### Thursday, March 7
 
-  **SpellaTHON**
+**SpellaTHON**
 
-  _Call Time: 7:30pm, Event Time: 9pm_
+_Call Time: 7:30pm, Event Time: 9pm_
 
-  - Stage Manager:
-  - House Manager: 
-  - Sound Op: Abhishek
-  - Usher: 
+- Stage Manager:
+- House Manager: 
+- Sound Op: Abhishek
+- Usher:
  
 
-  ### Friday, April 12
+### Friday, April 12
 
-  **Orchestra Dress Rehearsal**
+**Orchestra Dress Rehearsal**
 
-  _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
+_Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
-  - Sound Op: Sofia
- 
-  ### Saturday, April 13
-
-  **Orchestra Concert**
-
-  _Call Time: 6:30pm, Concert Time: 8pm_
-
-  - Stage Manager: Abhishek
-  - House Manager: Michael
-  - Sound Op: Sofia
-  - Usher:
+- Sound Op: Sofia
  
 
-  ### Friday, April 19
+### Saturday, April 13
 
-  **Concert Band Dress Rehearsal**
+**Orchestra Concert**
 
-  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+_Call Time: 6:30pm, Concert Time: 8pm_
 
-  - Stage Manager: Shawna
-  - Sound Op: _*Must be available for Concert on 4/20_
-
-  ### Saturday, April 20
-
-  **Concert Band Concert**
-
-  _Call Time: 6:30pm, Concert Time: 8pm_
-
-  - Stage Manager: Shawna
-  - House Manager: Michael
-  - Sound Op: _*Must be available for Concert on 4/19_
-  - Usher: Abhishek
+- Stage Manager: Abhishek
+- House Manager: Michael
+- Sound Op: Sofia
+- Usher:
  
 
-  ### Monday, April 22
+### Friday, April 19
 
-  **Choir Rehearsal**
+**Concert Band Dress Rehearsal**
 
-  _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
+_Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
-  - Sound Op: Sofia
+- Stage Manager: Shawna
+- Sound Op: _*Must be available for Concert on 4/20_
+
+
+### Saturday, April 20
+
+**Concert Band Concert**
+
+_Call Time: 6:30pm, Concert Time: 8pm_
+
+- Stage Manager: Shawna
+- House Manager: Michael
+- Sound Op: _*Must be available for Concert on 4/19_
+- Usher: Abhishek
  
 
-  ### Wednesday, April 24
+### Monday, April 22
 
-  **Jazz Band Dress Rehearsal**
+**Choir Rehearsal**
 
-  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+_Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
-  - Sound Op: Carl
+- Sound Op: Sofia
  
 
-  ### Thursday, April 25
+### Wednesday, April 24
 
-  **Choir Rehearsal**
+**Jazz Band Dress Rehearsal**
 
-  _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+_Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
-  _Sound Op: Sofia
-
-
-  ### Friday, April 26
-
-  **Innovation Expo Ansary Pitch Competition**
-
-  _Call Time: TBA, Event Time: TBA_
-
-  - Stage Manager: Shawna
-  - House Manager: Abhishek
-  - Sound Op: Carl
-  - Usher: Michael
-  - Usher: Evan 
+- Sound Op: Carl
  
 
-  **Jazz Band Concert**
+### Thursday, April 25
 
-  _Call Time: 6:30pm, Concert Time: 8pm_
+**Choir Rehearsal**
 
-  - Stage Manager: 
-  - House Manager: Abhishek
-  - Sound Op: Carl
-  - Usher: Sofia
+_Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
+
+_Sound Op: Sofia
+
+
+### Friday, April 26
+
+**Innovation Expo Ansary Pitch Competition**
+
+_Call Time: TBA, Event Time: TBA_
+
+- Stage Manager: Shawna
+- House Manager: Abhishek
+- Sound Op: Carl
+- Usher: Michael
+- Usher: Evan 
  
 
-  ### Saturday, April 27
+**Jazz Band Concert**
 
-  **Full Choir Dress Rehearsal**
+_Call Time: 6:30pm, Concert Time: 8pm_
 
-  _Call Time: TBA_
-
-  - Sound Op: Sofia
+- Stage Manager: 
+- House Manager: Abhishek
+- Sound Op: Carl
+- Usher: Sofia
  
 
-  **Choir Concert**
+### Saturday, April 27
 
-  _Call Time: 6:30pm, Concert Time: 8pm_
+**Full Choir Dress Rehearsal**
 
-  - Stage Manager: Evan 
-  - House Manager: Michael
-  - Sound Op: Sofia
-  - Usher: Abhishek
+_Call Time: TBA_
 
-
-  ### Wednesday, May 1
-
-  **Undergraduate Student Awards**
-
-  _Call Time: 3:30pm, Event Time: 5pm - 7pm_
-
-  - Stage Manager: Shawna
-  - House Manager: Abhishek
-  - Sound Op: Evan 
-  - Usher: Sofia
+- Sound Op: Sofia
  
 
-  ### Friday, May 3
+**Choir Concert**
 
-  **Music & Tech Recital**
+_Call Time: 6:30pm, Concert Time: 8pm_
 
-  _To be confirmed_
+- Stage Manager: Evan 
+- House Manager: Michael
+- Sound Op: Sofia
+- Usher: Abhishek
 
-  Staff: Evan 
+
+### Wednesday, May 1
+
+**Undergraduate Student Awards**
+
+ _Call Time: 3:30pm, Event Time: 5pm - 7pm_
+
+- Stage Manager: Shawna
+- House Manager: Abhishek
+- Sound Op: Evan 
+- Usher: Sofia
+ 
+
+### Friday, May 3
+
+**Music & Tech Recital**
+
+_To be confirmed_
+
+Staff: Evan
 
 
- ### Monday, May 6
+### Monday, May 6
 
- **Athletic Awards**
+**Athletic Awards**
 
- _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
+_Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 
- - Stage Manager: Shawna
- - House Manager: Abhishek
- - Sound Op: Evan 
- - Usher:
+- Stage Manager: Shawna
+- House Manager: Abhishek
+- Sound Op: Evan 
+- Usher:
 
 
 ### Monday, May 20 
