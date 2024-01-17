@@ -93,7 +93,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   - Stage Manager:
   - House Manager: 
   - Sound Op: Abhishek
-  - Usher: Sofia
+  - Usher: 
  
 
   ### Friday, April 12
@@ -102,8 +102,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
-  - Sound Op: _*Must be available for the concert on 4/13_
-
+  - Sound Op: Sofia
  
   ### Saturday, April 13
 
@@ -113,7 +112,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   - Stage Manager: Abhishek
   - House Manager: Michael
-  - Sound Op: _*Must be available for dress rehearsal on 4/12_
+  - Sound Op: Sofia
   - Usher:
  
 
@@ -124,8 +123,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
   _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
   - Stage Manager: Shawna
-  - Sound Op: Sofia
- 
+  - Sound Op: _*Must be available for Concert on 4/20_
 
   ### Saturday, April 20
 
@@ -135,7 +133,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
   - Stage Manager: Shawna
   - House Manager: Michael
-  - Sound Op: Sofia
+  - Sound Op: _*Must be available for Concert on 4/19_
   - Usher: Abhishek
  
 
