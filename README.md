@@ -51,7 +51,7 @@ _Call Times: TBA_
 
 - Staff: Abhishek
 - Staff: Evan (Tue)
-- Staff:
+- Staff: Luke
 
 
 ### Thursday, February 22
@@ -61,10 +61,10 @@ _Call Times: TBA_
 _Call Time: 5:30pm, Event Time: 7pm_
 
 - Stage Manager: Abhishek
-- House Manager: 
+- House Manager: Luke
 - Sound Op: Julia
 - Light Op: Michael
-- Usher:
+- Usher: 
 
 
 ### Friday, March 1
@@ -83,6 +83,8 @@ _Call Time: 6:30pm, Performance: 8pm_
 
 _Details TBA_
 
+Luke (T)
+
 
 ### Thursday, March 7
 
@@ -90,7 +92,7 @@ _Details TBA_
 
 _Call Time: 7:30pm, Event Time: 9pm_
 
-- Stage Manager:
+- Stage Manager: Luke
 - House Manager: 
 - Sound Op: Abhishek
 - Usher:
@@ -114,7 +116,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 - Stage Manager: Abhishek
 - House Manager: Michael
 - Sound Op: Sofia
-- Usher:
+- Usher: Luke
  
 
 ### Friday, April 19
@@ -124,7 +126,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
 - Stage Manager: Shawna
-- Sound Op: _*Must be available for Concert on 4/20_
+- Sound Op: Luke
 
 
 ### Saturday, April 20
@@ -135,7 +137,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Shawna
 - House Manager: Michael
-- Sound Op: _*Must be available for Concert on 4/19_
+- Sound Op: Luke
 - Usher: Abhishek
  
 
@@ -183,7 +185,7 @@ _Call Time: TBA, Event Time: TBA_
 
 _Call Time: 6:30pm, Concert Time: 8pm_
 
-- Stage Manager: 
+- Stage Manager: Luke (T)
 - House Manager: Abhishek
 - Sound Op: Carl
 - Usher: Sofia
@@ -238,7 +240,7 @@ _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 - Stage Manager: Shawna
 - House Manager: Abhishek
 - Sound Op: Evan 
-- Usher:
+- Usher: Luke
 
 
 ### Monday, May 20 
