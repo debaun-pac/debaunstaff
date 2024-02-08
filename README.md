@@ -66,7 +66,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 - House Manager: Luke
 - Sound Op: Julia
 - Light Op: Michael
-- Usher: 
+- Usher: Joonho
 
 
 ### Friday, March 1
@@ -97,7 +97,7 @@ _Call Time: 7:30pm, Event Time: 9pm_
 - Stage Manager: Luke
 - House Manager: 
 - Sound Op: Abhishek
-- Usher:
+- Usher: Joonho
  
 
 ### Friday, April 12
