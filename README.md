@@ -254,7 +254,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 - Stage Manager: Shawna
 - House Manager: Abhishek
 - Sound Op: Sofia
-- Usher:
+- Usher: Joonho
 
 
 **Graduate Awards Ceremony**
@@ -263,7 +263,7 @@ _Call Time: 4:30pm, Event Time: 6pm_
 
 - Stage Manager: Shawna
 - House Manager: Abhishek
-- Sound Op:
+- Sound Op: Joonho
 - Usher:
 
 
@@ -274,7 +274,7 @@ _Call Time: 4:30pm, Event Time: 6pm_
 _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Joonho
 - Sound Op:
 - Usher:
 
