@@ -74,8 +74,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 
 _Call Time: 6:30pm, Performance: 8pm_
 
-- House Manager: Abhishek
-- Usher: Michael
+- House Manager: Michael
  
 
 ### Saturday, March 2
