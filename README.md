@@ -20,7 +20,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
 - House Manager: Abhishek
-- Usher: Sofia
 - Light Op: Michael
 
 
@@ -30,8 +29,7 @@ _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
 _Call Time: 6:30pm, Performance Time: 8pm-10pm_
 
-- House Manager: Abhishek
-- Usher: Sofia 
+- House Manager: Sofia
 - Light Op: Michael
   
 
@@ -42,7 +40,8 @@ _Call Time: 6:30pm, Performance Time: 8pm-10pm_
 _Call Time: 12pm, Performance Time: 2pm-4pm_
 
 - House Manager: Abhishek
-- Usher: Michael
+- Usher: Sofia
+- Light Op: Michael
 
 
 ### Tuesday, February 20 and/or Wednesday, February 21
