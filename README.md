@@ -20,6 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 
 - House Manager: Abhishek
+- Usher: Ismael
 - Light Op: Michael
 
 
@@ -30,6 +31,7 @@ _Call Time: 7:30pm, Performance Time: 9pm-11pm_
 _Call Time: 6:30pm, Performance Time: 8pm-10pm_
 
 - House Manager: Sofia
+- Usher: Ismael
 - Light Op: Michael
   
 
@@ -44,14 +46,14 @@ _Call Time: 12pm, Performance Time: 2pm-4pm_
 - Light Op: Michael
 
 
-### Tuesday, February 20 and/or Wednesday, February 21
+### Tuesday, February 20 
 
 **Shakespeare Tear Down**
 
-_Call Times: TBA_
+_Call Times: 12-5pm
 
 - Staff: Abhishek
-- Staff: Evan (Tue)
+- Staff: Evan 
 - Staff: Luke
 
 
