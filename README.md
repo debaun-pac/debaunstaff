@@ -50,7 +50,7 @@ _Call Time: 12pm, Performance Time: 2pm-4pm_
 
 **Shakespeare Tear Down**
 
-_Call Times: 12-5pm
+_Call Times: 12-5pm_
 
 - Staff: Abhishek
 - Staff: Evan 
