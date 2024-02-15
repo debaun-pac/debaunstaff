@@ -79,13 +79,13 @@ _Call Time: 6:30pm, Performance: 8pm_
 - House Manager: Michael
  
 
-### Saturday, March 2
+~~### Saturday, March 2~~ **CANCELLED**
 
-**Alpha Phi Beauty Pageant**
+~~**Alpha Phi Beauty Pageant**~~
 
-_Details TBA_
+~~_Details TBA_~~
 
-Luke (T)
+~~Luke (T)~~
 
 
 ### Thursday, March 7
