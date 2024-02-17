@@ -11,18 +11,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
-
-
-
-### Friday, February 16
-
-**Julius Caesar Performance #2**
-
-_Call Time: 6:30pm, Performance Time: 8pm-10pm_
-
-- House Manager: Sofia
-- Usher: Ismael
-- Light Op: Michael
   
 
 ### Saturday, February 17
