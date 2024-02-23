@@ -13,41 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
   
 
-### Saturday, February 17
-
-**Julius Caesar Performance #3**
-
-_Call Time: 12pm, Performance Time: 2pm-4pm_
-
-- House Manager: Abhishek
-- Usher: Sofia
-- Light Op: Michael
-
-
-### Tuesday, February 20 
-
-**Shakespeare Tear Down**
-
-_Call Times: 12-5pm_
-
-- Staff: Abhishek
-- Staff: Evan 
-- Staff: Luke
-
-
-### Thursday, February 22
-
-**Ducks on Display**
-
-_Call Time: 5:30pm, Event Time: 7pm_
-
-- Stage Manager: Abhishek
-- House Manager: Luke
-- Sound Op: Julia
-- Light Op: Michael
-- Usher: Joonho
-
-
 ### Friday, March 1
 
 **Honors Voice Recital**
@@ -55,6 +20,7 @@ _Call Time: 5:30pm, Event Time: 7pm_
 _Call Time: 6:30pm, Performance: 8pm_
 
 - House Manager: Michael
+- Usher: Sophia
  
 
 ### Saturday, March 2
