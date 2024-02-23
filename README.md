@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 6:30pm, Performance: 8pm_
 
 - House Manager: Michael
-- Usher: Sophia
+- Usher: Sofia
  
 
 ### Saturday, March 2
