@@ -23,17 +23,6 @@ _Call Time: 6:30pm, Performance: 8pm_
 - Usher: Sofia
  
 
-### Saturday, March 2
-
-**CANCELLED**
-
-~~**Alpha Phi Beauty Pageant**~~
-
-~~_Details TBA_~~
-
-~~Luke (T)~~
-
-
 ### Thursday, March 7
 
 **SpellaTHON**
