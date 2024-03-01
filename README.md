@@ -21,6 +21,7 @@ _Call Time: 6:30pm, Performance: 8pm_
 
 - House Manager: Michael
 - Usher: Sofia
+- Usher: Wan
  
 
 ### Thursday, March 7
@@ -30,9 +31,9 @@ _Call Time: 6:30pm, Performance: 8pm_
 _Call Time: 7:30pm, Event Time: 9pm_
 
 - Stage Manager: Luke
-- House Manager: 
+- House Manager: Joonho
 - Sound Op: Abhishek
-- Usher: Joonho
+- Usher: Wan
  
 
 ### Friday, April 12
