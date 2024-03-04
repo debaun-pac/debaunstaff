@@ -13,24 +13,15 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
   
 
-### Friday, March 1
 
-**Honors Voice Recital**
-
-_Call Time: 6:30pm, Performance: 8pm_
-
-- House Manager: Michael
-- Usher: Sofia
-- Usher: Wan
- 
 
 ### Thursday, March 7
 
 **SpellaTHON**
 
-_Call Time: 7:30pm, Event Time: 9pm_
+_Call Time: 8pm, Event Time: 9:15pm_
 
-- Stage Manager: Luke
+- Stage Manager: Shawna
 - House Manager: Joonho
 - Sound Op: Abhishek
 - Usher: Wan
