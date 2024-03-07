@@ -43,7 +43,7 @@ _Call Time: 7:30pm, Performance Time: 9pm - 11:30pm_
 
 _Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
@@ -53,7 +53,7 @@ _Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
 
 _Call Time: 12:30pm, Performance Time: 2pm - 4:30pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
@@ -61,7 +61,7 @@ _Call Time: 12:30pm, Performance Time: 2pm - 4:30pm_
 
 _Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
