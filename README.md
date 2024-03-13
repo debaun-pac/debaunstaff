@@ -14,19 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
   
 
 
-
-### Thursday, March 7
-
-**SpellaTHON**
-
-_Call Time: 8pm, Event Time: 9:15pm_
-
-- Stage Manager: Shawna
-- House Manager: Joonho
-- Sound Op: Abhishek
-- Usher: Wan
-
-
 ### Thursday, April 4
 
 **The Addams Family Performance #1**
