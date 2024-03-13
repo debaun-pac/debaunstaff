@@ -125,8 +125,8 @@ _Sound Op: Sofia
 ### Friday, April 26
 
 **Innovation Expo Ansary Pitch Competition**
-
-_Call Time: TBA, Event Time: TBA_
+_Call Time: 1:30pm, Event Time: 3-4:30pm_
+_*We will need to flip the stage to the Jazz Band set up immediately following this event_
 
 - Stage Manager: Shawna
 - House Manager: Abhishek
