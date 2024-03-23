@@ -20,8 +20,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30pm, Performance Time: 9pm - 11:30pm_
 
-- House Manager:
-- Usher:
+- House Manager: 
+- Usher: Chloe
 
 
 ### Friday, April 5
@@ -31,7 +31,7 @@ _Call Time: 7:30pm, Performance Time: 9pm - 11:30pm_
 _Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
 
 - House Manager: Joonho
-- Usher:
+- Usher: Chloe
 
 
 ### Saturday, April 6
