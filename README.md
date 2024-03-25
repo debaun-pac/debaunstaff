@@ -49,7 +49,7 @@ _Call Time: 12:30pm, Performance Time: 2pm - 4:30pm_
 _Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
 
 - House Manager: Joonho
-- Usher:
+- Usher: Wan
 
 
 ### Friday, April 12
