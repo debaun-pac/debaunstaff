@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30pm, Performance Time: 9pm - 11:30pm_
 
-- House Manager: 
+- House Manager: JJ
 - Usher: Chloe
 
 
