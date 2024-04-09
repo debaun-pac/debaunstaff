@@ -81,7 +81,7 @@ _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
 _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
-_Sound Op: Sofia
+- Sound Op: Sofia
 
 
 ### Friday, April 26
