@@ -14,44 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
   
 
 
-### Thursday, April 4
-
-**The Addams Family Performance #1**
-
-_Call Time: 7:30pm, Performance Time: 9pm - 11:30pm_
-
-- House Manager: JJ
-- Usher: Chloe
-
-
-### Friday, April 5
-
-**The Addams Family Performance #2**
-
-_Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
-
-- House Manager: Joonho
-- Usher: Chloe
-
-
-### Saturday, April 6
-
-**The Addams Family Performance #3**
-
-_Call Time: 12:30pm, Performance Time: 2pm - 4:30pm_
-
-- House Manager: Joonho
-- Usher: Liam
-
-
-**The Addams Family Performance #4**
-
-_Call Time: 6:30pm, Performance Time: 8pm - 10:30pm_
-
-- House Manager: Joonho
-- Usher: Wan
-
-
 ### Friday, April 12
 
 **Orchestra Dress Rehearsal**
