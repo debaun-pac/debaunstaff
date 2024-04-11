@@ -29,7 +29,7 @@ _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
 _Call Time: 6:30pm, Concert Time: 8pm_
 
-- Stage Manager: Abhishek
+- Stage Manager: 
 - House Manager: Michael
 - Sound Op: Sofia
 - Usher: Luke
@@ -54,7 +54,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Luke
-- Usher: Abhishek
+- Usher: 
  
 
 ### Monday, April 22
@@ -92,7 +92,7 @@ _Call Time: 1:30pm, Event Time: 3-4:30pm_
 _*We will need to flip the stage to the Jazz Band set up immediately following this event_
 
 - Stage Manager: Shawna
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Carl
 - Usher: Michael
 - Usher: Evan 
@@ -103,7 +103,7 @@ _*We will need to flip the stage to the Jazz Band set up immediately following t
 _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Luke (T)
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Carl
 - Usher: Sofia
  
@@ -124,7 +124,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 - Stage Manager: Evan 
 - House Manager: Michael
 - Sound Op: Sofia
-- Usher: Abhishek
+- Usher: 
 
 
 ### Wednesday, May 1
@@ -134,7 +134,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
  _Call Time: 3:30pm, Event Time: 5pm - 7pm_
 
 - Stage Manager: Shawna
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Evan 
 - Usher: Sofia
  
@@ -155,7 +155,7 @@ Staff: Evan
 _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 
 - Stage Manager: Shawna
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Evan 
 - Usher: Luke
 
@@ -167,7 +167,7 @@ _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager: Shawna
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Sofia
 - Usher: Joonho
 
@@ -177,7 +177,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 _Call Time: 4:30pm, Event Time: 6pm_
 
 - Stage Manager: Shawna
-- House Manager: Abhishek
+- House Manager: 
 - Sound Op: Joonho
 - Usher:
 
