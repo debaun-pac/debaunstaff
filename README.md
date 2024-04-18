@@ -14,27 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
   
 
 
-### Friday, April 12
-
-**Orchestra Dress Rehearsal**
-
-_Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
-
-- Sound Op: Sofia
- 
-
-### Saturday, April 13
-
-**Orchestra Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm_
-
-- Stage Manager: 
-- House Manager: Michael
-- Sound Op: Sofia
-- Usher: Luke
- 
-
 ### Friday, April 19
 
 **Concert Band Dress Rehearsal**
