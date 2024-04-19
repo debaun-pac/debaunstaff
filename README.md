@@ -21,7 +21,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
 - Stage Manager: Shawna
-- Sound Op: Luke
+- Sound Op: Carl
 
 
 ### Saturday, April 20
@@ -32,7 +32,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Shawna
 - House Manager: Michael
-- Sound Op: Luke
+- Sound Op: Carl
 - Usher: 
  
 
