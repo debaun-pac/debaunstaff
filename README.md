@@ -82,7 +82,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 **Full Choir Dress Rehearsal**
 
-_Call Time: TBA_
+_Call Time: 1pm_
 
 - Sound Op: Sofia
  
