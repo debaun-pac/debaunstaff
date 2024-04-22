@@ -15,18 +15,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Saturday, April 20
-
-**Concert Band Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm_
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: Joonho (7pm)
- 
-
 ### Monday, April 22
 
 **Choir Rehearsal**
@@ -73,7 +61,7 @@ _*We will need to flip the stage to the Jazz Band set up immediately following t
 _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Luke (T)
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Carl
 - Usher: Sofia
  
