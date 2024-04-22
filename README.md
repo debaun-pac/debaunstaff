@@ -21,7 +21,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
 
-- Sound Op: Sofia
+- Sound Op: Carl
  
 
 ### Wednesday, April 24
@@ -39,7 +39,7 @@ _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
 _Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
 
-- Sound Op: Sofia
+- Sound Op: Shawna
 
 
 ### Friday, April 26
@@ -72,7 +72,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 _Call Time: 1pm_
 
-- Sound Op: Sofia
+- Sound Op: Carl
  
 
 **Choir Concert**
@@ -81,7 +81,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Evan 
 - House Manager: Michael
-- Sound Op: Sofia
+- Sound Op: Carl
 - Usher: 
 
 
