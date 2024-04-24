@@ -125,7 +125,7 @@ _Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
 _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Luke
 - Sound Op: Sofia
 - Usher: Joonho
 
@@ -135,7 +135,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 _Call Time: 4:30pm, Event Time: 6pm_
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Luke
 - Sound Op: Joonho
 - Usher:
 
@@ -146,7 +146,7 @@ _Call Time: 4:30pm, Event Time: 6pm_
 
 _Call Time: 11:30am, Event Time: 1pm_
 
-- Stage Manager:
+- Stage Manager: Luke
 - House Manager: Joonho
 - Sound Op:
 - Usher:
