@@ -15,15 +15,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Monday, April 22
-
-**Choir Rehearsal**
-
-_Call Time: 6pm, Rehearsal Time: 6:30pm-9pm_
-
-- Sound Op: Carl
- 
-
 ### Wednesday, April 24
 
 **Jazz Band Dress Rehearsal**
