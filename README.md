@@ -15,15 +15,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Wednesday, April 24
-
-**Jazz Band Dress Rehearsal**
-
-_Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
-
-- Sound Op: Carl
- 
-
 ### Thursday, April 25
 
 **Choir Rehearsal**
@@ -51,7 +42,7 @@ _*We will need to flip the stage to the Jazz Band set up immediately following t
 
 _Call Time: 6:30pm, Concert Time: 8pm_
 
-- Stage Manager: Luke (T)
+- Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Carl
 - Usher: Sofia
@@ -83,7 +74,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
  _Call Time: 3:30pm, Event Time: 5pm - 7pm_
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Evan 
 - Usher: Sofia
  
@@ -94,14 +85,13 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 _To be confirmed_
 
-Staff: Evan
 
 
 ### Monday, May 6
 
 **Athletic Awards**
 
-_Call Time: *3:30pm, Event Time: *5pm *Times to be confirmed_
+_Call Time: *5:30pm, Event Time: *7pm *Times to be confirmed_
 
 - Stage Manager: Shawna
 - House Manager: 
