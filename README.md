@@ -11,22 +11,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
-  
-
-
-### Friday, April 26
-
-**Innovation Expo Ansary Pitch Competition**
-
-_Call Time: 1:30pm, Event Time: 3-4:30pm_
-
-_*We will need to flip the stage to the Jazz Band set up immediately following this event_
-
-- Stage Manager: Shawna
-- House Manager: 
-- Sound Op: Carl
-- Usher: Michael
-- Usher: Evan 
  
 
 **Jazz Band Concert**
