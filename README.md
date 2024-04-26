@@ -14,19 +14,10 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
   
 
 
-
-### Thursday, April 25
-
-**Choir Rehearsal**
-
-_Call Time: 6pm, Rehearsal Time: 6:30pm - 9pm_
-
-- Sound Op: Shawna
-
-
 ### Friday, April 26
 
 **Innovation Expo Ansary Pitch Competition**
+
 _Call Time: 1:30pm, Event Time: 3-4:30pm_
 
 _*We will need to flip the stage to the Jazz Band set up immediately following this event_
