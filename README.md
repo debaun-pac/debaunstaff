@@ -13,15 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
  
 
-**Jazz Band Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm_
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: Sofia
- 
 
 ### Saturday, April 27
 
