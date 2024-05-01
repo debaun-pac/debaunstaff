@@ -14,25 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
  
 
 
-### Saturday, April 27
-
-**Full Choir Dress Rehearsal**
-
-_Call Time: 1pm_
-
-- Sound Op: Carl
- 
-
-**Choir Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm_
-
-- Stage Manager: Evan 
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: 
-
-
 ### Wednesday, May 1
 
 **Undergraduate Student Awards**
