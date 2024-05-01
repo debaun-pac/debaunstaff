@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Undergraduate Student Awards**
 
- _Call Time: 3:30pm, Event Time: 5pm - 7pm_
+ _Call Time: 5pm, Event Time: 6pm - 7pm_
 
 - Stage Manager: Shawna
 - House Manager: Michael
