@@ -14,31 +14,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
  
 
 
-### Wednesday, May 1
-
-**Undergraduate Student Awards**
-
- _Call Time: 5pm, Event Time: 6pm - 7pm_
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Evan 
-- Usher: Sofia
- 
-
-### Friday, May 3
-
-**Music & Tech Recital**
-
-_To be confirmed_
-
-
-
 ### Monday, May 6
 
 **Athletic Awards**
 
-_Call Time: *5:30pm, Event Time: *7pm *Times to be confirmed_
+_Call Time: 5:30pm, Event Time: 7pm_
 
 - Stage Manager: Shawna
 - House Manager: 
