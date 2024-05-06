@@ -56,13 +56,15 @@ _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager: Luke
 - House Manager: Joonho
-- Sound Op:
+- Sound Op: Carl
 - Usher:
 
 
 **Order of the Engineer Ceremony**
 
-_Details TBA_
+_Call Time: 2:30pm, Event Time: 3pm_
 
-
+Stage Manager: Shawna
+House Manager: 
+Sound Op: Carl
 
