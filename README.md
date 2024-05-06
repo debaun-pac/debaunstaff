@@ -60,11 +60,4 @@ _Call Time: 11:30am, Event Time: 1pm_
 - Usher:
 
 
-**Order of the Engineer Ceremony**
-
-_Call Time: 2:30pm, Event Time: 3pm_
-
-Stage Manager: Shawna
-House Manager: 
-Sound Op: Carl
 
