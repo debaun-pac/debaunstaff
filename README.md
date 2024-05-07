@@ -11,19 +11,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
- 
-
-
-### Monday, May 6
-
-**Athletic Awards**
-
-_Call Time: 5:30pm, Event Time: 7pm_
-
-- Stage Manager: Shawna
-- House Manager: 
-- Sound Op: Evan 
-- Usher: Luke
 
 
 ### Monday, May 20 
