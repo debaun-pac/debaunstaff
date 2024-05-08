@@ -32,7 +32,7 @@ _Call Time: 4:30pm, Event Time: 6pm_
 - Stage Manager: Shawna
 - House Manager: Luke
 - Sound Op: Joonho
-- Usher:
+- Usher: Sofia
 
 
 ### Tuesday, May 21
@@ -44,7 +44,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 - Stage Manager: Luke
 - House Manager: Joonho
 - Sound Op: Carl
-- Usher:
+- Usher: Sofia
 
 
 
