@@ -30,7 +30,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 _Call Time: 4:30pm, Event Time: 6pm_
 
 - Stage Manager: Shawna
-- House Manager: Luke
+- House Manager: 
 - Sound Op: Joonho
 - Usher: Sofia
 
@@ -41,10 +41,10 @@ _Call Time: 4:30pm, Event Time: 6pm_
 
 _Call Time: 11:30am, Event Time: 1pm_
 
-- Stage Manager: Luke
+- Stage Manager: Sofia
 - House Manager: Joonho
 - Sound Op: Carl
-- Usher: Sofia
+- Usher: Luke
 
 
 
