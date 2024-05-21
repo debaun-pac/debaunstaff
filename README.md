@@ -13,28 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Monday, May 20 
-
-**PhD Hooding Ceremony**
-
-_Call Time: 11:30am, Event Time: 1pm_
-
-- Stage Manager: Shawna
-- House Manager: Luke
-- Sound Op: Sofia
-- Usher: Joonho
-
-
-**Graduate Awards Ceremony**
-
-_Call Time: 4:30pm, Event Time: 6pm_
-
-- Stage Manager: Shawna
-- House Manager: 
-- Sound Op: Joonho
-- Usher: Sofia
-
-
 ### Tuesday, May 21
 
 **Senior Awards**
@@ -43,7 +21,7 @@ _Call Time: 11:30am, Event Time: 1pm_
 
 - Stage Manager: Sofia
 - House Manager: Joonho
-- Sound Op: Carl
+- Sound Op: Shawna
 - Usher: Luke
 
 
