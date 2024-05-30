@@ -13,16 +13,50 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, May 21
+### Monday, June 17
 
-**Senior Awards**
+**Elysian Graduation**
 
-_Call Time: 11:30am, Event Time: 1pm_
+_Call Time: TBA, Event Time: TBA_
 
-- Stage Manager: Sofia
-- House Manager: Joonho
-- Sound Op: Shawna
-- Usher: Luke
-
+- Stage Manager: Shawna
+- House Manager: 
+- Sound Op: Carl
 
 
+### Thursday, July 18
+
+**A Doll's House, Part 2**
+
+_Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
+
+- House Manager:
+- Usher:
+
+
+### Friday, July 19 
+
+**A Doll's House**
+
+_Call Time: 6:45pm, Performance Time: 8pm - 10pm_
+
+- House Manager:
+- Usher:
+
+
+### Saturday, July 20 
+
+**A Doll's House**
+
+_Call Time: 12:45pm, Performance Time: 2pm - 4pm_
+
+- House Manager:
+- Usher:
+
+
+**A Doll's House, Part 2**
+
+_Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
+
+- House Manager:
+- Usher:
