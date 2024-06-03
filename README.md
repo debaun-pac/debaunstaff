@@ -30,7 +30,7 @@ _Call Time: TBA, Event Time: TBA_
 
 _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
@@ -40,7 +40,7 @@ _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 
 _Call Time: 6:45pm, Performance Time: 8pm - 10pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
@@ -50,7 +50,7 @@ _Call Time: 6:45pm, Performance Time: 8pm - 10pm_
 
 _Call Time: 12:45pm, Performance Time: 2pm - 4pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
 
 
@@ -58,5 +58,5 @@ _Call Time: 12:45pm, Performance Time: 2pm - 4pm_
 
 _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 
-- House Manager:
+- House Manager: Joonho
 - Usher:
