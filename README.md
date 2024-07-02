@@ -13,16 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Monday, June 17
-
-**Elysian Graduation**
-
-_Call Time: TBA, Event Time: TBA_
-
-- Stage Manager: Shawna
-- House Manager: 
-- Sound Op: Carl
-
 
 ### Thursday, July 18
 
@@ -31,6 +21,7 @@ _Call Time: TBA, Event Time: TBA_
 _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 
 - House Manager: Joonho
+- Light Op: Michael
 - Usher:
 
 
@@ -41,6 +32,7 @@ _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 _Call Time: 6:45pm, Performance Time: 8pm - 10pm_
 
 - House Manager: Joonho
+- Light Op: Michael
 - Usher:
 
 
@@ -51,6 +43,7 @@ _Call Time: 6:45pm, Performance Time: 8pm - 10pm_
 _Call Time: 12:45pm, Performance Time: 2pm - 4pm_
 
 - House Manager: Joonho
+- Light Op: Michael
 - Usher:
 
 
@@ -59,4 +52,5 @@ _Call Time: 12:45pm, Performance Time: 2pm - 4pm_
 _Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
 
 - House Manager: Joonho
+- Light Op: Michael
 - Usher:
