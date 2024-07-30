@@ -14,43 +14,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Thursday, July 18
+### WEDNESDAY, AUGUST 28
 
-**A Doll's House, Part 2**
+**interACT Presentation**
 
-_Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
+_Call Time: 8:30am, Event Time: 9:00am - 12:30am_
 
-- House Manager: Joonho
-- Light Op: Michael
-- Usher:
+- House Manager:
+- Sound Op: Carl
+- Stage Manager:
 
-
-### Friday, July 19 
-
-**A Doll's House**
-
-_Call Time: 6:45pm, Performance Time: 8pm - 10pm_
-
-- House Manager: Joonho
-- Light Op: Michael
-- Usher:
-
-
-### Saturday, July 20 
-
-**A Doll's House**
-
-_Call Time: 12:45pm, Performance Time: 2pm - 4pm_
-
-- House Manager: Joonho
-- Light Op: Michael
-- Usher:
-
-
-**A Doll's House, Part 2**
-
-_Call Time: 6:45pm, Performance Time: 8pm - 9:30pm_
-
-- House Manager: Joonho
-- Light Op: Michael
-- Usher:
