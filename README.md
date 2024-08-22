@@ -24,3 +24,14 @@ _Call Time: 8:30am, Event Time: 9:00am - 12:30am_
 - Sound Op: Carl
 - Stage Manager:
 
+### THURSDAY, SEPTEMBER 5
+
+**FSL Fire Safety, RDS, Student Life Policy Seminar**
+
+_Call Time: 4:30pm, Event Time: 5:30pm - 9:00pm_
+
+- House Manager:
+- Sound Op:
+- Stage Manager:
+- Usher: 
+
