@@ -32,6 +32,6 @@ _Call Time: 4:30pm, Event Time: 5:30pm - 9:00pm_
 
 - House Manager:
 - Sound Op: Sofia (15 min. delay)
-- Stage Manager:
+- Stage Manager: JJ
 - Usher: 
 
