@@ -13,24 +13,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### WEDNESDAY, AUGUST 28
-
-**interACT Presentation**
-
-_Call Time: 8:30am, Event Time: 9:00am - 12:30am_
-
-- House Manager:
-- Sound Op: Carl
-- Stage Manager:
-
 ### THURSDAY, SEPTEMBER 5
 
 **FSL Fire Safety, RDS, Student Life Policy Seminar**
 
 _Call Time: 4:30pm, Event Time: 5:30pm - 9:00pm_
 
-- House Manager:
+- House Manager: 
 - Sound Op: Sofia (15 min. delay)
 - Stage Manager: JJ
 - Usher: 
