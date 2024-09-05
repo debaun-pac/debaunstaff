@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 5:30pm, Event Time: ?pm - 9:00pm_
 
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Sofia (15 min. delay)
 - Stage Manager: JJ
 - Usher: 
