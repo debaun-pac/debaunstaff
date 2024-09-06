@@ -13,14 +13,4 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### THURSDAY, SEPTEMBER 5
-
-**FSL Fire Safety, RDS, Student Life Policy Seminar**
-
-_Call Time: 5:30pm, Event Time: ?pm - 9:00pm_
-
-- House Manager: Michael
-- Sound Op: Sofia (15 min. delay)
-- Stage Manager: JJ
-- Usher: 
 
