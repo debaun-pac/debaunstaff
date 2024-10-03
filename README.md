@@ -13,4 +13,27 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
+### Tuesday, October 15
+**Hoboken Police Benevolent Association**
+
+_Call Time: TBA Event, Time: TBA (Est. between 12pm-4pm)_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+
+### Saturday, October 19
+**President's Welcome**
+
+_Call Time: 9am, Event Time: 10am-11:30am_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+
+
 
