@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: TBA Event, Time: TBA (Est. between 12pm-4pm)_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -30,7 +30,7 @@ _Call Time: TBA Event, Time: TBA (Est. between 12pm-4pm)_
 _Call Time: 9am, Event Time: 10am-11:30am_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
