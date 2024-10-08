@@ -21,7 +21,7 @@ _Call Time: TBA Event, Time: TBA (Est. between 12pm-4pm)_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher:
+- Usher: JJ
 
 
 ### Saturday, October 19
