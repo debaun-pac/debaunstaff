@@ -16,7 +16,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Tuesday, October 15
 **Hoboken Police Benevolent Association**
 
-_Call Time: 12pm Event Time: 1pm/1:30pm-4pm_
+_Call Time: 1pm Event Time: 2:30pm-4pm_
 
 - Stage Manager: Shawna
 - House Manager: Harsha
