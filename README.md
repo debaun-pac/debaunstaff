@@ -76,7 +76,7 @@ _Call Time: 8:30pm, Rehearsal Time: 9pm-11pm_
 _Call Time: 6:30pm, Performance Time: 8-9pm_
 
 - House Manager:
-- Stage Manager:
+- Stage Manager: Kai
 - Sound Op: Harsha
 - Light Op: JJ (Hima shadowing)
 - Usher:
@@ -96,7 +96,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 _Call Time: 6:30pm, Concert: 8pm_
 
 - House Manager: Harsha
-- Stage Manager: 
+- Stage Manager: Kai
 - *Sound Op: Sofia (Hima shadowing)
 - Usher:
 
