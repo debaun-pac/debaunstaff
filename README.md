@@ -14,7 +14,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 ### Saturday, October 19
-**President's Welcome**
+**President's Welcome** 
 
 _Call Time: 9am, Event Time: 10am-11:30am_
 
