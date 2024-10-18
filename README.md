@@ -21,7 +21,7 @@ _Call Time: 9am, Event Time: 10am-11:30am_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher:
+- Usher: Sofia
 
 
 ### Thursday, November 7
@@ -60,7 +60,7 @@ _Call Time: 6:30pm, Performance Time: 8pm_
 
 _Call Time: 5:45pm, Auditions: 6pm-10pm_
 
-Audition Monitor: 
+Audition Monitor: Sofia
 
 ### Thursday, Novemeber 14
 **TECHnique Fall Showcase Dress Rehearsal**
@@ -86,7 +86,7 @@ _Call Time: 6:30pm, Performance Time: 8-9pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- *Sound Op:
+- *Sound Op: Sofia
 
 *Op must be available for both rehearsal and concert 
 
@@ -97,7 +97,7 @@ _Call Time: 6:30pm, Concert: 8pm_
 
 - House Manager:
 - Stage Manager:
-- *Sound Op:
+- *Sound Op: Sofia
 - Usher:
 
 
