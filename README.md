@@ -38,7 +38,7 @@ _Call Time: 7:30pm, Performance Time: 9pm_
 _Call Time: 6:30pm, Performance Time: 8pm_
 
 - House Manager: Harsha
-- Usher: Hima
+- Usher: 
 
 ### Saturday, November 9
 **Little Women Performance #3** 
