@@ -30,7 +30,7 @@ _Call Time: 9am, Event Time: 10am-11:30am_
 _Call Time: 7:30pm, Performance Time: 9pm_
 
 - House Manager: Harsha
-- Usher:
+- Usher: Hima
 
 ### Friday, November 8
 **Little Women Performance #2** 
@@ -38,7 +38,7 @@ _Call Time: 7:30pm, Performance Time: 9pm_
 _Call Time: 6:30pm, Performance Time: 8pm_
 
 - House Manager: Harsha
-- Usher:
+- Usher: Hima
 
 ### Saturday, November 9
 **Little Women Performance #3** 
@@ -46,14 +46,14 @@ _Call Time: 6:30pm, Performance Time: 8pm_
 _Call Time: 12:30pm, Performance Time: 2pm_
 
 - House Manager: Harsha
-- Usher:
+- Usher: Hima
 
 **Little Women Performance #4** 
 
 _Call Time: 6:30pm, Performance Time: 8pm_
 
 - House Manager: Harsha
-- Usher:
+- Usher: Hima
 
 ### Wednesday, November 13
 **Henry IV Audition Monitor** 
@@ -78,7 +78,7 @@ _Call Time: 6:30pm, Performance Time: 8-9pm_
 - House Manager:
 - Stage Manager:
 - Sound Op: Harsha
-- Light Op: JJ
+- Light Op: JJ (Hima shadowing)
 - Usher:
 
 ### Friday, November 22
@@ -97,7 +97,7 @@ _Call Time: 6:30pm, Concert: 8pm_
 
 - House Manager: Harsha
 - Stage Manager: 
-- *Sound Op: Sofia
+- *Sound Op: Sofia (Hima shadowing)
 - Usher:
 
 
