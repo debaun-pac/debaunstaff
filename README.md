@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, October 15
-**Hoboken Police Benevolent Association**
-
-_Call Time: 1pm Event Time: 2:30pm-4pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: JJ
-
-
 ### Saturday, October 19
 **President's Welcome**
 
@@ -35,5 +24,80 @@ _Call Time: 9am, Event Time: 10am-11:30am_
 - Usher:
 
 
+### Thursday, November 7
+**Little Women Performance #1** 
+
+_Call Time: 7:30pm, Performance Time: 9pm_
+
+- House Manager:
+- Usher:
+
+### Friday, November 8
+**Little Women Performance #2** 
+
+_Call Time: 6:30pm, Performance Time: 8pm_
+
+- House Manager:
+- Usher:
+
+### Saturday, November 9
+**Little Women Performance #3** 
+
+_Call Time: 12:30pm, Performance Time: 2pm_
+
+- House Manager:
+- Usher:
+
+**Little Women Performance #4** 
+
+_Call Time: 6:30pm, Performance Time: 8pm_
+
+- House Manager:
+- Usher:
+
+### Wednesday, November 13
+**Henry IV Audition Monitor** 
+
+_Call Time: 5:45pm, Auditions: 6pm-10pm_
+
+Audition Monitor: 
+
+### Thursday, Novemeber 14
+**TECHnique Fall Showcase Dress Rehearsal**
+
+_Call Time: 8:30pm, Rehearsal Time: 9pm-11pm_
+
+- Sound Op:
+- Light Op: JJ
+
+### Friday, November 15
+**TECHnique Fall Showcase**
+
+_Call Time: 6:30pm, Performance Time: 8-9pm_
+
+- House Manager:
+- Stage Manager:
+- Sound Op:
+- Light Op: JJ
+- Usher:
+
+### Friday, November 22
+**Orchestra Dress Rehearsal**
+
+_Call Time: 5:30pm, Rehearsal Time: 6pm_
+
+- *Sound Op:
+
+*Op must be available for both rehearsal and concert 
+
+### Saturday, November 23
+**Orchestra Concert**
+
+_Call Time: 6:30pm, Concert: 8pm_
+
+- House Manager:
+- Stage Manager:
+- *Sound Op:
+- Usher:
 
 
