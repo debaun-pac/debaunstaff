@@ -67,7 +67,7 @@ Audition Monitor: Sofia
 
 _Call Time: 8:30pm, Rehearsal Time: 9pm-11pm_
 
-- Sound Op: Harsha
+- Sound Op: Harsha/Charles
 - Light Op: JJ
 
 ### Friday, November 15
@@ -98,6 +98,6 @@ _Call Time: 6:30pm, Concert: 8pm_
 - House Manager: Harsha
 - Stage Manager: Kai
 - *Sound Op: Sofia (Hima shadowing)
-- Usher:
+- Usher: Charles
 
 
