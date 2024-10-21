@@ -64,7 +64,7 @@ _Call Time: 8:30pm, Rehearsal Time: 9pm-11pm_
 
 _Call Time: 6:30pm, Performance Time: 8-9pm_
 
-- House Manager:
+- House Manager: Joonho
 - Stage Manager: Kai
 - Sound Op: Harsha
 - Light Op: JJ (Hima shadowing)
