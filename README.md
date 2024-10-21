@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, October 19
-**President's Welcome** 
-
-_Call Time: 9am, Event Time: 10am-11:30am_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Sofia
-
-
 ### Thursday, November 7
 **Little Women Performance #1** 
 
