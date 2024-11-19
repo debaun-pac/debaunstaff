@@ -12,63 +12,16 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
+### Wednesday, November 20 
+**M&T Screening and Panel**
 
-### Thursday, November 7
-**Little Women Performance #1** 
+_Call Time: 5pm, Event Time: 6-9pm_
 
-_Call Time: 7:30pm, Performance Time: 9pm_
+- Stage Manager: 
+- House Manager: 
+- Sound Op:
+- Usher: 
 
-- House Manager: Harsha
-- Usher: Hima
-
-### Friday, November 8
-**Little Women Performance #2** 
-
-_Call Time: 6:30pm, Performance Time: 8pm_
-
-- House Manager: Harsha
-- Usher: Lindsey
-
-### Saturday, November 9
-**Little Women Performance #3** 
-
-_Call Time: 12:30pm, Performance Time: 2pm_
-
-- House Manager: Harsha
-- Usher: Hima
-
-**Little Women Performance #4** 
-
-_Call Time: 6:30pm, Performance Time: 8pm_
-
-- House Manager: Harsha
-- Usher: Hima
-
-### Wednesday, November 13
-**Henry IV Audition Monitor** 
-
-_Call Time: 5:45pm, Auditions: 6pm-10pm_
-
-Audition Monitor: Sofia
-
-### Thursday, Novemeber 14
-**TECHnique Fall Showcase Dress Rehearsal**
-
-_Call Time: 8:30pm, Rehearsal Time: 9pm-11pm_
-
-- Sound Op: Harsha/Charles
-- Light Op: JJ
-
-### Friday, November 15
-**TECHnique Fall Showcase**
-
-_Call Time: 6:30pm, Performance Time: 8-9pm_
-
-- House Manager: Joonho
-- Stage Manager: Kai
-- Sound Op: Harsha
-- Light Op: JJ (Hima shadowing)
-- Usher:
 
 ### Friday, November 22
 **Orchestra Dress Rehearsal**
