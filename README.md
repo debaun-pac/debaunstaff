@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 5pm, Event Time: 6-9pm_
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: Harsha
 - Sound Op: Sofia
 - Usher: Carly
 
