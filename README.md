@@ -19,7 +19,7 @@ _Call Time: 5pm, Event Time: 6-9pm_
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op:
+- Sound Op: Sofia
 - Usher: 
 
 
