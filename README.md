@@ -12,16 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### Wednesday, November 20 
-**M&T Screening and Panel**
-
-_Call Time: 5pm, Event Time: 6-9pm_
-
-- Stage Manager: Andrew
-- House Manager: Harsha
-- Sound Op: Sofia
-- Usher: Carly
-
 
 ### Friday, November 22
 **Orchestra Dress Rehearsal**
@@ -41,5 +31,102 @@ _Call Time: 6:30pm, Concert: 8pm_
 - Stage Manager: Kai
 - *Sound Op: Sofia (Hima shadowing)
 - Usher: Charles
+
+### Wednesday, Decemeber 4
+**Order of the Engineer Induction Ceremony**
+
+_Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end earlier)_
+
+- House Manager:
+- Stage Manager:
+- Sound Op:
+
+### Thursday, December 5
+**Phi Sig Lip Sync**
+
+_Call Time: 8pm, Event: 9pm - 11pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+
+### Friday, December 6
+**Concert Band Final Rehearsal**
+
+_Call Time: 5:30pm, Rehearsal Time: 6pm_
+
+- *Sound Op:
+- Stage Manager: Shawna
+
+*Op must be available for this rehearsal and concert on Dec. 7 
+
+### Saturday, December 7
+**Concert Band Concert**
+
+_Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- *Sound Op:
+- Usher:
+
+*Must be available for rehearsal and concert.
+
+### Monday, December 9
+**Choir Rehearsal**
+
+_Call Time: 5:30pm, Rehearsal Time: 6pm_
+
+- *Sound Op: 
+
+*Must be available for additional rehearsal Dec. 12, as well as rehearsal and concert on Dec. 14.
+
+### Wednesday, December 11
+**Jazz Band Final Rehearsal**
+
+_Call Time: 5:30pm, Rehearsal Time: 6pm_
+
+- Sound Op: Carl
+
+### Thursday, December 12
+**Choir Rehearsal**
+
+_Call Time: 5:30pm, Rehearsal Time: 6pm_
+
+- *Sound Op: 
+
+*Must be available for rehearsal and concert on Dec. 14
+
+### Friday, December 13
+**Jazz Band Concert**
+
+_Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Saturday, December 14
+**Choir Final Rehearsal**
+
+_Call Time: TBA_
+
+- Sound Op:
+
+### Tuesday, December 17
+**Conversation with the President**
+
+_Call Time: 12:30pm, Event Time: 1:30pm-3pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher: 
+
+
+
 
 
