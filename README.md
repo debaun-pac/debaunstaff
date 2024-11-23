@@ -70,7 +70,7 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - *Sound Op: Hima
-- Usher:
+- Usher: Michael
 
 *Must be available for rehearsal and concert.
 
@@ -107,7 +107,7 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 - Stage Manager: Harsha
 - House Manager: Kai
 - Sound Op: Carl
-- Usher:
+- Usher: Michael
 
 ### Saturday, December 14
 **Choir Final Rehearsal**
@@ -124,7 +124,7 @@ _Call Time: 7pm, Concert Time: 8pm_
 - Stage Manager: 
 - House Manager: Harsha
 - Sound Op: Sofia
-- Usher:
+- Usher: Michael
 
 ### Tuesday, December 17
 **Conversation with the President**
@@ -134,7 +134,7 @@ _Call Time: 12:30pm, Event Time: 1:30pm-3pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher: 
+- Usher: Michael
 
 
 
