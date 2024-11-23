@@ -88,7 +88,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- Sound Op: Carl
+- Sound Op: Carl (JJ Shadowing)
 
 ### Thursday, December 12
 **Choir Rehearsal**
