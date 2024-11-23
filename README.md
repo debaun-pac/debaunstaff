@@ -46,7 +46,7 @@ _Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end
 
 _Call Time: 7:30pm, Event: 9pm - 11pm_
 
-- Stage Manager:
+- Stage Manager: JJ
 - House Manager:
 - Sound Op: Hima
 - Light Op: Harsha
