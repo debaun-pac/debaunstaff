@@ -37,7 +37,7 @@ _Call Time: 6:30pm, Concert: 8pm_
 
 _Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end earlier)_
 
-- House Manager:
+- House Manager: Kai
 - Stage Manager: Harsha
 - Sound Op: Sofia
 
@@ -105,7 +105,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager: Harsha
-- House Manager:
+- House Manager: Kai
 - Sound Op: Carl
 - Usher:
 
