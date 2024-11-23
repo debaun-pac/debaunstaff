@@ -38,18 +38,18 @@ _Call Time: 6:30pm, Concert: 8pm_
 _Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end earlier)_
 
 - House Manager:
-- Stage Manager:
+- Stage Manager: Harsha
 - Sound Op: Sofia
 
 ### Thursday, December 5
 **Phi Sig Lip Sync**
 
-_Call Time: 8pm, Event: 9pm - 11pm_
+_Call Time: 7:30pm, Event: 9pm - 11pm_
 
 - Stage Manager:
 - House Manager:
 - Sound Op: Hima
-- Light Op:
+- Light Op: Harsha
 - Usher:
 
 ### Friday, December 6
@@ -68,8 +68,8 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager: Shawna
-- House Manager: Hima
-- *Sound Op:
+- House Manager: Harsha
+- *Sound Op: Hima
 - Usher:
 
 *Must be available for rehearsal and concert.
@@ -104,7 +104,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
 _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager:
 - Sound Op: Carl
 - Usher:
@@ -121,8 +121,8 @@ _Call Time: TBA_
 
 _Call Time: 7pm, Concert Time: 8pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: 
+- House Manager: Harsha
 - Sound Op: Sofia
 - Usher:
 
@@ -132,7 +132,7 @@ _Call Time: 7pm, Concert Time: 8pm_
 _Call Time: 12:30pm, Event Time: 1:30pm-3pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher: 
 
