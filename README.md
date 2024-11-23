@@ -39,7 +39,7 @@ _Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end
 
 - House Manager:
 - Stage Manager:
-- Sound Op:
+- Sound Op: Sofia
 
 ### Thursday, December 5
 **Phi Sig Lip Sync**
@@ -48,7 +48,7 @@ _Call Time: 8pm, Event: 9pm - 11pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Hima
 - Light Op:
 - Usher:
 
@@ -57,7 +57,7 @@ _Call Time: 8pm, Event: 9pm - 11pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- *Sound Op:
+- *Sound Op: Hima
 - Stage Manager: Shawna
 
 *Op must be available for this rehearsal and concert on Dec. 7 
@@ -68,7 +68,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Hima
 - *Sound Op:
 - Usher:
 
@@ -79,7 +79,7 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- *Sound Op: 
+- *Sound Op: Sofia
 
 *Must be available for additional rehearsal Dec. 12, as well as rehearsal and concert on Dec. 14.
 
@@ -95,7 +95,7 @@ _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- *Sound Op: 
+- *Sound Op: Sofia
 
 *Must be available for rehearsal and concert on Dec. 14
 
@@ -106,7 +106,7 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Carl
 - Usher:
 
 ### Saturday, December 14
@@ -114,7 +114,17 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 _Call Time: TBA_
 
-- Sound Op:
+- Sound Op: Sofia
+
+
+**Choir Concert**
+
+_Call Time: 7pm, Concert Time: 8pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Sofia
+- Usher:
 
 ### Tuesday, December 17
 **Conversation with the President**
