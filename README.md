@@ -13,25 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, November 22
-**Orchestra Dress Rehearsal**
-
-_Call Time: 5:30pm, Rehearsal Time: 6pm_
-
-- *Sound Op: Sofia
-
-*Op must be available for both rehearsal and concert 
-
-### Saturday, November 23
-**Orchestra Concert**
-
-_Call Time: 6:30pm, Concert: 8pm_
-
-- House Manager: Harsha
-- Stage Manager: Kai
-- *Sound Op: Sofia (Hima shadowing)
-- Usher: Charles
-
 ### Wednesday, Decemeber 4
 **Order of the Engineer Induction Ceremony**
 
