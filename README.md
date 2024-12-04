@@ -31,7 +31,7 @@ _Call Time: 7:30pm, Event: 9pm - 11pm_
 - House Manager: Lindsey
 - Sound Op: Hima
 - Light Op: Harsha
-- Usher:
+- Usher: Andrew
 
 ### Friday, December 6
 **Concert Band Final Rehearsal**
