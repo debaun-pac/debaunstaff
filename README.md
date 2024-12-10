@@ -13,46 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, Decemeber 4
-**Order of the Engineer Induction Ceremony**
-
-_Call Time: 12pm, House Open: 12:30pm, Event Time: 1pm - 2:30pm (will likely end earlier)_
-
-- House Manager: Kai
-- Stage Manager: Harsha
-- Sound Op: Sofia
-
-### Thursday, December 5
-**Phi Sig Lip Sync**
-
-_Call Time: 7:30pm, Event: 9pm - 11pm_
-
-- Stage Manager: JJ
-- House Manager: Lindsey
-- Sound Op: Hima
-- Light Op: Harsha
-- Usher: Andrew
-
-### Friday, December 6
-**Concert Band Final Rehearsal**
-
-_Call Time: 5:30pm, Rehearsal Time: 6pm_
-
-- *Sound Op: Hima
-- Stage Manager: Shawna
-
-*Op must be available for this rehearsal and concert on Dec. 7 
-
-### Saturday, December 7
-**Concert Band Concert**
-
-_Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- *Sound Op: Hima
-- Usher: Michael
-
 *Must be available for rehearsal and concert.
 
 ### Monday, December 9
@@ -60,7 +20,8 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 
 _Call Time: 5:30pm, Rehearsal Time: 6pm_
 
-- *Sound Op: Sofia
+- *Sound Op: Carl
+- Page Turner: Julia
 
 *Must be available for additional rehearsal Dec. 12, as well as rehearsal and concert on Dec. 14.
 
@@ -93,18 +54,20 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 ### Saturday, December 14
 **Choir Final Rehearsal**
 
-_Call Time: TBA_
+_Call Time: 1:30pm, Rehearsal: 2-3pm_
 
 - Sound Op: Sofia
+- Page Turner: Julia
 
 
 **Choir Concert**
 
 _Call Time: 7pm, Concert Time: 8pm_
 
-- Stage Manager: 
+- Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Sofia
+- Page Turner: Julia
 - Usher: Michael
 
 ### Tuesday, December 17
