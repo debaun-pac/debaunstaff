@@ -54,7 +54,7 @@ _Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
 ### Saturday, December 14
 **Choir Final Rehearsal**
 
-_Call Time: 1:30pm, Rehearsal: 2-3pm_
+_Call Time: 1:30pm, Rehearsal: 2-5:30pm_
 
 - Sound Op: Sofia
 - Page Turner: Julia
