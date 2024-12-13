@@ -15,31 +15,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 *Must be available for rehearsal and concert.
 
-### Monday, December 9
-**Choir Rehearsal**
-
-_Call Time: 5:30pm, Rehearsal Time: 6pm_
-
-- *Sound Op: Carl
-- Page Turner: Julia
-
-*Must be available for additional rehearsal Dec. 12, as well as rehearsal and concert on Dec. 14.
-
-### Wednesday, December 11
-**Jazz Band Final Rehearsal**
-
-_Call Time: 5:30pm, Rehearsal Time: 6pm_
-
-- Sound Op: Carl (JJ Shadowing)
-
-### Thursday, December 12
-**Choir Rehearsal**
-
-_Call Time: 5:30pm, Rehearsal Time: 6pm_
-
-- *Sound Op: Sofia
-
-*Must be available for rehearsal and concert on Dec. 14
 
 ### Friday, December 13
 **Jazz Band Concert**
