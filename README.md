@@ -16,35 +16,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Must be available for rehearsal and concert.
 
 
-### Friday, December 13
-**Jazz Band Concert**
-
-_Call Time: 6:30pm, House: 7:30pm, Concert Time: 8pm-10pm_
-
-- Stage Manager: Harsha
-- House Manager: Kai
-- Sound Op: Carl
-- Usher: Michael
-
-### Saturday, December 14
-**Choir Final Rehearsal**
-
-_Call Time: 1:30pm, Rehearsal: 2-5:30pm_
-
-- Sound Op: Sofia
-- Page Turner: Julia
-
-
-**Choir Concert**
-
-_Call Time: 7pm, Concert Time: 8pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Sofia
-- Page Turner: Julia
-- Usher: Michael
-
 ### Tuesday, December 17
 **Conversation with the President**
 
