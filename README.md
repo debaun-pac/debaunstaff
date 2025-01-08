@@ -16,16 +16,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *Must be available for rehearsal and concert.
 
 
-### Tuesday, December 17
-**Conversation with the President**
-
-_Call Time: 12:30pm, Event Time: 1:30pm-3pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Michael
-
 
 
 
