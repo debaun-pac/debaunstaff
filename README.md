@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 
 - House Manager: 
-- Usher:
+- Usher: Vincent
 
 ### ♥ Friday, February 14 ♥
 
@@ -29,7 +29,7 @@ _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 
 - House Manager: 
-- Usher:
+- Usher: Vincent
 
 ### Saturday, February 15
 
@@ -38,7 +38,7 @@ _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 _Call Time: 1pm, Performance Time: 2pm - 4:15pm_
 
 - House Manager: 
-- Usher:
+- Usher: Vincent
 
 ### Thursday, February 20
 
