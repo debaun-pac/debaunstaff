@@ -13,10 +13,108 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
+### Thursday, February 13
+
+**Henry IV Performance 1**
+
+_Call Time: 8pm, Performance Time: 9pm - 11:15pm_
+
+- House Manager: 
+- Usher:
+
+### ♥ Friday, February 14 ♥
+
+**Henry IV Performance 2**
+
+_Call Time: 7pm, Performance Time: 8pm - 10:15pm_
+
+- House Manager: 
+- Usher:
+
+### Saturday, February 15
+
+**Henry IV Performance 3**
+
+_Call Time: 1pm, Performance Time: 2pm - 4:15pm_
+
+- House Manager: 
+- Usher:
+
+### Thursday, February 20
+
+**Ducks on Display**
+
+_Call Time: 5:30pm, Event Time: 7pm-9pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Light Op:
+- Stage Crew:
+- Spot Op 1:
+- Spot Op 2: 
 
 
+### Wednesday, February 26
+
+**Ducks on Display: Faculty and Staff Remix**
+
+_Call Time: 3:30pm, Event Time: 5pm-7pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Light Op:
+- Stage Crew:
+- Spot Op 1:
+- Spot Op 2: 
 
 
+### Friday, February 28
+
+**Honors Voice Recital**
+
+_Call Time: 7pm, Event Time: 8pm-9pm_
+
+- Stage Manager:
+- House Manager: 
 
 
+### Saturday, March 1
 
+**Battle of the Bands**
+
+_Call Time: TBA, Event Time: TBA_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Light Op:
+- Stage Crew:
+- Spot Op 1:
+- Spot Op 2: 
+
+
+### Thursday, March 6
+
+**Spell-A-Thon**
+
+_Call Time: 8pm, Event Time: 9pm-12pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Friday, March 7
+
+**Mr. Heartthrob**
+
+_Call Time: 5:30pm, Event Time: 7pm-9pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Spot Op 1:
+- Spot Op 2: 
