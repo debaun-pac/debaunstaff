@@ -66,7 +66,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 - Sound Op: Carl
 - Light Op:
 - Stage Crew:
-- Spot Op 1:
+- Spot Op 1: Hima
 - Spot Op 2: 
 
 
@@ -77,7 +77,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 _Call Time: 7pm, Event Time: 8pm-9pm_
 
 - Stage Manager:
-- House Manager: 
+- House Manager: Hima
 
 
 ### Saturday, March 1
@@ -114,7 +114,7 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Hima
 - Light Op:
 - Spot Op 1:
 - Spot Op 2: 
