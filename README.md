@@ -29,7 +29,7 @@ _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 
 - House Manager: 
-- Usher: Vincent
+- Usher:
 
 ### Saturday, February 15
 
