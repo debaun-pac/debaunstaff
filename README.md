@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 
-- House Manager: 
+- House Manager: Harsha
 - Usher: Vincent
 
 ### ♥ Friday, February 14 ♥
@@ -28,7 +28,7 @@ _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 
 _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 
-- House Manager: 
+- House Manager: Harsha
 - Usher:
 
 ### Saturday, February 15
@@ -37,7 +37,7 @@ _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 
 _Call Time: 1pm, Performance Time: 2pm - 4:15pm_
 
-- House Manager: 
+- House Manager: Harsha
 - Usher: Vincent
 
 ### Thursday, February 20
@@ -46,11 +46,11 @@ _Call Time: 1pm, Performance Time: 2pm - 4:15pm_
 
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager:
 - Sound Op: Carl
 - Light Op:
-- Stage Crew:
+- Stage Crew: 
 - Spot Op 1:
 - Spot Op 2: 
 
@@ -65,7 +65,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 - House Manager:
 - Sound Op: Carl
 - Light Op:
-- Stage Crew:
+- Stage Crew: Harsha
 - Spot Op 1: Hima
 - Spot Op 2: 
 
@@ -76,7 +76,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 
 _Call Time: 7pm, Event Time: 8pm-9pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager: Hima
 
 
@@ -90,8 +90,8 @@ _Call Time: TBA, Event Time: TBA_
 - House Manager:
 - Sound Op: Carl
 - Light Op:
-- Stage Crew:
-- Spot Op 1:
+- Stage Crew: Julia
+- Spot Op 1: Harsha
 - Spot Op 2: 
 
 
@@ -101,8 +101,8 @@ _Call Time: TBA, Event Time: TBA_
 
 _Call Time: 8pm, Event Time: 9pm-12pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: 
+- House Manager: Harsha
 - Sound Op:
 - Usher:
 
@@ -112,9 +112,9 @@ _Call Time: 8pm, Event Time: 9pm-12pm_
 
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
-- Stage Manager:
+- Stage Manager: 
 - House Manager:
 - Sound Op: Hima
-- Light Op:
+- Light Op: Harsha
 - Spot Op 1:
 - Spot Op 2: 
