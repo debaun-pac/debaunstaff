@@ -29,7 +29,7 @@ _Call Time: 8pm, Performance Time: 9pm - 11:15pm_
 _Call Time: 7pm, Performance Time: 8pm - 10:15pm_
 
 - House Manager: Harsha
-- Usher:
+- Usher: Joonho
 
 ### Saturday, February 15
 
@@ -47,7 +47,7 @@ _Call Time: 1pm, Performance Time: 2pm - 4:15pm_
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
 - Stage Manager: Harsha
-- House Manager:
+- House Manager: Joonho
 - Sound Op: Carl
 - Light Op:
 - Stage Crew: 
@@ -86,8 +86,8 @@ _Call Time: 7pm, Event Time: 8pm-9pm_
 
 _Call Time: TBA, Event Time: TBA_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Joonho
+- House Manager: 
 - Sound Op: Carl
 - Light Op:
 - Stage Crew: Julia
