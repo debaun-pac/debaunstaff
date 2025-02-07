@@ -64,7 +64,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
-- Light Op:
+- Light Op: Kai
 - Stage Crew: Harsha
 - Spot Op 1: Hima
 - Spot Op 2: 
