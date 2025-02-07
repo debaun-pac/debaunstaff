@@ -46,10 +46,10 @@ _Call Time: 1pm, Performance Time: 2pm - 4:15pm_
 
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
-- Stage Manager: Harsha
+- Stage Manager: Sofia
 - House Manager: Joonho
 - Sound Op: Carl
-- Light Op:
+- Light Op: Harsha
 - Stage Crew: 
 - Spot Op 1:
 - Spot Op 2: 
@@ -61,7 +61,7 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
 _Call Time: 3:30pm, Event Time: 5pm-7pm_
 
-- Stage Manager:
+- Stage Manager: Sofia
 - House Manager:
 - Sound Op: Carl
 - Light Op: Kai
@@ -112,7 +112,7 @@ _Call Time: 8pm, Event Time: 9pm-12pm_
 
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
-- Stage Manager: 
+- Stage Manager: Sofia
 - House Manager:
 - Sound Op: Hima
 - Light Op: Harsha
