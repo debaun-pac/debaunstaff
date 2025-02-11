@@ -92,7 +92,7 @@ _Call Time: TBA, Event Time: TBA_
 - Light Op: Kai?
 - Stage Crew: Julia
 - Spot Op 1: Harsha
-- Spot Op 2: 
+- Spot Op 2: Michael
 
 
 ### Thursday, March 6
