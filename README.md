@@ -89,7 +89,7 @@ _Call Time: TBA, Event Time: TBA_
 - Stage Manager: Joonho
 - House Manager: 
 - Sound Op: Carl
-- Light Op:
+- Light Op: Kai?
 - Stage Crew: Julia
 - Spot Op 1: Harsha
 - Spot Op 2: 
@@ -101,7 +101,7 @@ _Call Time: TBA, Event Time: TBA_
 
 _Call Time: 8pm, Event Time: 9pm-12pm_
 
-- Stage Manager: 
+- Stage Manager: Michael
 - House Manager: Harsha
 - Sound Op:
 - Usher:
@@ -116,5 +116,5 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 - House Manager:
 - Sound Op: Hima
 - Light Op: Harsha
-- Spot Op 1:
+- Spot Op 1: Michael
 - Spot Op 2: 
