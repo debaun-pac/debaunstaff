@@ -62,7 +62,7 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 _Call Time: 3:30pm, Event Time: 5pm-7pm_
 
 - Stage Manager: Sofia
-- House Manager:
+- House Manager: Lindsey
 - Sound Op: Carl
 - Light Op: Kai
 - Stage Crew: Harsha
