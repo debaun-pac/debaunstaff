@@ -103,7 +103,7 @@ _Call Time: 8pm, Event Time: 9pm-12pm_
 
 - Stage Manager: Michael
 - House Manager: Harsha
-- Sound Op:
+- Sound Op: Joonho
 - Usher:
 
 ### Friday, March 7
@@ -113,7 +113,7 @@ _Call Time: 8pm, Event Time: 9pm-12pm_
 _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
 - Stage Manager: Sofia
-- House Manager:
+- House Manager: Joonho
 - Sound Op: Hima
 - Light Op: Harsha
 - Spot Op 1: Michael
