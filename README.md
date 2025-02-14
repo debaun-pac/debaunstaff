@@ -13,15 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, February 13
-
-**Henry IV Performance 1**
-
-_Call Time: 8pm, Performance Time: 9pm - 11:15pm_
-
-- House Manager: Harsha
-- Usher: Vincent
-
 ### ♥ Friday, February 14 ♥
 
 **Henry IV Performance 2**
