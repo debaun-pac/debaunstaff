@@ -60,7 +60,7 @@ _Call Time: 7pm, Event Time: 8pm-9pm_
 _Call Time: TBA, Event Time: TBA_
 
 - Stage Manager: Joonho
-- House Manager: 
+- House Manager: Vincent
 - Sound Op: Carl
 - Light Op: Kai?
 - Stage Crew: Julia
@@ -77,7 +77,7 @@ _Call Time: 8pm, Event Time: 9pm-12pm_
 - Stage Manager: Michael
 - House Manager: Harsha
 - Sound Op: Joonho
-- Usher:
+- Usher: Vincent
 
 ### Friday, March 7
 
