@@ -36,6 +36,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 
 - Stage Manager: Sofia
 - House Manager: Lindsey
+- Usher: 
 - Sound Op: Carl
 - Light Op: Kai
 - Stage Crew: Harsha
@@ -61,6 +62,7 @@ _Call Time: TBA, Event Time: TBA_
 
 - Stage Manager: Joonho
 - House Manager: Vincent
+- Usher:
 - Sound Op: Carl
 - Light Op: Kai?
 - Stage Crew: Julia
@@ -87,6 +89,7 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 
 - Stage Manager: Sofia
 - House Manager: Joonho
+- Usher: 
 - Sound Op: Hima
 - Light Op: Harsha
 - Spot Op 1: Michael
