@@ -50,7 +50,7 @@ _Call Time: 4:30pm, House Staff at 5:30pm, Event Time: 7-10pm_
 - House Manager: Vincent
 - Usher: Sofia
 - Sound Op: Carl
-- Light Op: Kai?
+- Light Op: Kai
 - Stage Crew: Julia
 - Spot Op 1: Harsha
 - Spot Op 2: Michael
