@@ -48,7 +48,7 @@ _Call Time: 4:30pm, House Staff at 5:30pm, Event Time: 7-10pm_
 
 - Stage Manager: Joonho
 - House Manager: Vincent
-- Usher:
+- Usher: Sofia
 - Sound Op: Carl
 - Light Op: Kai?
 - Stage Crew: Julia
