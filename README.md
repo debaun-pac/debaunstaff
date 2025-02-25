@@ -13,20 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, February 20
-
-**Ducks on Display**
-
-_Call Time: 5:30pm, Event Time: 7pm-9pm_
-
-- Stage Manager: Sofia
-- House Manager: Joonho
-- Sound Op: Carl
-- Light Op: Harsha
-- Stage Crew: 
-- Spot Op 1:
-- Spot Op 2: 
-
 
 ### Wednesday, February 26
 
@@ -41,7 +27,7 @@ _Call Time: 3:30pm, Event Time: 5pm-7pm_
 - Light Op: Kai
 - Stage Crew: Harsha
 - Spot Op 1: Hima
-- Spot Op 2: 
+- Spot Op 2: Julia
 
 
 ### Friday, February 28
