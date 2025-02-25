@@ -44,7 +44,7 @@ _Call Time: 7pm, Event Time: 8pm-9pm_
 
 **Battle of the Bands**
 
-_Call Time: TBA, Event Time: TBA_
+_Call Time: 5pm, Event Time: 7-10pm_
 
 - Stage Manager: Joonho
 - House Manager: Vincent
