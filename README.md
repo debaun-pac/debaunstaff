@@ -13,23 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Wednesday, February 26
-
-**Ducks on Display: Faculty and Staff Remix**
-
-_Call Time: 3:30pm, Event Time: 5pm-7pm_
-
-- Stage Manager: Sofia
-- House Manager: Lindsey
-- Usher: 
-- Sound Op: Carl
-- Light Op: Kai
-- Stage Crew: Harsha
-- Spot Op 1: Hima
-- Spot Op 2: Julia
-
-
 ### Friday, February 28
 
 **Honors Voice Recital**
