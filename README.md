@@ -13,16 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, February 28
-
-**Honors Voice Recital**
-
-_Call Time: 7pm, Event Time: 8pm-9pm_
-
-- Stage Manager: Harsha
-- House Manager: Hima
-
-
 ### Saturday, March 1
 
 **Battle of the Bands**
