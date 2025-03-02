@@ -13,22 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, March 1
-
-**Battle of the Bands**
-
-_Call Time: 3:30pm, House Staff at 5:30pm, Event Time: 7-10pm_
-
-- Stage Manager: Joonho
-- House Manager: Vincent
-- Usher: Sofia
-- Sound Op: Carl
-- Light Op: Kai
-- Stage Crew: Julia
-- Spot Op 1: Harsha
-- Spot Op 2: Michael
-
-
 ### Thursday, March 6
 
 **Spell-A-Thon**
