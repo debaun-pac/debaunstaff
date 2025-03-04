@@ -17,7 +17,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 **Spell-A-Thon**
 
-_Call Time: 8pm, Event Time: 9pm-12pm_
+_Call Time: 8pm, Event Time: 9pm-12am_
 
 - Stage Manager: Michael
 - House Manager: Harsha
