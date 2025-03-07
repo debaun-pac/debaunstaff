@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, March 6
-
-**Spell-A-Thon**
-
-_Call Time: 8pm, Event Time: 9pm-12am_
-
-- Stage Manager: Michael
-- House Manager: Harsha
-- Sound Op: Joonho
-- Usher: Vincent
-
 ### Friday, March 7
 
 **Mr. Heartthrob**
@@ -36,4 +25,4 @@ _Call Time: 5:30pm, Event Time: 7pm-9pm_
 - Sound Op: Hima
 - Light Op: Harsha
 - Spot Op 1: Michael
-- Spot Op 2: 
+- Spot Op 2: Kai
