@@ -12,17 +12,4 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-
-### Friday, March 7
-
-**Mr. Heartthrob**
-
-_Call Time: 5:30pm, Event Time: 7pm-9pm_
-
-- Stage Manager: Sofia
-- House Manager: Joonho
-- Usher: 
-- Sound Op: Hima
-- Light Op: Harsha
-- Spot Op 1: Michael
-- Spot Op 2: Kai
+More Events In April ....
