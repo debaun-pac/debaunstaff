@@ -12,4 +12,245 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-More Events In April ....
+### Thursday, April 3
+
+**Into the Woods Performance 1**
+
+_Call Time: 7:30pm, Performance: 9pm_
+
+- House Manager: Hima
+- Usher:
+
+### Friday, April 4
+
+**Into the Woods Performance 2**
+
+_Call Time: 7pm, Performance: 8pm_
+
+- House Manager: Hima
+- Usher:
+
+### Saturday, April 5
+
+**Into the Woods Performance 3**
+
+_Call Time: 1pm, Performance: 2pm_
+
+- House Manager: Hima
+- Usher:
+
+**Into the Woods Performance 4**
+
+_Call Time: 7pm, Performance: 8pm_
+
+- House Manager: Hima
+- Usher:
+
+### Friday, April 11
+
+**Orchestra Rehearsal**
+
+*Must be available for concert as well. 
+
+_Call Time: 6pm-9pm_
+
+- Sound Op:
+
+### Saturday, April 12
+
+**Orchestra Concert**
+
+_Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
+
+- Stage Manager:
+- House Manager: 
+- Sound Op:
+- Usher:
+
+### Thursday, April 24
+
+**Sexual Assault Awareness Event #1**
+
+_Call Time: 3pm, Event Time: 4pm-5:30pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+**Sexual Assault Awareness Event #2**
+
+_Call Time: 8pm, Event Time: 9pm-10:30pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Friday, April 25
+
+**Concert Band Rehearsal**
+
+*Must be available for concert as well. 
+
+_Call Time: 6pm-9pm_
+
+- Stage Manager: Shawna
+- Sound Op:
+
+### Saturday, April 26
+
+**Concert Band Concert**
+
+_Call Time: 6:30pm, Concert Time: 8pm_
+
+- Stage Manager: Shawna
+- House Manager: 
+- Sound Op:
+- Usher:
+
+### Monday, April 28
+
+**Choir Rehearsal**
+
+_Call Time: 6pm-9pm_
+
+- Sound Op:
+
+### Tuesday, April 29
+
+**Undergrad Awards**
+
+_Call Time: 5pm, Event Time: 6pm-8pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Wednesday, April 30
+
+**Jazz Band Rehearsal**
+
+_Call Time: 6pm, Rehearsal Time: 6pm-9pm_
+
+- Sound Op: Carl
+
+### Thursday, May 1
+
+**Choir Rehearsal**
+
+_Call Time: 6pm, Rehearsal Time: 6pm-9pm_
+
+- Sound Op:
+
+### Friday, May 2
+
+**Jazz Band Concert**
+
+_Call Time: 6:30pm, Concert Time: 8pm-10pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Saturday, May 3
+
+**Choir Rehearsal**
+
+*Must be available for concert as well. 
+
+_Call Time: TBA_
+
+
+**Choir Concert**
+
+_Call Time: 6:30pm, Concert Time: 8pm-10pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Sunday, May 4
+
+**Stevens A Capella Showcase**
+
+_Call Time: 8pm, Event Time: 9pm_
+
+- Stage Manager:
+- Sound Op: Carl
+- House Manager:
+
+### Friday, May 9
+
+**(NOT CONFIRMED) Thomas S. Scholl Lecture Series**
+
+_Call Time: 8:00am, Event Time: 9am-11am_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+**Ansary Pitch Competition**
+
+_Call Time: 1:30pm, Event Time: 3pm-5pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Monday, May 12
+
+**Athletics All Rise Awards**
+
+_Call Time: 6pm, Event Time: 7pm-8pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Monday, May 19
+
+**PhD Hooding Ceremony**
+
+_Call Time: 10:30am, Event Time: 12pm-2pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+**Grad Awards**
+
+_Call Time: 5pm, Event Time: 6pm-8pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Tuesday, May 20
+
+**Senior Awards**
+
+_Call Time: 12pm, Event Time: 1pm-3pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+**Order of the Engineer Ceremony**
+
+_Call Time: 3pm, Event Time: 4pm-6pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
