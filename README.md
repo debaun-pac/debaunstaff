@@ -54,7 +54,7 @@ _Call Time: 7pm, Performance: 8pm_
 
 _Call Time: 6pm-9pm_
 
-- Sound Op:
+- Sound Op: Sofia
 
 ### Saturday, April 12
 
@@ -64,7 +64,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 
 - Stage Manager:
 - House Manager: 
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 ### Thursday, April 24
@@ -75,7 +75,7 @@ _Call Time: 3pm, Event Time: 4pm-5:30pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: 
 - Usher:
 
 **Sexual Assault Awareness Event #2**
@@ -84,7 +84,7 @@ _Call Time: 8pm, Event Time: 9pm-10:30pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 ### Friday, April 25
@@ -96,7 +96,7 @@ _Call Time: 8pm, Event Time: 9pm-10:30pm_
 _Call Time: 6pm-9pm_
 
 - Stage Manager: Shawna
-- Sound Op:
+- Sound Op: Sofia
 
 ### Saturday, April 26
 
@@ -106,7 +106,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Shawna
 - House Manager: 
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 ### Monday, April 28
@@ -115,7 +115,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 
 _Call Time: 6pm-9pm_
 
-- Sound Op:
+- Sound Op: Sofia
 
 ### Tuesday, April 29
 
@@ -125,7 +125,7 @@ _Call Time: 5pm, Event Time: 6pm-8pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 ### Wednesday, April 30
@@ -142,7 +142,7 @@ _Call Time: 6pm, Rehearsal Time: 6pm-9pm_
 
 _Call Time: 6pm, Rehearsal Time: 6pm-9pm_
 
-- Sound Op:
+- Sound Op: Sofia
 
 ### Friday, May 2
 
@@ -163,6 +163,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 _Call Time: TBA_
 
+- Sound Op: Sofia
 
 **Choir Concert**
 
@@ -170,7 +171,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Sofia
 - Usher:
 
 ### Sunday, May 4
