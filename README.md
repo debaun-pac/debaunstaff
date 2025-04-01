@@ -37,7 +37,7 @@ _Call Time: 7pm, Performance: 8pm_
 _Call Time: 1pm, Performance: 2pm_
 
 - House Manager: Hima
-- Usher:
+- Usher: Michael
 
 **Into the Woods Performance 4**
 
@@ -63,7 +63,7 @@ _Call Time: 6pm-9pm_
 _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 
 - Stage Manager:
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Sofia
 - Usher:
 
@@ -105,7 +105,7 @@ _Call Time: 6pm-9pm_
 _Call Time: 6:30pm, Concert Time: 8pm_
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Sofia
 - Usher:
 
@@ -151,7 +151,7 @@ _Call Time: 6pm, Rehearsal Time: 6pm-9pm_
 _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: 
 - Sound Op: Carl
 - Usher:
 
@@ -170,7 +170,7 @@ _Call Time: TBA_
 _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Michael
 - Sound Op: Sofia
 - Usher:
 
