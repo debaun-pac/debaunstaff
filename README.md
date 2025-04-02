@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30pm, Performance: 9pm_
 
 - House Manager: Hima
-- Usher:
+- Usher: Harsha
 
 ### Friday, April 4
 
@@ -28,7 +28,7 @@ _Call Time: 7:30pm, Performance: 9pm_
 _Call Time: 7pm, Performance: 8pm_
 
 - House Manager: Hima
-- Usher:
+- Usher: Harsha
 
 ### Saturday, April 5
 
@@ -44,7 +44,7 @@ _Call Time: 1pm, Performance: 2pm_
 _Call Time: 7pm, Performance: 8pm_
 
 - House Manager: Hima
-- Usher:
+- Usher: Harsha
 
 ### Friday, April 11
 
@@ -62,7 +62,7 @@ _Call Time: 6pm-9pm_
 
 _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager: Michael
 - Sound Op: Sofia
 - Usher:
@@ -75,14 +75,14 @@ _Call Time: 3pm, Event Time: 4pm-5:30pm_
 
 - Stage Manager:
 - House Manager:
-- Sound Op: 
+- Sound Op: Harsha
 - Usher:
 
 **Sexual Assault Awareness Event #2**
 
 _Call Time: 8pm, Event Time: 9pm-10:30pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager:
 - Sound Op: Sofia
 - Usher:
@@ -107,7 +107,7 @@ _Call Time: 6:30pm, Concert Time: 8pm_
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Sofia
-- Usher:
+- Usher: Harsha
 
 ### Monday, April 28
 
@@ -123,8 +123,8 @@ _Call Time: 6pm-9pm_
 
 _Call Time: 5pm, Event Time: 6pm-8pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Shawna
+- House Manager: Harsha
 - Sound Op: Sofia
 - Usher:
 
@@ -150,8 +150,8 @@ _Call Time: 6pm, Rehearsal Time: 6pm-9pm_
 
 _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
-- Stage Manager:
-- House Manager: 
+- Stage Manager: Shawna
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -169,7 +169,7 @@ _Call Time: TBA_
 
 _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager: Michael
 - Sound Op: Sofia
 - Usher:
@@ -180,7 +180,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 _Call Time: 8pm, Event Time: 9pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - Sound Op: Carl
 - House Manager:
 
@@ -191,7 +191,7 @@ _Call Time: 8pm, Event Time: 9pm_
 _Call Time: 8:00am, Event Time: 9am-11am_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -200,7 +200,7 @@ _Call Time: 8:00am, Event Time: 9am-11am_
 _Call Time: 1:30pm, Event Time: 3pm-5pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -211,7 +211,7 @@ _Call Time: 1:30pm, Event Time: 3pm-5pm_
 _Call Time: 6pm, Event Time: 7pm-8pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -222,7 +222,7 @@ _Call Time: 6pm, Event Time: 7pm-8pm_
 _Call Time: 10:30am, Event Time: 12pm-2pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -231,7 +231,7 @@ _Call Time: 10:30am, Event Time: 12pm-2pm_
 _Call Time: 5pm, Event Time: 6pm-8pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -242,7 +242,7 @@ _Call Time: 5pm, Event Time: 6pm-8pm_
 _Call Time: 12pm, Event Time: 1pm-3pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
@@ -251,7 +251,7 @@ _Call Time: 12pm, Event Time: 1pm-3pm_
 _Call Time: 3pm, Event Time: 4pm-6pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Harsha
 - Sound Op: Carl
 - Usher:
 
