@@ -65,7 +65,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 - Stage Manager: Harsha
 - House Manager: Michael
 - Sound Op: Sofia
-- Usher:
+- Usher: Vincent
 
 ### Thursday, April 24
 
@@ -85,7 +85,7 @@ _Call Time: 8pm, Event Time: 9pm-10:30pm_
 - Stage Manager: Harsha
 - House Manager:
 - Sound Op: Sofia
-- Usher:
+- Usher: Vincent
 
 ### Friday, April 25
 
@@ -126,7 +126,7 @@ _Call Time: 5pm, Event Time: 6pm-8pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Sofia
-- Usher:
+- Usher: Vincent
 
 ### Wednesday, April 30
 
@@ -153,7 +153,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher:
+- Usher: Vincent
 
 ### Saturday, May 3
 
@@ -172,7 +172,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 - Stage Manager: Harsha
 - House Manager: Michael
 - Sound Op: Sofia
-- Usher:
+- Usher: Vincent
 
 ### Sunday, May 4
 
@@ -182,7 +182,7 @@ _Call Time: 8pm, Event Time: 9pm_
 
 - Stage Manager: Harsha
 - Sound Op: Carl
-- House Manager:
+- House Manager: Vincent
 
 ### Friday, May 9
 
@@ -213,7 +213,7 @@ _Call Time: 6pm, Event Time: 7pm-8pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher:
+- Usher: Vincent
 
 ### Monday, May 19
 
