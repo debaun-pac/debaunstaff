@@ -74,7 +74,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 _Call Time: 3pm, Event Time: 4pm-5:30pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Hima
 - Sound Op: Harsha
 - Usher:
 
@@ -83,7 +83,7 @@ _Call Time: 3pm, Event Time: 4pm-5:30pm_
 _Call Time: 8pm, Event Time: 9pm-10:30pm_
 
 - Stage Manager: Harsha
-- House Manager:
+- House Manager: Hima
 - Sound Op: Sofia
 - Usher: Vincent
 
@@ -202,7 +202,7 @@ _Call Time: 1:30pm, Event Time: 3pm-5pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher:
+- Usher: Hima
 
 ### Monday, May 12
 
