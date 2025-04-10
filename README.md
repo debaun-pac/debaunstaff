@@ -43,7 +43,7 @@ _Call Time: 5pm, Event Time: 6pm-7pm_
 - Stage Manager: Harsha
 - House Manager: Hima
 - Usher: Evan
-- Usher:
+- Usher: Joonho
 - Usher:
 
 ### Thursday, April 24
