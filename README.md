@@ -40,7 +40,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 
 _Call Time: 5pm, Event Time: 6pm-7pm_
 
-- Stage Manager:
+- Stage Manager: Harsha
 - House Manager: Hima
 - Usher: Evan
 - Usher:
@@ -52,7 +52,7 @@ _Call Time: 5pm, Event Time: 6pm-7pm_
 
 _Call Time: 3pm, Event Time: 4pm-5:30pm_
 
-- Stage Manager:
+- Stage Manager: 
 - House Manager: Hima
 - Sound Op: Harsha
 - Usher:
