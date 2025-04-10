@@ -42,7 +42,7 @@ _Call Time: 5pm, Event Time: 6pm-7pm_
 
 - Stage Manager:
 - House Manager: Hima
-- Usher:
+- Usher: Evan
 - Usher:
 - Usher:
 
