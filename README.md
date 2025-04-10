@@ -44,7 +44,7 @@ _Call Time: 5pm, Event Time: 6pm-7pm_
 - House Manager: Hima
 - Usher: Evan
 - Usher: Joonho
-- Usher:
+- Usher: Michael
 
 ### Thursday, April 24
 
