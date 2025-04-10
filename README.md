@@ -34,6 +34,17 @@ _Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
 - Sound Op: Sofia
 - Usher: Vincent
 
+### Tuesday, April 22
+
+**Town Hall with Senator Menendez**
+
+_Call Time: 5pm, Event Time: 6pm-7pm_
+
+- Stage Manager:
+- House Manager: Hima
+- Usher:
+- Usher:
+- Usher:
 
 ### Thursday, April 24
 
