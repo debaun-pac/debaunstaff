@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, April 12
-
-**Orchestra Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm-9:30pm_
-
-- Stage Manager: Harsha
-- House Manager: Michael
-- Sound Op: Sofia
-- Usher: Vincent
-
 ### Tuesday, April 22
 
 **Town Hall with Senator Menendez**
