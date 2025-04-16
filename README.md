@@ -136,7 +136,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 
 **Stevens A Capella Showcase**
 
-_Call Time: 8pm, Event Time: 9pm_
+_Call Time: 6pm, Event Time: 7pm_
 
 - Stage Manager: Harsha
 - Sound Op: Carl
