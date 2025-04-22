@@ -13,11 +13,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, April 22
+### ~~Tuesday, April 22~~ **Event Canceled**
 
-**Town Hall with Senator Menendez**
+~~**Town Hall with Senator Menendez**~~ 
 
-_Call Time: 5pm, Event Time: 6pm-7pm_
+~~_Call Time: 5pm, Event Time: 6pm-7pm_~~
 
 - Stage Manager: Harsha
 - House Manager: Hima
