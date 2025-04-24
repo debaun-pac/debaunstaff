@@ -30,9 +30,9 @@ _Call Time: 3pm, Event Time: 4pm-5:30pm_
 _Call Time: 8pm, Event Time: 9pm-10:30pm_
 
 - Stage Manager: Harsha
-- House Manager: Hima
+- House Manager: Vincent
 - Sound Op: Sofia
-- Usher: Vincent
+- Usher: 
 
 ### Friday, April 25
 
