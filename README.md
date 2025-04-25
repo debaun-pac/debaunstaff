@@ -13,27 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Thursday, April 24
-
-**Sexual Assault Awareness Event #1**
-
-_Call Time: 3pm, Event Time: 4pm-5:30pm_
-
-- Stage Manager: 
-- House Manager: Hima
-- Sound Op: Harsha
-- Usher:
-
-**Sexual Assault Awareness Event #2**
-
-_Call Time: 8pm, Event Time: 9pm-10:30pm_
-
-- Stage Manager: Harsha
-- House Manager: Vincent
-- Sound Op: Sofia
-- Usher: 
-
 ### Friday, April 25
 
 **Concert Band Rehearsal**
