@@ -13,24 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, April 26
-
-**Concert Band Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Sofia
-- Usher: 
-
-### Monday, April 28
-
-**Choir Rehearsal**
-
-_Call Time: 6pm-9pm_
-
-- Sound Op: Sofia
 
 ### Tuesday, April 29
 
