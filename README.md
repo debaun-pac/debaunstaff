@@ -13,18 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Tuesday, April 29
-
-**Undergrad Awards**
-
-_Call Time: 5pm, Event Time: 6pm-8pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Sofia
-- Usher: Vincent
-
 ### Wednesday, April 30
 
 **Jazz Band Rehearsal**
