@@ -14,16 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Thursday, May 1
-
-**Choir Rehearsal**
-
-_Call Time: 6pm, Rehearsal Time: 6pm-9pm_
-
-- Sound Op: Sofia
-
-### Friday, May 2
-
 **Jazz Band Concert**
 
 _Call Time: 6:30pm, Concert Time: 8pm-10pm_
@@ -31,7 +21,7 @@ _Call Time: 6:30pm, Concert Time: 8pm-10pm_
 - Stage Manager: Shawna
 - House Manager: Harsha
 - Sound Op: Carl
-- Usher: Vincent
+- Usher: 
 
 ### Saturday, May 3
 
