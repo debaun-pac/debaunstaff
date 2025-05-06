@@ -13,35 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-**Choir Concert**
-
-_Call Time: 6:30pm, Concert Time: 8pm-10pm_
-
-- Stage Manager: Harsha
-- House Manager: Michael
-- Sound Op: Sofia
-- Usher: Vincent
-
-### Sunday, May 4
-
-**Stevens A Capella Showcase**
-
-_Call Time: 6pm, Event Time: 7pm_
-
-- Stage Manager: Harsha
-- Sound Op: Carl
-- House Manager: Vincent
-
-### Friday, May 9
-
-**(NOT CONFIRMED) Thomas S. Scholl Lecture Series**
-
-_Call Time: 8:00am, Event Time: 9am-11am_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher:
 
 **Ansary Pitch Competition**
 
