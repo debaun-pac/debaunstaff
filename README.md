@@ -14,37 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Ansary Pitch Competition**
-
-_Call Time: 1:30pm, Event Time: 3pm-5pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Hima
-
-### Monday, May 12
-
-**Athletics All Rise Awards**
-
-_Call Time: 6pm, Event Time: 7pm-8pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Vincent
-
-### Monday, May 19
-
-**PhD Hooding Ceremony**
-
-_Call Time: 10:30am, Event Time: 12pm-2pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Sofia
-
 **Grad Awards**
 
 _Call Time: 5pm, Event Time: 6pm-8pm_
