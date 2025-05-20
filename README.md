@@ -14,17 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Grad Awards**
-
-_Call Time: 5pm, Event Time: 6pm-8pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Sofia
-
-### Tuesday, May 20
-
 **Senior Awards**
 
 _Call Time: 12pm, Event Time: 1pm-3pm_
