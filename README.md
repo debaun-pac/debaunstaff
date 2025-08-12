@@ -12,5 +12,3 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-
-
