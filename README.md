@@ -14,21 +14,3 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-**Senior Awards**
-
-_Call Time: 12pm, Event Time: 1pm-3pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Sofia
-
-**Order of the Engineer Ceremony**
-
-_Call Time: 3pm, Event Time: 4pm-6pm_
-
-- Stage Manager: Shawna
-- House Manager: Harsha
-- Sound Op: Carl
-- Usher: Sofia
-
