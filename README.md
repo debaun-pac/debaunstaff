@@ -27,7 +27,7 @@ _Call Time: 9am, Event Time: 10-11am_
 
 _Call Time: 11am, Event Time: 11:15am-12:15pm_
 
-- Stage Manager:
+- Stage Manager: Michael
 - House Manager:
 - Sound Op:
 - Usher:
@@ -37,7 +37,7 @@ _Call Time: 11am, Event Time: 11:15am-12:15pm_
 
 _Call Time: 1:30pm, Event Time: 2-3pm_
 
-- Stage Manager:
+- Stage Manager: Michael
 - House Manager:
 - Sound Op:
 - Usher:
@@ -47,7 +47,7 @@ _Call Time: 1:30pm, Event Time: 2-3pm_
 
 _Call Time: 3pm, Event Time: 3:15-4:15pm_
 
-- Stage Manager:
+- Stage Manager: Michael
 - House Manager:
 - Sound Op:
 - Usher:
