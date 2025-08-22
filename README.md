@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 9 a.m., Event Time: 10-11 a.m._
 
 - Stage Manager:
-- House Manager:
+- House Manager: Lindsey
 - Sound Op:
 - Usher:
 - Usher:
@@ -28,7 +28,7 @@ _Call Time: 9 a.m., Event Time: 10-11 a.m._
 _Call Time: 11 a.m., Event Time: 11:15 a.m.-12:15 p.m._
 
 - Stage Manager: Michael
-- House Manager:
+- House Manager: Lindsey
 - Sound Op:
 - Usher:
 - Usher:
