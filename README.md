@@ -56,7 +56,7 @@ _Call Time: 3 p.m., Event Time: 3:15-4:15 p.m._
 ### Thursday, August 28
 <ins>**Graduate Student Convocation & Orientation**<ins>
 
-_Call Time: 8:30 a.m., Event Time: 10 a.m._
+_Call Time: 8:30 a.m., Event Time: 10 a.m - 3 p.m._
 
 - Stage Manager:
 - House Manager:
@@ -71,4 +71,10 @@ _Call Time: 7 p.m., Performance Time: 8 p.m._
 
 - House Manager:
 
+### Saturday, September 14
+<ins>**Alumni Reciatal**<ins>
+
+_Call Time: 7 p.m., Performance Time: 8 p.m._
+
+- House Manager:
 
