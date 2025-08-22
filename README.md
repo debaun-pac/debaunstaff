@@ -76,5 +76,5 @@ _Call Time: 7 p.m., Performance Time: 8 p.m._
 
 _Call Time: 7 p.m., Performance Time: 8 p.m._
 
-- House Manager:
+- House Manager: Julia
 
