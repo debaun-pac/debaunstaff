@@ -15,7 +15,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Tuesday, August 26
 <ins>**Undergrad Orientation Session 1**</ins>
 
-_Call Time: 9 a.m., Event Time: 10-11 a.m.
+_Call Time: 9 a.m., Event Time: 10-11 a.m._
 
 - Stage Manager:
 - House Manager:
@@ -56,12 +56,19 @@ _Call Time: 3 p.m., Event Time: 3:15-4:15 p.m._
 ### Thursday, August 28
 <ins>**Graduate Student Convocation & Orientation**<ins>
 
-_Call Time: 9 a.m., Event Time: 10 a.m._
+_Call Time: 8:30 a.m., Event Time: 10 a.m._
 
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
 - Usher:
 - Usher: 
+
+### Saturday, September 6
+<ins>**Bare Bard Performance**<ins>
+
+_Call Time: 7 p.m., Performance Time: 8 p.m._
+
+- House Manager:
 
 
