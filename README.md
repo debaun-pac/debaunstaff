@@ -19,7 +19,7 @@ _Call Time: 9 a.m., Event Time: 10-11 a.m._
 
 - Stage Manager:
 - House Manager: Lindsey
-- Sound Op:
+- Sound Op: 
 - Usher:
 - Usher:
 
@@ -29,7 +29,7 @@ _Call Time: 11 a.m., Event Time: 11:15 a.m.-12:15 p.m._
 
 - Stage Manager: Michael
 - House Manager: Lindsey
-- Sound Op:
+- Sound Op: 
 - Usher:
 - Usher:
 
@@ -39,7 +39,7 @@ _Call Time: 1:30 p.m., Event Time: 2-3 p.m._
 
 - Stage Manager: Michael
 - House Manager:
-- Sound Op:
+- Sound Op: Hima
 - Usher:
 - Usher:
 
@@ -49,7 +49,7 @@ _Call Time: 3 p.m., Event Time: 3:15-4:15 p.m._
 
 - Stage Manager: Michael
 - House Manager:
-- Sound Op:
+- Sound Op: Hima
 - Usher:
 - Usher:
 
@@ -61,7 +61,7 @@ _Call Time: 8:30 a.m., Event Time: 10 a.m - 3 p.m._
 - Stage Manager:
 - House Manager:
 - Sound Op: Carl
-- Usher:
+- Usher: Hima
 - Usher: 
 
 ### Saturday, September 6
