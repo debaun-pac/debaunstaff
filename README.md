@@ -69,7 +69,7 @@ _Call Time: 8:30 a.m., Event Time: 10 a.m - 3 p.m._
 
 _Call Time: 7 p.m., Performance Time: 8 p.m._
 
-- House Manager:
+- House Manager: Michael
 
 ### Saturday, September 14
 <ins>**Alumni Reciatal**<ins>
