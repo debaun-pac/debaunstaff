@@ -13,17 +13,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, September 6
-<ins>**Bare Bard Performance**<ins>
+### Wednesday, September 24
+<ins>**Hazing Speaker**<ins>
 
-_Call Time: 7 p.m., Performance Time: 8 p.m._
+_Call Time: 2 p.m., Event Time: 3 p.m._
 
-- House Manager: Michael
-
-### Saturday, September 14
-<ins>**Alumni Reciatal**<ins>
-
-_Call Time: 7 p.m., Performance Time: 8 p.m._
-
-- House Manager: Julia
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher:
 
