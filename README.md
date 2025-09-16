@@ -16,7 +16,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Wednesday, September 24
 <ins>**Hazing Speaker**<ins>
 
-_Call Time: 2 p.m., Event Time: 3 p.m._
+_Call Time: 2 p.m., Event Time: 3 p.m. - 6 p.m._
 
 - Stage Manager: 
 - House Manager: 
