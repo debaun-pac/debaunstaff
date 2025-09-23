@@ -20,6 +20,6 @@ _Call Time: 7:30 p.m., Sound Check: 8 p.m., Event Time: 9 p.m. - 10 p.m._
 
 - Stage Manager: Julia
 - House Manager: Vincent
-- Sound Op: Hima?
+- Sound Op: Hima
 - Usher: Michael
 
