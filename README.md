@@ -16,7 +16,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Wednesday, September 24
 <ins>**Hazing Speaker**<ins>
 
-_Call Time: 7:30 p.m., Sound Check: 8 p.m., Event Time: 9 p.m. - 10 p.m._
+_Call Time: 8 p.m., Sound Check: 8 p.m., Event Time: 9 p.m. - 10 p.m._
 
 - Stage Manager: Julia
 - House Manager: Vincent
