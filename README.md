@@ -13,13 +13,13 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, September 24
-<ins>**Hazing Speaker**<ins>
+### Wednesday, October 15
+<ins>**Alpha Phi Girl Scout Event**<ins>
 
-_Call Time: 8 p.m., Sound Check: 8 p.m., Event Time: 9 p.m. - 10 p.m._
+_Call Time: TBA, Event Time: 5pm-8pm_
 
-- Stage Manager: Julia
-- House Manager: Vincent
-- Sound Op: Hima
-- Usher: Michael
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
 
