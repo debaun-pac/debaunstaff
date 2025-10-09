@@ -20,6 +20,6 @@ _Call Time: 6 p.m., Event Time: 6:45 p.m.-7:30 p.m._
 
 - Stage Manager: 
 - House Manager: Vincent
-- Sound Op: 
+- Sound Op: Julia
 - Usher: 
 
