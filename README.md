@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 6 p.m., Event Time: 6:45 p.m.-7:30 p.m._
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: Vincent
 - Sound Op: 
 - Usher: 
 
