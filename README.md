@@ -29,6 +29,6 @@ _Call Time: 5:30 p.m., Event Time: 6:00 p.m.-7:20 p.m._
 _Call Time: 9 a.m. Event Time: 10 a.m. - 11:30 a.m_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Julia
 - Sound Op: Carl
 - Usher:
