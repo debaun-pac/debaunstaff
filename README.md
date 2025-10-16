@@ -13,15 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, October 15
-<ins>**Alpha Phi Girl Scout Event**<ins>
-
-_Call Time: 5:30 p.m., Event Time: 6:00 p.m.-7:20 p.m._
-
-- Stage Manager: 
-- House Manager: Vincent
-- Sound Op: Julia
-- Usher: 
 
 ### Saturday, October 18
 <ins>**President's Welcome Address**<ins>
