@@ -14,12 +14,36 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Saturday, October 18
-<ins>**President's Welcome Address**<ins>
+### Thursday, November 6
+<ins>**And Then There Were None Performance 1**<ins>
 
-_Call Time: 9 a.m. Event Time: 10 a.m. - 11:30 a.m_
+_Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m_
 
-- Stage Manager: Shawna
-- House Manager: Julia
-- Sound Op: Carl
+- House Manager: 
+- Usher:
+
+### Friday, November 7
+<ins>**And Then There Were None Performance 2**<ins>
+
+_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m_
+
+- House Manager: 
+- Usher:
+
+
+### Saturday, November 8
+<ins>**And Then There Were None Performance 3**<ins>
+
+_Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m_
+
+- House Manager: 
+- Usher:
+
+
+### Saturday, November 8
+<ins>**And Then There Were None Performance 4**<ins>
+
+_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m_
+
+- House Manager: 
 - Usher:
