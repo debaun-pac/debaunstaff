@@ -17,7 +17,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Thursday, November 6
 <ins>**And Then There Were None Performance 1**<ins>
 
-_Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m_
+_Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m._
 
 - House Manager: 
 - Usher:
@@ -25,7 +25,7 @@ _Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m_
 ### Friday, November 7
 <ins>**And Then There Were None Performance 2**<ins>
 
-_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m_
+_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 - House Manager: 
 - Usher:
@@ -34,7 +34,7 @@ _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m_
 ### Saturday, November 8
 <ins>**And Then There Were None Performance 3**<ins>
 
-_Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m_
+_Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
 
 - House Manager: 
 - Usher:
@@ -43,8 +43,49 @@ _Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m_
 ### Saturday, November 8
 <ins>**And Then There Were None Performance 4**<ins>
 
-_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m_
+_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 - House Manager: 
 - Usher:
+
+### Tuesday, November 11
+<ins>**Twelfth Night Auditions**<ins>
+
+_Call Time: 6 p.m., Auditions: 6:30 p.m. - 10:00 p.m._
+
+- Audition Monitor: 
+
+### Wednesday, November 12
+<ins>**TECHnique Dress Rehearsal**<ins>
+
+** please be available for event date/time on Friday, Nov. 14
+
+_Call Time: 5:30 p.m., Rehearsal Time: 6-11 p.m._
+
+- Light Op:
+- Sound Op:
+
+### Friday, November 14
+<ins>**TECHnique Dance Showcase**<ins>
+
+_Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+
+### Sunday, November 16
+<ins>**Phi Sig Lip Sync**<ins>
+
+_Call Time: 5 p.m., Event Time: 7 p.m. - 10 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+
+
 
