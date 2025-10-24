@@ -71,8 +71,8 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6-11 p.m._
 _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 
 - Stage Manager:
-- House Manager:
-- Sound Op:
+- House Manager: Vincent
+- Sound Op: Hima
 - Light Op:
 - Usher:
 
@@ -82,8 +82,8 @@ _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 _Call Time: 5 p.m., Event Time: 7 p.m. - 10 p.m._
 
 - Stage Manager:
-- House Manager:
-- Sound Op:
+- House Manager: Vincent
+- Sound Op: Hima
 - Light Op:
 - Usher:
 
