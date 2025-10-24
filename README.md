@@ -72,7 +72,7 @@ _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 
 - Stage Manager:
 - House Manager: Vincent
-- Sound Op: Hima
+- Sound Op: 
 - Light Op:
 - Usher:
 
