@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m._
 
-- House Manager: 
+- House Manager: Joonho
 - Usher:
 
 ### Friday, November 7
@@ -70,7 +70,7 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6-11 p.m._
 
 _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 
-- Stage Manager:
+- Stage Manager: Joonho
 - House Manager: Vincent
 - Sound Op: 
 - Light Op:
@@ -81,7 +81,7 @@ _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 
 _Call Time: 5 p.m., Event Time: 7 p.m. - 10 p.m._
 
-- Stage Manager:
+- Stage Manager: Joonho
 - House Manager: Vincent
 - Sound Op: Hima
 - Light Op:
