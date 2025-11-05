@@ -36,7 +36,7 @@ _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 _Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
 
-- House Manager: 
+- House Manager: Lindsey
 - Usher:
 
 
@@ -45,7 +45,7 @@ _Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
 
 _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
-- House Manager: 
+- House Manager: Lindsey
 - Usher:
 
 ### Tuesday, November 11
@@ -53,7 +53,7 @@ _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 _Call Time: 6 p.m., Auditions: 6:30 p.m. - 10:00 p.m._
 
-- Audition Monitor: 
+- Audition Monitor: Vincent?
 
 ### Wednesday, November 12
 <ins>**TECHnique Dress Rehearsal**<ins>
