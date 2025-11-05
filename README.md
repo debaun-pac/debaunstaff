@@ -20,14 +20,14 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m._
 
 - House Manager: Joonho
-- Usher:
+- Usher: Vincent
 
 ### Friday, November 7
 <ins>**And Then There Were None Performance 2**<ins>
 
 _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
-- House Manager: 
+- House Manager: Vincent
 - Usher:
 
 
@@ -37,7 +37,7 @@ _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 _Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
 
 - House Manager: Lindsey
-- Usher:
+- Usher: Vincent
 
 
 ### Saturday, November 8
@@ -46,7 +46,7 @@ _Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
 _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 - House Manager: Lindsey
-- Usher:
+- Usher: Vincent
 
 ### Tuesday, November 11
 <ins>**Twelfth Night Auditions**<ins>
