@@ -53,7 +53,7 @@ _Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
 
 _Call Time: 6 p.m., Auditions: 6:30 p.m. - 10:00 p.m._
 
-- Audition Monitor: Vincent?
+- Audition Monitor: Vincent?(only till 9pm)
 
 ### Wednesday, November 12
 <ins>**TECHnique Dress Rehearsal**<ins>
