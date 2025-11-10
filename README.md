@@ -13,41 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Thursday, November 6
-<ins>**And Then There Were None Performance 1**<ins>
-
-_Call Time: 7:30 p.m. Event Time: 9 p.m. - 11:00 p.m._
-
-- House Manager: Joonho
-- Usher: Vincent
-
-### Friday, November 7
-<ins>**And Then There Were None Performance 2**<ins>
-
-_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
-
-- House Manager: Vincent
-- Usher:
-
-
-### Saturday, November 8
-<ins>**And Then There Were None Performance 3**<ins>
-
-_Call Time: 12:30 p.m. Event Time: 2 p.m. - 4:00 p.m._
-
-- House Manager: Lindsey
-- Usher: Vincent
-
-
-### Saturday, November 8
-<ins>**And Then There Were None Performance 4**<ins>
-
-_Call Time: 6:30 p.m. Event Time: 8 p.m. - 10:00 p.m._
-
-- House Manager: Lindsey
-- Usher: Vincent
-
 ### Tuesday, November 11
 <ins>**Twelfth Night Auditions**<ins>
 
@@ -58,7 +23,7 @@ _Call Time: 5:30 p.m., Auditions: 6:00 p.m. - 10:00 p.m._
 ### Wednesday, November 12
 <ins>**TECHnique Dress Rehearsal**<ins>
 
-** please be available for event date/time on Friday, Nov. 14
+** Please be available for the event date/time on Friday, Nov. 14
 
 _Call Time: 5:30 p.m., Rehearsal Time: 6-11 p.m._
 
