@@ -18,7 +18,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 5:30 p.m., Auditions: 6:00 p.m. - 10:00 p.m._
 
-- Audition Monitor: Vincent?(only to 9pm)
+- Audition Monitor: Vincent (to 9 p.m.) 
+- Audition Monitor: Lindsey (9-10 p.m.)
 
 ### Wednesday, November 12
 <ins>**TECHnique Dress Rehearsal**<ins>
