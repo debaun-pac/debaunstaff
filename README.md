@@ -13,24 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, November 11
-<ins>**Twelfth Night Auditions**<ins>
-
-_Call Time: 5:30 p.m., Auditions: 6:00 p.m. - 10:00 p.m._
-
-- Audition Monitor: Vincent (to 9 p.m.) 
-- Audition Monitor: Lindsey (9-10 p.m.)
-
-### Wednesday, November 12
-<ins>**TECHnique Dress Rehearsal**<ins>
-
-** Please be available for the event date/time on Friday, Nov. 14
-
-_Call Time: 5:30 p.m., Rehearsal Time: 6-11 p.m._
-
-- Light Op:
-- Sound Op:
-
 ### Friday, November 14
 <ins>**TECHnique Dance Showcase**<ins>
 
@@ -38,8 +20,9 @@ _Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
 
 - Stage Manager: Joonho
 - House Manager: Vincent
-- Sound Op: 
-- Light Op:
+- Sound Op: Carl
+- Light Op: Shawna
+- Spot Op: 
 - Usher:
 
 ### Sunday, November 16
@@ -49,9 +32,125 @@ _Call Time: 5 p.m., Event Time: 7 p.m. - 10 p.m._
 
 - Stage Manager: Joonho
 - House Manager: Vincent
-- Sound Op: Hima
-- Light Op:
+- Sound Op: Carl
+- Light Op: Shawna
+- Spot Op: Julia
 - Usher:
 
+### Thursday, November 20 
+<ins>**Sudan and Congo Fundraiser**<ins>
+
+_Call Time: 5:30 pm, Event Time: 7 pm - 9 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Spot Op:
+
+### Friday, November 21
+<ins>**Orchestra Dress Rehearsal**<ins>
+
+_Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
+
+- *Sound Op: 
+
+_*Must also be available for the concert_
+
+### Saturday, November 22
+<ins>**Orchestra Concert**<ins>
+
+_Call Time: 7:00 pm, Concert Time: 8 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Wednesday, December 3
+<ins>**Order of the Engineer Induction Ceremony**<ins>
+
+_Call Time: 12:30 pm, Event Time: 1:30 pm - 2:30 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+
+### Friday, December 5
+<ins>**Concert Band Dress Rehearsal**<ins>
+
+_Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
+
+- Stage Manager: Shawna
+- *Sound Op:
+
+ _*Must also be available for the concert_
+
+### Saturday, December 6
+<ins>**Concert Band Concert**<ins>
+
+_Call Time: 7:00 pm, Concert Time: 8 pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Monday, December 8
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
+
+- Sound Op:
+
+### Wednesday, December 10
+<ins>**Jazz Band Dress Rehearsal**<ins>
+
+_Call Time: 6 pm, Rehearsal Time: 6:30 pm - 9 pm_
+
+- Sound Op: Carl
+
+### Thursday, December 11
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
+
+- Sound Op:
+
+### Friday, December 12
+<ins>**Jazz Band Concert**<ins>
+
+_Call Time: 7:00 pm, Concert Time: 8 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Saturday, December 13
+<ins>**Choir Dress Rehearsal**<ins>
+
+_Call Time: TBA, Rehearsal Time: TBA_
+
+- Stage Manager:
+- Sound Op:
 
 
+<ins>**Choir Concert**<ins>
+
+_Call Time: 7 pm, Cocnert Time: 8 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Tuesday, December 16
+<ins>**Conversation with the President**<ins>
+
+_Call Time: 12:30 pm, Event Time: 1:30 pm - 3:00 pm_
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher: 
