@@ -16,7 +16,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Friday, November 14
 <ins>**TECHnique Dance Showcase**<ins>
 
-_Call Time: TBA, Event Time: TBA (likely falling between 7 p.m. and 10 p.m._
+_Call Time: 6:30 pm, Event Time: 7:30 pm - 9:30 pm_
 
 - Stage Manager: Joonho
 - House Manager: Vincent
