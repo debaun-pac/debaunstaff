@@ -65,7 +65,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 - Stage Manager:
 - House Manager:
 - Sound Op:
-- Usher:
+- Usher: Hima
 
 ### Wednesday, December 3
 <ins>**Order of the Engineer Induction Ceremony**<ins>
@@ -94,7 +94,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 - Stage Manager: Shawna
 - House Manager:
 - Sound Op:
-- Usher:
+- Usher: Hima
 
 ### Monday, December 8
 <ins>**Choir Rehearsal**<ins>
@@ -143,7 +143,7 @@ _Call Time: 7 pm, Cocnert Time: 8 pm_
 - Stage Manager:
 - House Manager:
 - Sound Op:
-- Usher:
+- Usher: Hima
 
 ### Tuesday, December 16
 <ins>**Conversation with the President**<ins>
