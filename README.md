@@ -141,7 +141,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 _Call Time: 7 pm, Cocnert Time: 8 pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Michael
 - Sound Op:
 - Usher: Hima
 
@@ -151,6 +151,6 @@ _Call Time: 7 pm, Cocnert Time: 8 pm_
 _Call Time: 12:30 pm, Event Time: 1:30 pm - 3:00 pm_
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Michael
 - Sound Op: Carl
 - Usher: 
