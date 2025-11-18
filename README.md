@@ -16,12 +16,12 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Thursday, November 20 
 <ins>**Sudan and Congo Fundraiser**<ins>
 
-_Call Time: 5:30 pm, Event Time: 7 pm - 9 pm_
+_Call Time: 5:30 pm, Event Time: 9 pm - 11 pm_
 
-- Stage Manager:
+- Stage Manager: Shawna?
 - House Manager:
-- Sound Op:
-- Light Op:
+- Sound Op: Carl?
+- Light Op: Shawna?
 - Spot Op:
 
 ### Friday, November 21
