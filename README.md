@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30 pm, Event Time: 9 pm - 11 pm_
 
 - Stage Manager: Shawna?
-- House Manager:
+- House Manager: Joonho
 - Sound Op: Carl?
 - Light Op: Shawna?
 - Spot Op:
