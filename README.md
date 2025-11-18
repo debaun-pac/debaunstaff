@@ -13,30 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, November 14
-<ins>**TECHnique Dance Showcase**<ins>
-
-_Call Time: 6:30 pm, Event Time: 7:30 pm - 9:30 pm_
-
-- Stage Manager: Joonho
-- House Manager: Vincent
-- Sound Op: Carl
-- Light Op: Shawna
-- Spot Op: 
-- Usher:
-
-### Sunday, November 16
-<ins>**Phi Sig Lip Sync**<ins>
-
-_Call Time: 5 p.m., Event Time: 7 p.m. - 10 p.m._
-
-- Stage Manager: Joonho
-- House Manager: Vincent
-- Sound Op: Carl
-- Light Op: Shawna
-- Spot Op: Julia
-- Usher:
-
 ### Thursday, November 20 
 <ins>**Sudan and Congo Fundraiser**<ins>
 
@@ -63,7 +39,7 @@ _*Must also be available for the concert_
 _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Vincent
 - Sound Op:
 - Usher: Hima
 
@@ -123,7 +99,7 @@ _Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
 _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Vincent
 - Sound Op: Carl
 - Usher:
 
@@ -153,4 +129,4 @@ _Call Time: 12:30 pm, Event Time: 1:30 pm - 3:00 pm_
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Carl
-- Usher: 
+- Usher: Vincent
