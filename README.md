@@ -29,7 +29,7 @@ _Call Time: 7:30 pm, Event Time: 9 pm - 11 pm_
 
 _Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
 
-- *Sound Op: 
+- *Sound Op: Carl
 
 _*Must also be available for the concert_
 
@@ -38,9 +38,9 @@ _*Must also be available for the concert_
 
 _Call Time: 7:00 pm, Concert Time: 8 pm_
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager: Vincent
-- Sound Op:
+- Sound Op: Carl
 - Usher: Hima
 
 ### Wednesday, December 3
@@ -48,9 +48,9 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 _Call Time: 12:30 pm, Event Time: 1:30 pm - 2:30 pm_
 
-- Stage Manager:
-- House Manager:
-- Sound Op:
+- Stage Manager: 
+- House Manager: Shawna
+- Sound Op: Carl
 
 ### Friday, December 5
 <ins>**Concert Band Dress Rehearsal**<ins>
@@ -58,7 +58,7 @@ _Call Time: 12:30 pm, Event Time: 1:30 pm - 2:30 pm_
 _Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
 
 - Stage Manager: Shawna
-- *Sound Op:
+- *Sound Op: Carl
 
  _*Must also be available for the concert_
 
@@ -69,7 +69,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 - Stage Manager: Shawna
 - House Manager:
-- Sound Op:
+- Sound Op: Carl
 - Usher: Hima
 
 ### Monday, December 8
@@ -77,7 +77,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 _Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
 
-- Sound Op:
+- Sound Op: 
 
 ### Wednesday, December 10
 <ins>**Jazz Band Dress Rehearsal**<ins>
@@ -91,7 +91,7 @@ _Call Time: 6 pm, Rehearsal Time: 6:30 pm - 9 pm_
 
 _Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
 
-- Sound Op:
+- Sound Op: 
 
 ### Friday, December 12
 <ins>**Jazz Band Concert**<ins>
@@ -108,17 +108,17 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 
 _Call Time: TBA, Rehearsal Time: TBA_
 
-- Stage Manager:
-- Sound Op:
+- Stage Manager: Shawna
+- Sound Op: Carl
 
 
 <ins>**Choir Concert**<ins>
 
-_Call Time: 7 pm, Cocnert Time: 8 pm_
+_Call Time: 7 pm, Concert Time: 8 pm_
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager: Michael
-- Sound Op:
+- Sound Op: Carl
 - Usher: Hima
 
 ### Tuesday, December 16
