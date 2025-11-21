@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, November 20 
-<ins>**Sudan and Congo Fundraiser**<ins>
-
-_Call Time: 7:30 pm, Event Time: 9 pm - 11 pm_
-
-- Stage Manager: Shawna?
-- House Manager: Joonho
-- Sound Op: Carl?
-- Light Op: Shawna?
-- Spot Op:
-
 ### Friday, November 21
 <ins>**Orchestra Dress Rehearsal**<ins>
 
