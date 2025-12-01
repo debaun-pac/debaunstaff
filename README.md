@@ -13,25 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, November 21
-<ins>**Orchestra Dress Rehearsal**<ins>
-
-_Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
-
-- *Sound Op: Carl
-
-_*Must also be available for the concert_
-
-### Saturday, November 22
-<ins>**Orchestra Concert**<ins>
-
-_Call Time: 7:00 pm, Concert Time: 8 pm_
-
-- Stage Manager: Shawna
-- House Manager: Vincent
-- Sound Op: Carl
-- Usher: Hima
-
 ### Wednesday, December 3
 <ins>**Order of the Engineer Induction Ceremony**<ins>
 
