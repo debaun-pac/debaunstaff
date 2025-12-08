@@ -13,41 +13,12 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, December 3
-<ins>**Order of the Engineer Induction Ceremony**<ins>
-
-_Call Time: 12:30 pm, Event Time: 1:30 pm - 2:30 pm_
-
-- Stage Manager: 
-- House Manager: Shawna
-- Sound Op: Carl
-
-### Friday, December 5
-<ins>**Concert Band Dress Rehearsal**<ins>
-
-_Call Time: 5:30 pm, Rehearsal Time: 6 pm - 9 pm_
-
-- Stage Manager: Shawna
-- *Sound Op: Carl
-
- _*Must also be available for the concert_
-
-### Saturday, December 6
-<ins>**Concert Band Concert**<ins>
-
-_Call Time: 7:00 pm, Concert Time: 8 pm_
-
-- Stage Manager: Shawna
-- House Manager:
-- Sound Op: Carl
-- Usher: Hima
-
 ### Monday, December 8
 <ins>**Choir Rehearsal**<ins>
 
 _Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
 
-- Sound Op: 
+- Sound Op: Carl
 
 ### Wednesday, December 10
 <ins>**Jazz Band Dress Rehearsal**<ins>
@@ -61,14 +32,14 @@ _Call Time: 6 pm, Rehearsal Time: 6:30 pm - 9 pm_
 
 _Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
 
-- Sound Op: 
+- Sound Op: Carl
 
 ### Friday, December 12
 <ins>**Jazz Band Concert**<ins>
 
 _Call Time: 7:00 pm, Concert Time: 8 pm_
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager: Vincent
 - Sound Op: Carl
 - Usher:
@@ -76,7 +47,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 ### Saturday, December 13
 <ins>**Choir Dress Rehearsal**<ins>
 
-_Call Time: TBA, Rehearsal Time: TBA_
+_Call Time: 2pm, Rehearsal Time: 2:15-5pm
 
 - Stage Manager: Shawna
 - Sound Op: Carl
