@@ -34,7 +34,7 @@ _Call Time: 7:00 pm, Concert Time: 8 pm_
 ### Saturday, December 13
 <ins>**Choir Dress Rehearsal**<ins>
 
-_Call Time: 2pm, Rehearsal Time: 2:15-5pm
+_Call Time: 2pm, Rehearsal Time: 2:15-5pm_
 
 - Stage Manager: Shawna
 - Sound Op: Carl
