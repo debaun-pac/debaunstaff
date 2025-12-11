@@ -14,13 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 
-### Wednesday, December 10
-<ins>**Jazz Band Dress Rehearsal**<ins>
-
-_Call Time: 6 pm, Rehearsal Time: 6:30 pm - 9 pm_
-
-- Sound Op: Carl
-
 ### Thursday, December 11
 <ins>**Choir Rehearsal**<ins>
 
