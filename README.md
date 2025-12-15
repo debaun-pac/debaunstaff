@@ -13,42 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Thursday, December 11
-<ins>**Choir Rehearsal**<ins>
-
-_Call Time: 6:25 pm, Rehearsal Time: 6:45 pm - 9 pm_
-
-- Sound Op: Carl
-
-### Friday, December 12
-<ins>**Jazz Band Concert**<ins>
-
-_Call Time: 7:00 pm, Concert Time: 8 pm_
-
-- Stage Manager: Shawna
-- House Manager: Vincent
-- Sound Op: Carl
-- Usher:
-
-### Saturday, December 13
-<ins>**Choir Dress Rehearsal**<ins>
-
-_Call Time: 2pm, Rehearsal Time: 2:15-5pm_
-
-- Stage Manager: Shawna
-- Sound Op: Carl
-
-
-<ins>**Choir Concert**<ins>
-
-_Call Time: 7 pm, Concert Time: 8 pm_
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: Hima
-
 ### Tuesday, December 16
 <ins>**Conversation with the President**<ins>
 
