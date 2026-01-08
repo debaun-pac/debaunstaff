@@ -13,12 +13,3 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, December 16
-<ins>**Conversation with the President**<ins>
-
-_Call Time: 12:30 pm, Event Time: 1:30 pm - 3:00 pm_
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: 
