@@ -13,3 +13,101 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
+### Thursday, February 12
+<ins>**12th Night Performance 1**<ins>
+
+_Call Time: 7:30 pm, House Open: 8:30 pm, Event Time: 9 pm-11 pm_
+
+- House Manager:
+- Usher:
+
+### Friday, February 13
+<ins>**12th Night Performance 2**<ins>
+
+_Call Time: 7 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
+
+- House Manager:
+- Usher:
+
+### Saturday, February 14
+<ins>**12th Night Performance 3**<ins>
+
+_Call Time: 12:30 pm, House Open: 1:30 pm, Event Time: 2 pm-4 pm_
+
+- House Manager:
+- Usher:
+
+### Thursday, February 19
+<ins>**Ducks On Display**<ins>
+
+_Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Light Op:
+- Usher:
+
+### Wednesday, February 25
+<ins>**Ducks on Display: Faculty and Staff Remix**<ins>
+
+_Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Light Op:
+- Usher:
+
+### Friday, Februsary 27
+<ins>**Honors Voice Recital**<ins>
+
+_Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
+
+- House Manager:
+
+### Wednesday, March 4
+<ins>**Mr. Heartthrob Rehearsals**<ins>
+
+_Note: Related event on Friday, March 6, it's preferable but not necessary to be available for both_
+
+_Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
+
+- Stage Manager: 
+- Sound Op: Speak to Carl
+- Light Op: Speak to Shawna
+- Spot Op:
+- Spot Op:
+
+### Thursday, March 5
+<ins>**Spell-a-THON**<ins>
+
+_Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher:
+
+### Friday, March 6
+<ins>**Mr. Heartthrob**<ins>
+
+_Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Light Op: 
+- Spot Op: 
+- Spot Op:
+- Usher:
+
+### Tuesday, March 10 
+<ins>**Sex Discussed Here- Sex in the Dark**<ins>
+
+_Call Time: TBA, House Open: TBA, Event Time: TBA_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher: 
