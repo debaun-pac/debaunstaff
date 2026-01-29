@@ -42,8 +42,8 @@ _Call Time: 12:30 pm, House Open: 1:30 pm, Event Time: 2 pm-4 pm_
 
 _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Julia
+- House Manager: Jasper
 - Sound Op: Carl
 - Light Op:
 - Usher:
@@ -53,11 +53,11 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
 
 _Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
 
-- Stage Manager:
-- House Manager:
+- Stage Manager: Julia
+- House Manager: Jasper
 - Sound Op: Carl
-- Light Op:
-- Usher:
+- Light Op: Christian
+- Usher: 
 
 ### Friday, Februsary 27
 <ins>**Honors Voice Recital**<ins>
@@ -74,9 +74,9 @@ _Note: Related event on Friday, March 6, it's preferable but not necessary to be
 _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 
 - Stage Manager: 
-- Sound Op: Speak to Carl
+- Sound Op: Julia
 - Light Op: Speak to Shawna
-- Spot Op:
+- Spot Op: Christian
 - Spot Op:
 
 ### Thursday, March 5
@@ -85,8 +85,8 @@ _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 _Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
 
 - Stage Manager: 
-- House Manager: 
-- Sound Op: 
+- House Manager: Jasper
+- Sound Op: Julia
 - Usher:
 
 ### Friday, March 6
@@ -96,7 +96,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 
 - Stage Manager: 
 - House Manager: 
-- Sound Op: 
+- Sound Op: Julia
 - Light Op: 
 - Spot Op: 
 - Spot Op:
@@ -108,6 +108,6 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 _Call Time: TBA, House Open: TBA, Event Time: TBA_
 
 - Stage Manager:
-- House Manager:
+- House Manager: Christian
 - Sound Op:
 - Usher: 
