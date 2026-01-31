@@ -64,7 +64,7 @@ _Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
 
 _Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
-- House Manager:
+- House Manager: Jasper
 
 ### Wednesday, March 4
 <ins>**Mr. Heartthrob Rehearsals**<ins>
