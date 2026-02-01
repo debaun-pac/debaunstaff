@@ -18,15 +18,15 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30 pm, House Open: 8:30 pm, Event Time: 9 pm-11 pm_
 
-- House Manager:
-- Usher:
+- House Manager: Hima
+- Usher: Jayden
 
 ### Friday, February 13
 <ins>**12th Night Performance 2**<ins>
 
 _Call Time: 7 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
-- House Manager:
+- House Manager: Jayden
 - Usher:
 
 ### Saturday, February 14
@@ -34,8 +34,8 @@ _Call Time: 7 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
 _Call Time: 12:30 pm, House Open: 1:30 pm, Event Time: 2 pm-4 pm_
 
-- House Manager:
-- Usher:
+- House Manager: Hima
+- Usher: Jayden
 
 ### Thursday, February 19
 <ins>**Ducks On Display**<ins>
