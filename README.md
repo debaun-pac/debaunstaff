@@ -45,7 +45,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
 - Stage Manager: Julia
 - House Manager: Jasper
 - Sound Op: Carl
-- Light Op:
+- Light Op: Michael
 - Usher:
 
 ### Wednesday, February 25
@@ -75,7 +75,7 @@ _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 
 - Stage Manager: 
 - Sound Op: Julia
-- Light Op: Speak to Shawna
+- Light Op: Michael
 - Spot Op: Christian
 - Spot Op:
 
@@ -84,7 +84,7 @@ _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 
 _Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
 
-- Stage Manager: 
+- Stage Manager: Michael
 - House Manager: Jasper
 - Sound Op: Julia
 - Usher:
@@ -97,7 +97,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 - Stage Manager: 
 - House Manager: 
 - Sound Op: Julia
-- Light Op: 
+- Light Op: Michael
 - Spot Op: 
 - Spot Op:
 - Usher:
@@ -107,7 +107,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 
 _Call Time: TBA, House Open: TBA, Event Time: TBA_
 
-- Stage Manager:
+- Stage Manager: Michael
 - House Manager: Christian
 - Sound Op:
 - Usher: 
