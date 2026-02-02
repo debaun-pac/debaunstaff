@@ -77,7 +77,7 @@ _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 - Sound Op: Julia
 - Light Op: Michael
 - Spot Op: Christian
-- Spot Op:
+- Spot Op: Hima
 
 ### Thursday, March 5
 <ins>**Spell-a-THON**<ins>
@@ -98,7 +98,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 - House Manager: 
 - Sound Op: Julia
 - Light Op: Michael
-- Spot Op: 
+- Spot Op: Hims
 - Spot Op:
 - Usher:
 
