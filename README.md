@@ -98,7 +98,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 - House Manager: 
 - Sound Op: Julia
 - Light Op: Michael
-- Spot Op: Hims
+- Spot Op: Hima
 - Spot Op:
 - Usher:
 
