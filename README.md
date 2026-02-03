@@ -109,5 +109,5 @@ _Call Time: TBA, House Open: TBA, Event Time: TBA_
 
 - Stage Manager: Michael
 - House Manager: Christian
-- Sound Op:
+- Sound Op: Oksana?
 - Usher: 
