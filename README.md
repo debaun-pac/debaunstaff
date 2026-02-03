@@ -46,7 +46,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
 - House Manager: Jasper
 - Sound Op: Carl
 - Light Op: Michael
-- Usher:
+- Usher: Oksana
 
 ### Wednesday, February 25
 <ins>**Ducks on Display: Faculty and Staff Remix**<ins>
@@ -87,7 +87,7 @@ _Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
 - Stage Manager: Michael
 - House Manager: Jasper
 - Sound Op: Julia
-- Usher:
+- Usher: Oksana
 
 ### Friday, March 6
 <ins>**Mr. Heartthrob**<ins>
