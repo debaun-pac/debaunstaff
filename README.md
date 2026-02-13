@@ -105,9 +105,9 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 ### Tuesday, March 10 
 <ins>**Sex Discussed Here- Sex in the Dark**<ins>
 
-_Call Time: TBA, House Open: TBA, Event Time: TBA_
+_Call Time: 5:30 pm, House Open: 6:30 pm Event Time: 7-3:30 pm_
 
 - Stage Manager: Michael
 - House Manager: Christian
-- Sound Op: Oksana?
+- Sound Op: Oksana
 - Usher: 
