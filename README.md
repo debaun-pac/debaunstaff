@@ -98,7 +98,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 ### Tuesday, March 10 
 <ins>**Sex Discussed Here- Sex in the Dark**<ins>
 
-_Call Time: 5:30 pm, House Open: 6:30 pm Event Time: 7-3:30 pm_
+_Call Time: 5:30 pm, House Open: 6:30 pm Event Time: 7-8:30 pm_
 
 - Stage Manager: Michael
 - House Manager: Christian
