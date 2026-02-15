@@ -13,23 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Friday, February 13
-<ins>**12th Night Performance 2**<ins>
-
-_Call Time: 7 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
-
-- House Manager: Jayden
-- Usher:
-
-### Saturday, February 14
-<ins>**12th Night Performance 3**<ins>
-
-_Call Time: 12:30 pm, House Open: 1:30 pm, Event Time: 2 pm-4 pm_
-
-- House Manager: Hima
-- Usher: Jayden
-
 ### Thursday, February 19
 <ins>**Ducks On Display**<ins>
 
@@ -50,7 +33,7 @@ _Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
 - House Manager: Jasper
 - Sound Op: Carl
 - Light Op: Christian
-- Usher: 
+- Usher: Jayden
 
 ### Friday, Februsary 27
 <ins>**Honors Voice Recital**<ins>
@@ -67,7 +50,7 @@ _Note: Related event on Friday, March 6, it's preferable but not necessary to be
 _Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
 
 - Stage Manager: 
-- Sound Op: Julia
+- Sound Op: Julia (Jayden shadowing)
 - Light Op: Michael
 - Spot Op: Christian
 - Spot Op: Hima
@@ -93,7 +76,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 - Light Op: Michael
 - Spot Op: Hima
 - Spot Op:
-- Usher:
+- Usher: Jayden
 
 ### Tuesday, March 10 
 <ins>**Sex Discussed Here- Sex in the Dark**<ins>
