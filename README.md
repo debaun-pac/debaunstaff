@@ -25,7 +25,7 @@ _Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
 - Usher: Jayden
 
 ### Friday, February 27
-$\color{Red}\Large{\textsf{Postponed}}$ <ins>**Honors Voice Recital**<ins>
+### Postponed <ins>**Honors Voice Recital**<ins>
 
 _Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
