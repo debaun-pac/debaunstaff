@@ -60,7 +60,7 @@ _Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
 _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 
 - Stage Manager: 
-- House Manager: 
+- House Manager: Vincent
 - Sound Op: Julia
 - Light Op: Michael
 - Spot Op: Hima
@@ -75,4 +75,4 @@ _Call Time: 5:30 pm, House Open: 6:30 pm Event Time: 7-8:30 pm_
 - Stage Manager: Michael
 - House Manager: Christian
 - Sound Op: Oksana
-- Usher: 
+- Usher: Vincent
