@@ -36,7 +36,7 @@ _Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
 _Note: Related event on Friday, March 6, it's preferable but not necessary to be available for both_
 
-_Call Time: TBA, Rehearsal Time: Evening (5-11 pm)_
+_Call Time: 4:45 pm, Rehearsal Time: 5-11 pm_
 
 - Stage Manager: 
 - Sound Op: Julia (Jayden shadowing)
