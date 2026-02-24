@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, February 19
-<ins>**Ducks On Display**<ins>
-
-_Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm-9 pm_
-
-- Stage Manager: Julia
-- House Manager: Jasper
-- Sound Op: Carl
-- Light Op: Michael
-- Usher: Oksana
-
 ### Wednesday, February 25
 <ins>**Ducks on Display: Faculty and Staff Remix**<ins>
 
@@ -35,8 +24,8 @@ _Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
 - Light Op: Christian
 - Usher: Jayden
 
-### Friday, Februsary 27
-<ins>**Honors Voice Recital**<ins>
+### Friday, February 27
+$\color{Red}\Large{\textsf{Postponed}}$ <ins>**Honors Voice Recital**<ins>
 
 _Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
 
