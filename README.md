@@ -13,24 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, February 25
-<ins>**Ducks on Display: Faculty and Staff Remix**<ins>
-
-_Call Time: 3:30 pm, House Open: 4:30 pm, Event Time: 5 pm-7 pm_
-
-- Stage Manager: Julia
-- House Manager: Jasper
-- Sound Op: Carl
-- Light Op: Christian
-- Usher: Jayden
-
-### Friday, February 27
-### Postponed <ins>**Honors Voice Recital**<ins>
-
-_Call Time: 6:45 pm, House Open: 7:30 pm, Event Time: 8 pm-10 pm_
-
-- House Manager: Jasper
-
 ### Wednesday, March 4
 <ins>**Mr. Heartthrob Rehearsals**<ins>
 
@@ -38,7 +20,7 @@ _Note: Related event on Friday, March 6, it's preferable but not necessary to be
 
 _Call Time: 4:45 pm, Rehearsal Time: 5-11 pm_
 
-- Stage Manager: 
+- Stage Manager: Shawna
 - Sound Op: Julia (Jayden shadowing)
 - Light Op: Michael
 - Spot Op: Christian
@@ -59,7 +41,7 @@ _Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
 
 _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 
-- Stage Manager: 
+- Stage Manager: Shawna
 - House Manager: Vincent
 - Sound Op: Julia
 - Light Op: Michael
@@ -70,7 +52,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 ### Tuesday, March 10 
 <ins>**Sex Discussed Here- Sex in the Dark**<ins>
 
-_Call Time: 5:30 pm, House Open: 6:30 pm Event Time: 7-8:30 pm_
+_Call Time: 6:30 pm, House Open: 7:30 pm Event Time: 8-10 pm_
 
 - Stage Manager: Michael
 - House Manager: Christian
