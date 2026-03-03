@@ -55,6 +55,6 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 _Call Time: 6:30 pm, House Open: 7:30 pm Event Time: 8-10 pm_
 
 - Stage Manager: Michael
-- House Manager: Christian
+- House Manager: 
 - Sound Op: Oksana
 - Usher: Vincent
