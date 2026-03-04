@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Note: Related event on Friday, March 6, it's preferable but not necessary to be available for both_
 
-_Call Time: 4:45 pm, Rehearsal Time: 5-11 pm_
+_Call Time: 5:45 pm, Rehearsal Time: 6-10 pm_
 
 - Stage Manager: Shawna
 - Sound Op: Julia (Jayden shadowing)
@@ -46,7 +46,7 @@ _Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
 - Sound Op: Julia
 - Light Op: Michael
 - Spot Op: Hima
-- Spot Op:
+- Spot Op: Oksana
 - Usher: Jayden
 
 ### Tuesday, March 10 
