@@ -13,19 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, March 4
-<ins>**Mr. Heartthrob Rehearsals**<ins>
-
-_Note: Related event on Friday, March 6, it's preferable but not necessary to be available for both_
-
-_Call Time: 5:30 pm, Rehearsal Time: 6-10 pm_
-
-- Stage Manager: Shawna
-- Sound Op: Julia (Jayden shadowing)
-- Light Op: Michael
-- Spot Op: Christian
-- Spot Op: Hima
-
 ### Thursday, March 5
 <ins>**Spell-a-THON**<ins>
 
