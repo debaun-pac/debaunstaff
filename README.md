@@ -13,16 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, March 5
-<ins>**Spell-a-THON**<ins>
-
-_Call Time: 6 pm, House Open: 6:30 pm, Event Time: 7 pm-11 pm_
-
-- Stage Manager: Michael
-- House Manager: Jasper
-- Sound Op: Julia
-- Usher: Oksana
-
 ### Friday, March 6
 <ins>**Mr. Heartthrob**<ins>
 
