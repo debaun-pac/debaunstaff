@@ -13,19 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, March 6
-<ins>**Mr. Heartthrob**<ins>
-
-_Call Time: 5:30 pm, House Open: 6:30 pm, Event Time: 7 pm -9 pm_
-
-- Stage Manager: Shawna
-- House Manager: Vincent
-- Sound Op: Julia
-- Light Op: Michael
-- Spot Op: Hima
-- Spot Op: Oksana
-- Usher: Jayden
-
 ### Tuesday, March 10 
 <ins>**Sex Discussed Here- Sex in the Dark**<ins>
 
@@ -33,5 +20,5 @@ _Call Time: 6:30 pm, House Open: 7:30 pm Event Time: 8-10 pm_
 
 - Stage Manager: Michael
 - House Manager: Jayden
-- Sound Op: Oksana
-- Usher: Vincent
+- Sound Op: Carl
+- Usher: 
