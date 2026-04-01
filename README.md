@@ -110,7 +110,7 @@ _Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
 ### Wednesday, April 29
 <ins>**Jazz Band Dress Rehearsal**<ins>
 
-_Call Time: 6 p.m., Rehearsal Time: 6:30 p.m._
+_Call Time: 6 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
 
 - Sound Op: Carl
 
