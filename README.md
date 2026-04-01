@@ -21,7 +21,7 @@ _Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 - Usher: 
 
 ### Friday, April 10
-<ins>**Grease Performance 2<ins>**
+<ins>**Grease Performance 2**<ins>
 
 _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
@@ -29,7 +29,7 @@ _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 - Usher: 
 
 ### Saturday, April 11
-<ins>**Grease Performance 3<ins>**
+<ins>**Grease Performance 3**<ins>
 
 _Call Time: 12:30 p.m., Performance Time: 2 p.m.-4 p.m._
 
