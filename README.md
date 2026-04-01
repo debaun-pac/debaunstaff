@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 
 - House Manager: 
-- Usher: 
+- Usher: Hima
 
 ### Friday, April 10
 <ins>**Grease Performance 2**<ins>
@@ -26,7 +26,7 @@ _Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
 - House Manager: 
-- Usher: 
+- Usher: Hima
 
 ### Saturday, April 11
 <ins>**Grease Performance 3**<ins>
@@ -50,7 +50,7 @@ _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 
 - Stage Manager: Jayden
 - House Manager:
-- Sound Op:
+- Sound Op: Hima
 - Usher:
 
 <ins>**Denim Week Speaker**<ins>
@@ -59,7 +59,7 @@ _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 
 - Stage Manager: Jayden
 - House Manager: 
-- Sound Op: 
+- Sound Op: Hima
 - Usher: 
 
 ### Saturday, April 18 
@@ -70,7 +70,7 @@ _Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
 - Stage Manager:
 - House Manager:
 - Sound Op:
-- Usher:
+- Usher: Hima
 
 ### Friday, April 24 
 <ins>**Concert Band Dress Rehearsal**<ins>
