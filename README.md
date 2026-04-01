@@ -15,7 +15,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ### Thursday, April 9
 <ins>**Grease Performance 1**<ins>
 
-_Call Time: 7:30 p.m., Performance Time: 9:00 p.m._
+_Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 
 - House Manager: 
 - Usher: 
@@ -23,7 +23,7 @@ _Call Time: 7:30 p.m., Performance Time: 9:00 p.m._
 ### Friday, April 10
 <ins>**Grease Performance 2<ins>**
 
-_Call Time: 6:30 p.m., Performance Time: 8 p.m._
+_Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
 - House Manager: 
 - Usher: 
@@ -31,16 +31,201 @@ _Call Time: 6:30 p.m., Performance Time: 8 p.m._
 ### Saturday, April 11
 <ins>**Grease Performance 3<ins>**
 
-_Call Time: 12:30 p.m., Performance Time: 2 p.m._
+_Call Time: 12:30 p.m., Performance Time: 2 p.m.-4 p.m._
 
 - House Manager: 
 - Usher: 
   
-<ins>**Grease Performance 4<ins>**
+<ins>**Grease Performance 4**<ins>
 
-_Call Time: 6:30 p.m., Performance Time: 8 p.m._
+_Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
 - House Manager: 
 - Usher:
+
+### Thursday, April 16
+<ins>**Denim Week Speaker**<ins>
+
+_Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+<ins>**Denim Week Speaker**<ins>
+
+_Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
+
+- Stage Manager: 
+- House Manager: 
+- Sound Op: 
+- Usher: 
+
+### Saturday, April 18 
+<ins>**Orchestra Concert**<ins>
+
+_Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Friday, April 24 
+<ins>**Concert Band Dress Rehearsal**<ins>
+
+_Call Time: 6:00 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
+
+- Stage Manager: Shawna
+- Sound Op: Carl?
+
+### Saturday, April 25
+<ins>**Concert Band Concert**<ins>
+
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl?
+- Usher:
+
+### Monday, April 27
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 6:30 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
+
+- Sound Op:
+
+### Tuesday, April 28
+<ins>**Undergrad Awards**<ins>
+
+_Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Wednesday, April 29
+<ins>**Jazz Band Dress Rehearsal**<ins>
+
+_Call Time: 6 p.m., Rehearsal Time: 6:30 p.m._
+
+- Sound Op: Carl
+
+### Thursday, April 30
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 6:30 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
+
+- Sound Op:
+
+### Friday, May 1
+<ins>**Jazz Band Concert**<ins>
+
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Saturday, May 2
+<ins>**Choir Tech Rehearsal**<ins>
+
+_Call Time: TBA (afternoon), Rehearsal: TBA (likely ~2-5 p.m.)_
+
+- Stage Manager:
+- *Sound Op:
+
+_*Should also be available for the concert_
+
+
+<ins>**Choir Tech Rehearsal**<ins>
+
+_Call Time: 6:30 p.m., Concert Time: 8 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Sunday, May 3
+<ins>**A Capella Showcase**<ins>
+
+_Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
+
+- House Manager:
+
+### Monday, May 4
+<ins>**M&T Creative Collaboration Performances**<ins>
+
+_Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+
+### Friday, May 8
+<ins>**Innovation Expo**<ins>
+
+_Call Time: 1:30 p.m., Event Time: 3 p.m.-4:30 p.m._
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+- Usher:
+
+### Saturday, May 9
+<ins>**Honors Voice Recital**<ins>
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-9 p.m._
+
+- House Manager:
+
+### Monday, May 11
+<ins>**Athletics All Rise Awards**<ins>
+
+_Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Monday, May 18
+<ins>**PhD Hooding Ceremony**<ins>
+
+_Call Time: 10:30 a.m., Event Time: 12 p.m.-1 p.m._
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: 
+
+
+<ins>**Graduate Awards Ceremony**<ins>
+
+_Call Time: 4:30 p.m., Event Time: 6 p.m.-7:30 p.m._
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op: Carl
+
+### Tuesday, May 19
+<ins>**Senior Awards**<ins>
+
+_Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op:
+
+<ins>**Order of the Engineer Induction Ceremony**<ins>
+
+_Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
+
+- House Manager:
+- Usher: 
 
 
