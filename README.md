@@ -49,7 +49,7 @@ _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 
 - Stage Manager: Jayden
-- House Manager:
+- House Manager: Jasper
 - Sound Op: Hima
 - Usher:
 
@@ -68,7 +68,7 @@ _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 _Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
 
 - Stage Manager:
-- House Manager:
+- House Manager: Jasper
 - Sound Op:
 - Usher: Hima
 
@@ -127,7 +127,7 @@ _Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager:
-- House Manager:
+- House Manager: Jasper
 - Sound Op: Carl
 - Usher:
 
@@ -164,7 +164,7 @@ _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 _Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
 
 - Stage Manager:
-- House Manager:
+- House Manager: Jasper
 - Sound Op: Carl
 
 ### Friday, May 8
