@@ -144,7 +144,7 @@ _*Should also be available for the concert_
 
 <ins>**Choir Concert**<ins>
 
-_Call Time: 6:30 p.m., Concert Time: 8 p.m._
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager:
 - House Manager:
