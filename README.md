@@ -142,7 +142,7 @@ _Call Time: TBA (afternoon), Rehearsal: TBA (likely ~2-5 p.m.)_
 _*Should also be available for the concert_
 
 
-<ins>**Choir Tech Rehearsal**<ins>
+<ins>**Choir Concert**<ins>
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m._
 
