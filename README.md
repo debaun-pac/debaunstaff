@@ -48,7 +48,7 @@ _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
 _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager:
 - Sound Op:
 - Usher:
@@ -57,7 +57,7 @@ _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 
 _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 
-- Stage Manager: 
+- Stage Manager: Jayden
 - House Manager: 
 - Sound Op: 
 - Usher: 
