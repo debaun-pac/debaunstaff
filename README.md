@@ -93,7 +93,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 ### Monday, April 27
 <ins>**Choir Rehearsal**<ins>
 
-_Call Time: 6:30 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
+_Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 
 - Sound Op:
 
@@ -117,7 +117,7 @@ _Call Time: 6 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
 ### Thursday, April 30
 <ins>**Choir Rehearsal**<ins>
 
-_Call Time: 6:30 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
+_Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 
 - Sound Op:
 
