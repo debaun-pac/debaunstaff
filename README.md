@@ -17,7 +17,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 
-- House Manager: 
+- House Manager: Michael
 - Usher: Hima
 
 ### Friday, April 10
@@ -25,7 +25,7 @@ _Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
 
 _Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
 
-- House Manager: 
+- House Manager: Michael
 - Usher: Hima
 
 ### Saturday, April 11
@@ -86,7 +86,7 @@ _Call Time: 6:00 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Michael
 - Sound Op: Carl?
 - Usher:
 
@@ -182,14 +182,14 @@ _Call Time: 1:30 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 _Call Time: 6:30 p.m., Event Time: 8 p.m.-9 p.m._
 
-- House Manager:
+- House Manager: Michael
 
 ### Monday, May 11
 <ins>**Athletics All Rise Awards**<ins>
 
 _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 
-- Stage Manager:
+- Stage Manager: Michael
 - House Manager:
 - Sound Op:
 - Usher:
@@ -200,7 +200,8 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 _Call Time: 10:30 a.m., Event Time: 12 p.m.-1 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Michael
+- Usher: Jayden
 - Sound Op: 
 
 
@@ -209,7 +210,7 @@ _Call Time: 10:30 a.m., Event Time: 12 p.m.-1 p.m._
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-7:30 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Michael
 - Sound Op: Carl
 
 ### Tuesday, May 19
@@ -218,14 +219,14 @@ _Call Time: 4:30 p.m., Event Time: 6 p.m.-7:30 p.m._
 _Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Michael
 - Sound Op:
 
 <ins>**Order of the Engineer Induction Ceremony**<ins>
 
 _Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
 
-- House Manager:
+- House Manager: Michael
 - Usher: 
 
 
