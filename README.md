@@ -51,7 +51,7 @@ _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 - Stage Manager: Jayden
 - House Manager: Jasper
 - Sound Op: Hima
-- Usher:
+- Usher: 
 
 <ins>**Denim Week Speaker**<ins>
 
@@ -60,7 +60,7 @@ _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 - Stage Manager: Jayden
 - House Manager: 
 - Sound Op: Hima
-- Usher: 
+- Usher: Oks
 
 ### Saturday, April 18 
 <ins>**Orchestra Concert**<ins>
@@ -69,7 +69,7 @@ _Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
 
 - Stage Manager:
 - House Manager: Jasper
-- Sound Op:
+- Sound Op: Vincent
 - Usher: Hima
 
 ### Friday, April 24 
@@ -88,14 +88,14 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Carl?
-- Usher:
+- Usher: Vincent
 
 ### Monday, April 27
 <ins>**Choir Rehearsal**<ins>
 
 _Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 
-- Sound Op:
+- Sound Op: Oks
 
 ### Tuesday, April 28
 <ins>**Undergrad Awards**<ins>
@@ -103,8 +103,8 @@ _Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
 
 - Stage Manager:
-- House Manager:
-- Sound Op:
+- House Manager: Vincent
+- Sound Op: Oks
 - Usher:
 
 ### Wednesday, April 29
@@ -119,17 +119,17 @@ _Call Time: 6 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
 
 _Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 
-- Sound Op:
+- Sound Op: Oks
 
 ### Friday, May 1
 <ins>**Jazz Band Concert**<ins>
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
-- Stage Manager:
+- Stage Manager: Vincent
 - House Manager: Jasper
 - Sound Op: Carl
-- Usher:
+- Usher: Oks
 
 ### Saturday, May 2
 <ins>**Choir Tech Rehearsal**<ins>
@@ -156,7 +156,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 
-- House Manager:
+- House Manager: Vincent
 
 ### Monday, May 4
 <ins>**M&T Creative Collaboration Performances**<ins>
@@ -192,7 +192,7 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 - Stage Manager: Michael
 - House Manager:
 - Sound Op:
-- Usher:
+- Usher: Oks
 
 ### Monday, May 18
 <ins>**PhD Hooding Ceremony**<ins>
