@@ -102,10 +102,10 @@ _Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
 
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager: Vincent
 - Sound Op: Oks
-- Usher:
+- Usher: 
 
 ### Wednesday, April 29
 <ins>**Jazz Band Dress Rehearsal**<ins>
@@ -173,7 +173,7 @@ _Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
 _Call Time: 1:30 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher:
 
@@ -227,6 +227,6 @@ _Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
 _Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
 
 - House Manager: Michael
-- Usher: 
+- Usher: Jayden
 
 
