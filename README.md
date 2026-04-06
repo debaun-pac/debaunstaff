@@ -105,7 +105,7 @@ _Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
 - Stage Manager: Jayden
 - House Manager: Vincent
 - Sound Op: Oks
-- Usher: 
+- Usher: Christian
 
 ### Wednesday, April 29
 <ins>**Jazz Band Dress Rehearsal**<ins>
@@ -175,7 +175,7 @@ _Call Time: 1:30 p.m., Event Time: 3 p.m.-4:30 p.m._
 - Stage Manager: Shawna
 - House Manager: Jayden
 - Sound Op: Carl
-- Usher:
+- Usher: Christian
 
 ### Saturday, May 9
 <ins>**Honors Voice Recital**<ins>
