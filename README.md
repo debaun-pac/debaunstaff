@@ -12,14 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### Thursday, April 9
-<ins>**Grease Performance 1**<ins>
-
-_Call Time: 7:30 p.m., Performance Time: 9:00 p.m.-11 p.m._
-
-- House Manager: Michael
-- Usher: Hima
-
 ### Friday, April 10
 <ins>**Grease Performance 2**<ins>
 
