@@ -51,14 +51,14 @@ _Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
 - Stage Manager: Jayden
 - House Manager: Jasper
 - Sound Op: Hima
-- Usher: Michael
+- Usher: 
 
 <ins>**Denim Week Speaker**<ins>
 
 _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 
 - Stage Manager: Jayden
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Hima
 - Usher: Oks
 
