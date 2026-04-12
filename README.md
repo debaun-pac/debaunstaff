@@ -12,28 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### Friday, April 10
-<ins>**Grease Performance 2**<ins>
-
-_Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
-
-- House Manager: Michael
-- Usher: Julia
-
-### Saturday, April 11
-<ins>**Grease Performance 3**<ins>
-
-_Call Time: 12:30 p.m., Performance Time: 2 p.m.-4 p.m._
-
-- House Manager: 
-- Usher: 
-  
-<ins>**Grease Performance 4**<ins>
-
-_Call Time: 6:30 p.m., Performance Time: 8 p.m.-10 p.m._
-
-- House Manager: 
-- Usher:
 
 ### Thursday, April 16
 <ins>**Denim Week Speaker**<ins>
