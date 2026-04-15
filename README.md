@@ -37,7 +37,7 @@ _Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
 
 _Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager: Jasper
 - Sound Op: Vincent
 - Usher: Hima
