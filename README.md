@@ -160,7 +160,7 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-9 p.m._
 _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 
 - Stage Manager: Michael
-- House Manager:
+- House Manager: Jayden
 - Sound Op:
 - Usher: Oks
 
