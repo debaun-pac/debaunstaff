@@ -117,6 +117,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 
+- Stage Manager: 
 - House Manager: Vincent
 
 ### Monday, May 4
