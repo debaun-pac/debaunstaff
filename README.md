@@ -161,7 +161,7 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 
 _Call Time: 8:30 a.m., Event Time: 9:30 a.m.-12 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager: 
 
 ### Monday, May 18
