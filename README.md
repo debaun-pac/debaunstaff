@@ -103,15 +103,6 @@ _Call Time: TBA (afternoon), Rehearsal: TBA (likely ~2-5 p.m.)_
 
 _*Should also be available for the concert_
 
-
-### Sunday, May 3
-<ins>**A Capella Showcase**<ins>
-
-_Call Time: 6:00pm, Event Time: 7pm-8:30pm_
-
-- Stage Manager: 
-- House Manager: 
-
 <ins>**Choir Concert**<ins>
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
