@@ -14,14 +14,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 
 ### Thursday, April 16
-<ins>**Denim Week Speaker**<ins>
-
-_Call Time: 3 p.m., Event Time: 4 p.m.-6 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Jasper
-- Sound Op: Hima
-- Usher: 
 
 <ins>**Denim Week Speaker**<ins>
 
@@ -112,6 +104,14 @@ _Call Time: TBA (afternoon), Rehearsal: TBA (likely ~2-5 p.m.)_
 _*Should also be available for the concert_
 
 
+### Sunday, May 3
+<ins>**A Capella Showcase**<ins>
+
+_Call Time: 6:00pm, Event Time: 7pm-8:30pm_
+
+- Stage Manager: 
+- House Manager: 
+
 <ins>**Choir Concert**<ins>
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
@@ -163,6 +163,14 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 - House Manager: Jayden
 - Sound Op:
 - Usher: Oks
+
+### Saturday, May 16
+<ins>**Stevens Math Olympiad**<ins>
+
+_Call Time: 8:30 a.m., Event Time: 9:30 a.m.-12 p.m._
+
+- Stage Manager:
+- House Manager: 
 
 ### Monday, May 18
 <ins>**PhD Hooding Ceremony**<ins>
