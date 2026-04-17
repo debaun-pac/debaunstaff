@@ -117,7 +117,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 
-- Stage Manager: 
+- Stage Manager: Christian
 - House Manager: Vincent
 
 ### Monday, May 4
@@ -128,6 +128,13 @@ _Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
 - Stage Manager:
 - House Manager: Jasper
 - Sound Op: Carl
+
+### Tuesday, May 5
+<ins>**FAME Dance Editorial**<ins>
+
+_Time: 7:30 p.m.-11 p.m._
+
+- Staff: Joonho
 
 ### Friday, May 8
 <ins>**Innovation Expo**<ins>
