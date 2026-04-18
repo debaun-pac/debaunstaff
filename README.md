@@ -13,9 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, April 16
-
-
 ### Saturday, April 18 
 <ins>**Orchestra Concert**<ins>
 
