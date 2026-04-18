@@ -15,14 +15,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 ### Thursday, April 16
 
-<ins>**Denim Week Speaker**<ins>
-
-_Call Time: 8 p.m., Event Time: 9 p.m.-11 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Michael
-- Sound Op: Hima
-- Usher: Oks
 
 ### Saturday, April 18 
 <ins>**Orchestra Concert**<ins>
@@ -32,7 +24,7 @@ _Call Time: 4:30 p.m., Concert Time: 6 p.m.-7 p.m._
 - Stage Manager: Shawna
 - House Manager: Jasper
 - Sound Op: Vincent
-- Usher: Hima
+- Usher: 
 
 ### Friday, April 24 
 <ins>**Concert Band Dress Rehearsal**<ins>
