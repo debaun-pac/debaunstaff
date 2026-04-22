@@ -12,12 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### Tuesday, April 21
-<ins>**CPK Rehearsal**<ins>
-
-_Rehearsal Time: 7 p.m.-9 p.m._
-
-- Staff: Oks
 
 ### Friday, April 24 
 <ins>**Concert Band Dress Rehearsal**<ins>
@@ -25,7 +19,7 @@ _Rehearsal Time: 7 p.m.-9 p.m._
 _Call Time: 6:00 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
 
 - Stage Manager: Shawna
-- Sound Op: Carl?
+- Sound Op: Carl
 
 ### Saturday, April 25
 <ins>**Concert Band Concert**<ins>
@@ -34,7 +28,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager: Shawna
 - House Manager: Michael
-- Sound Op: Carl?
+- Sound Op: Carl
 - Usher: Vincent
 
 ### Monday, April 27
