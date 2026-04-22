@@ -145,7 +145,7 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 ### Saturday, May 16
 <ins>**Stevens Math Olympiad**<ins>
 
-_Call Time: 8:30 a.m., Event Time: 9:30 a.m.-12 p.m._
+_Call Time: 9 a.m., Event Time: 10 a.m.-12 p.m._
 
 - Stage Manager: Jayden
 - House Manager: 
