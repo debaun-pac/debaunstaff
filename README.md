@@ -50,10 +50,10 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 ### Saturday, May 2
 <ins>**Choir Tech Rehearsal**<ins>
 
-_Call Time: TBA (afternoon), Rehearsal: TBA (likely ~2-5 p.m.)_
+_Call Time: 1:30 p.m., Rehearsal:  2-5 p.m._
 
-- Stage Manager:
-- *Sound Op:
+- Stage Manager: Shawna
+- *Sound Op: Carl
 
 _*Should also be available for the concert_
 
@@ -61,9 +61,9 @@ _*Should also be available for the concert_
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager:
-- Sound Op:
+- Sound Op: Carl
 - Usher:
 
 ### Sunday, May 3
@@ -79,12 +79,12 @@ _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 
 _Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
 
-- Stage Manager:
+- Stage Manager: Shawna
 - House Manager: Jasper
 - Sound Op: Carl
 
 ### Tuesday, May 5
-<ins>**FAME Dance Editorial**<ins>
+<ins>**FAME Dance Editorial**<ins> 
 
 _Time: 7:30 p.m.-11 p.m._
 
