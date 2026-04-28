@@ -13,31 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, April 24 
-<ins>**Concert Band Dress Rehearsal**<ins>
-
-_Call Time: 6:00 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
-
-- Stage Manager: Shawna
-- Sound Op: Carl
-
-### Saturday, April 25
-<ins>**Concert Band Concert**<ins>
-
-_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
-- Usher: Vincent
-
-### Monday, April 27
-<ins>**Choir Rehearsal**<ins>
-
-_Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
-
-- Sound Op: Oks
-
 ### Tuesday, April 28
 <ins>**Undergrad Awards**<ins>
 
