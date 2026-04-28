@@ -62,7 +62,7 @@ _*Should also be available for the concert_
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher:
 
