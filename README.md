@@ -13,23 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, April 28
-<ins>**Undergrad Awards**<ins>
-
-_Call Time: 4:30 p.m., Event Time: 6 p.m.-8 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Vincent
-- Sound Op: Oks
-- Usher: Christian
-
-### Wednesday, April 29
-<ins>**Jazz Band Dress Rehearsal**<ins>
-
-_Call Time: 6 p.m., Rehearsal Time: 6:30 p.m.-9 p.m._
-
-- Sound Op: Carl
-
 ### Thursday, April 30
 <ins>**Choir Rehearsal**<ins>
 
@@ -77,9 +60,9 @@ _Call Time: 6:00 p.m., Event Time: 7 p.m.-8:30 p.m._
 ### Monday, May 4
 <ins>**M&T Creative Collaboration Performances**<ins>
 
-_Call Time: 1:30 p.m., Event Time: 3 p.m.-5 p.m._
+_Call Time: 1:30 p.m., Event Time: 3 p.m.-5:30 p.m._
 
-- Stage Manager: Shawna
+- Stage Manager: Christian
 - House Manager: Jasper
 - Sound Op: Carl
 
