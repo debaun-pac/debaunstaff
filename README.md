@@ -13,22 +13,15 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, April 30
-<ins>**Choir Rehearsal**<ins>
-
-_Call Time: 6:15 p.m., Rehearsal Time: 6:45 p.m.-9 p.m._
-
-- Sound Op: Oks
-
 ### Friday, May 1
 <ins>**Jazz Band Concert**<ins>
 
 _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
-- Stage Manager: Vincent
+- Stage Manager: Oks
 - House Manager: Jasper
 - Sound Op: Carl
-- Usher: Oks
+- Usher: 
 
 ### Saturday, May 2
 <ins>**Choir Tech Rehearsal**<ins>
