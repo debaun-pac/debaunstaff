@@ -13,15 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, May 1
-<ins>**Jazz Band Concert**<ins>
-
-_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
-
-- Stage Manager: Oks
-- House Manager: Jasper
-- Sound Op: Carl
-- Usher: 
 
 ### Saturday, May 2
 <ins>**Choir Tech Rehearsal**<ins>
@@ -40,7 +31,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 - Stage Manager: Shawna
 - House Manager: Jayden
 - Sound Op: Carl
-- Usher:
+- Usher: Oks
 
 ### Sunday, May 3
 <ins>**A Capella Showcase**<ins>
@@ -90,7 +81,7 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 
 - Stage Manager: Michael
 - House Manager: Jayden
-- Sound Op:
+- Sound Op: Carl
 - Usher: Oks
 
 ### Saturday, May 16
@@ -99,7 +90,7 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 _Call Time: 9 a.m., Event Time: 10 a.m.-12 p.m._
 
 - Stage Manager: Jayden
-- House Manager: 
+- House Manager: Shawna
 
 ### Monday, May 18
 <ins>**PhD Hooding Ceremony**<ins>
