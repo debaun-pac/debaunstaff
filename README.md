@@ -13,23 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Friday, May 8
-<ins>**Innovation Expo**<ins>
-
-_Call Time: 1:30 p.m., Event Time: 3 p.m.-4:30 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher: Christian
-
-### Saturday, May 9
-<ins>**Honors Voice Recital**<ins>
-
-_Call Time: 6:30 p.m., Event Time: 8 p.m.-9 p.m._
-
-- House Manager: Michael
-
 ### Monday, May 11
 <ins>**Athletics All Rise Awards**<ins>
 
@@ -44,9 +27,8 @@ _Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
 <ins>**Stevens Math Olympiad**<ins>
 
 _Call Time: 9 a.m., Event Time: 10 a.m.-12 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Shawna
+ 
+- House Manager: Jayden
 
 ### Monday, May 18
 <ins>**PhD Hooding Ceremony**<ins>
@@ -56,7 +38,7 @@ _Call Time: 10:30 a.m., Event Time: 12 p.m.-1 p.m._
 - Stage Manager: Shawna
 - House Manager: Michael
 - Usher: Jayden
-- Sound Op: 
+- Sound Op: Carl
 
 
 <ins>**Graduate Awards Ceremony**<ins>
@@ -74,7 +56,7 @@ _Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
 
 - Stage Manager: Shawna
 - House Manager: Michael
-- Sound Op:
+- Sound Op: Carl
 
 <ins>**Order of the Engineer Induction Ceremony**<ins>
 
@@ -82,5 +64,5 @@ _Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
 
 - House Manager: Michael
 - Usher: Jayden
-
+- Sound Op: Carl
 
