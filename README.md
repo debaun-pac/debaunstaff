@@ -13,16 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Monday, May 11
-<ins>**Athletics All Rise Awards**<ins>
-
-_Call Time: 5:30 p.m., Event Time: 7 p.m.-8 p.m._
-
-- Stage Manager: Michael
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher: Oks
-
 ### Saturday, May 16
 <ins>**Stevens Math Olympiad**<ins>
 
