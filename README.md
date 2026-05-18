@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Monday, May 18
-<ins>**PhD Hooding Ceremony**<ins>
-
-_Call Time: 10:30 a.m., Event Time: 12 p.m.-1 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Michael
-- Usher: Jayden
-- Sound Op: Carl
-
-
 <ins>**Graduate Awards Ceremony**<ins>
 
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-7:30 p.m._
@@ -46,6 +35,6 @@ _Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
 _Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
 
 - House Manager: Michael
-- Usher: Jayden
+- Usher: 
 - Sound Op: Carl
 
