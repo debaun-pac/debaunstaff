@@ -13,13 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, May 16
-<ins>**Stevens Math Olympiad**<ins>
-
-_Call Time: 9 a.m., Event Time: 10 a.m.-12 p.m._
- 
-- House Manager: Jayden
-
 ### Monday, May 18
 <ins>**PhD Hooding Ceremony**<ins>
 
