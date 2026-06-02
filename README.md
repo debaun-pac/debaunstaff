@@ -13,28 +13,33 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-<ins>**Graduate Awards Ceremony**<ins>
+### Thursday, June 11
 
-_Call Time: 4:30 p.m., Event Time: 6 p.m.-7:30 p.m._
+<ins>**THIRD Performance 1**<ins>
 
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
+_Call Time: 6:30 P.M., Performance Time: 8 P.M._
 
-### Tuesday, May 19
-<ins>**Senior Awards**<ins>
+- House Manager: Jayden
+- Sound Op: Ryan
+- Light Op: Michael
 
-_Call Time: 11:30 a.m., Event Time: 1 p.m.-2:30 p.m._
+### Friday, June 12
 
-- Stage Manager: Shawna
-- House Manager: Michael
-- Sound Op: Carl
+<ins>**THIRD Performance 1**<ins>
 
-<ins>**Order of the Engineer Induction Ceremony**<ins>
+_Call Time: 6:30 P.M., Performance Time: 8 P.M._
 
-_Call Time: 2:30 p.m., Event Time: 3:30 p.m.-6 p.m._
+- House Manager: Jayden
+- Sound Op: Ryan
+- Light Op: Michael
 
-- House Manager: Michael
-- Usher: 
-- Sound Op: Carl
+### Saturday, June 13
+
+<ins>**THIRD Performance 1**<ins>
+
+_Call Time: 12:30 P.M., Performance Time: 2 P.M._
+
+- House Manager: Jayden
+- Sound Op: Ryan
+- Light Op: Michael
 
