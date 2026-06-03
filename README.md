@@ -25,7 +25,7 @@ _Call Time: 6:30 P.M., Performance Time: 8 P.M._
 
 ### Friday, June 12
 
-<ins>**THIRD Performance 1**<ins>
+<ins>**THIRD Performance 2**<ins>
 
 _Call Time: 6:30 P.M., Performance Time: 8 P.M._
 
@@ -35,7 +35,7 @@ _Call Time: 6:30 P.M., Performance Time: 8 P.M._
 
 ### Saturday, June 13
 
-<ins>**THIRD Performance 1**<ins>
+<ins>**THIRD Performance 3**<ins>
 
 _Call Time: 12:30 P.M., Performance Time: 2 P.M._
 
