@@ -13,33 +13,29 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, June 11
+### Thursday, July 16
 
-<ins>**THIRD Performance 1**<ins>
+<ins>**The Importance of Being Earnest-Performance 1**<ins>
 
-_Call Time: 6:30 P.M., Performance Time: 8 P.M._
+_Call Time: 6:30pm, Event Time: 8pm-10pm_
 
-- House Manager: Jayden
-- Sound Op: Ryan
-- Light Op: Michael
+- House Manager:
+- Light Op:
 
-### Friday, June 12
+### Friday, July 17
 
-<ins>**THIRD Performance 2**<ins>
+<ins>**The Importance of Being Earnest-Performance 2**<ins>
 
-_Call Time: 6:30 P.M., Performance Time: 8 P.M._
+_Call Time: 6:30pm, Event Time: 8pm-10pm_
 
-- House Manager: Jayden
-- Sound Op: Ryan
-- Light Op: Michael
+- House Manager:
+- Light Op:
 
-### Saturday, June 13
+### Saturday, July 18
 
-<ins>**THIRD Performance 3**<ins>
+<ins>**The Importance of Being Earnest-Performance 3**<ins>
 
-_Call Time: 12:30 P.M., Performance Time: 2 P.M._
+_Call Time: 12:30pm, Event Time: 2pm-4pm_
 
-- House Manager: Jayden
-- Sound Op: Ryan
-- Light Op: Michael
-
+- House Manager:
+- Light Op:
