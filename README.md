@@ -21,7 +21,8 @@ _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
 - House Manager:
 - Light Op:
-
+- Sound Op:
+  
 ### Friday, July 17
 
 <ins>**The Importance of Being Earnest-Performance 2**<ins>
@@ -30,6 +31,7 @@ _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
 - House Manager:
 - Light Op:
+- Sound Op:
 
 ### Saturday, July 18
 
@@ -39,3 +41,4 @@ _Call Time: 12:30pm, Event Time: 2pm-4pm_
 
 - House Manager:
 - Light Op:
+- Sound Op:
