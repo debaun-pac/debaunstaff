@@ -20,8 +20,8 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
 - House Manager:
-- Light Op:
-- Sound Op:
+- Light Op: Michael
+- Sound Op: Oksana
   
 ### Friday, July 17
 
@@ -29,9 +29,9 @@ _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
 _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
-- House Manager:
-- Light Op:
-- Sound Op:
+- House Manager: Jayden
+- Light Op: Michael
+- Sound Op: Oksana
 
 ### Saturday, July 18
 
@@ -39,6 +39,6 @@ _Call Time: 6:30pm, Event Time: 8pm-10pm_
 
 _Call Time: 12:30pm, Event Time: 2pm-4pm_
 
-- House Manager:
-- Light Op:
-- Sound Op:
+- House Manager: Jayden
+- Light Op: Michael
+- Sound Op: Oksana
