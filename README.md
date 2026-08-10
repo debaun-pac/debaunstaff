@@ -13,32 +13,3 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Thursday, July 16
-
-<ins>**The Importance of Being Earnest-Performance 1**<ins>
-
-_Call Time: 6:30pm, Event Time: 8pm-10pm_
-
-- House Manager: Jayden
-- Light Op: Michael
-- Sound Op: Oksana
-  
-### Friday, July 17
-
-<ins>**The Importance of Being Earnest-Performance 2**<ins>
-
-_Call Time: 6:30pm, Event Time: 8pm-10pm_
-
-- House Manager: Jayden
-- Light Op: Michael
-- Sound Op: Oksana
-
-### Saturday, July 18
-
-<ins>**The Importance of Being Earnest-Performance 3**<ins>
-
-_Call Time: 12:30pm, Event Time: 2pm-4pm_
-
-- House Manager: Jayden
-- Light Op: Michael
-- Sound Op: Oksana
