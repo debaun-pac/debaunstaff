@@ -19,7 +19,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 9 a.m., Event Time: 10 a.m.-11 a.m._
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher:
   
@@ -28,7 +28,7 @@ _Call Time: 9 a.m., Event Time: 10 a.m.-11 a.m._
 _Call Time: 11 a.m., Event Time: 11:15 p.m.-12:15 p.m._
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher: 
 
@@ -37,7 +37,7 @@ _Call Time: 11 a.m., Event Time: 11:15 p.m.-12:15 p.m._
 _Call Time: 1:30 p.m., Event Time: 2 p.m.-3 p.m._
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher:
  
@@ -46,7 +46,7 @@ _Call Time: 1:30 p.m., Event Time: 2 p.m.-3 p.m._
 _Call Time: 3 p.m., Event Time: 3:15 p.m.-4:15 p.m._
 
 - Stage Manager: Shawna
-- House Manager: 
+- House Manager: Jayden
 - Sound Op: Carl
 - Usher:
   
@@ -56,8 +56,8 @@ _Call Time: 3 p.m., Event Time: 3:15 p.m.-4:15 p.m._
 
 _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 
-- Stage Manager: 
-- House Manager:
+- Stage Manager: Jayden
+- House Manager: 
 - Sound Op:
 - Usher: 
 
