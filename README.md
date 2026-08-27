@@ -67,7 +67,7 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 
 _Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.m. and 9 p.m.)_
 
-- Stage Manager:
+- Stage Manager: Oks
 - House Manager:
 - Sound Op:
 - Usher:
@@ -80,7 +80,7 @@ _Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
 
 - Stage Manager: 
 - House Manager:
-- Sound Op:
+- Sound Op: Oks
 - Usher:
 
 ### Saturday, October 17
@@ -90,6 +90,6 @@ _Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
 _Call Time: 9 a.m., Event Time: 10 a.m.-11:30 a.m._
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Oks
 - Sound Op: Carl
 - Usher:
