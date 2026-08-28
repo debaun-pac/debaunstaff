@@ -58,7 +58,7 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 
 - Stage Manager: Jayden
 - House Manager: 
-- Sound Op:
+- Sound Op: Julia
 - Usher: 
 
 ### Thursday, October 1
@@ -69,7 +69,7 @@ _Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.
 
 - Stage Manager: Oks
 - House Manager:
-- Sound Op:
+- Sound Op: Julia
 - Usher:
 
 ### Saturday, October 10
@@ -78,7 +78,7 @@ _Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.
 
 _Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
 
-- Stage Manager: 
+- Stage Manager: Julia
 - House Manager:
 - Sound Op: Oks
 - Usher:
