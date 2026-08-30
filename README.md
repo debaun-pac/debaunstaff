@@ -12,43 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-### Friday, August 28
-
-<ins>**Title IX and Community Standards**<ins>
-
-_Call Time: 9 a.m., Event Time: 10 a.m.-11 a.m._
-
-- Stage Manager: Shawna
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher:
-  
-<ins>**Title IX and Community Standards**<ins>
-
-_Call Time: 11 a.m., Event Time: 11:15 p.m.-12:15 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher: 
-
-<ins>**Creating Your Mental Health Toolkit**<ins>
-
-_Call Time: 1:30 p.m., Event Time: 2 p.m.-3 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher:
- 
-<ins>**Creating Your Mental Health Toolkit**<ins>
-
-_Call Time: 3 p.m., Event Time: 3:15 p.m.-4:15 p.m._
-
-- Stage Manager: Shawna
-- House Manager: Jayden
-- Sound Op: Carl
-- Usher:
   
 ### Saturday, September 12
 
@@ -79,7 +42,7 @@ _Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.
 _Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
 
 - Stage Manager: Julia
-- House Manager:
+- House Manager: Jayden
 - Sound Op: Oks
 - Usher:
 
