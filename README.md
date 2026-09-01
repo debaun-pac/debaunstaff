@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 
 - Stage Manager: Jayden
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Julia
 - Usher: 
 
@@ -31,7 +31,7 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 _Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.m. and 9 p.m.)_
 
 - Stage Manager: Oks
-- House Manager:
+- House Manager: Michael
 - Sound Op: Julia
 - Usher:
 
@@ -55,4 +55,4 @@ _Call Time: 9 a.m., Event Time: 10 a.m.-11:30 a.m._
 - Stage Manager: Shawna
 - House Manager: Oks
 - Sound Op: Carl
-- Usher:
+- Usher: Michael
