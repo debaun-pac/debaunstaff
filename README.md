@@ -22,7 +22,7 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 - Stage Manager: Jayden
 - House Manager: Michael
 - Sound Op: Julia
-- Usher: 
+- Usher: Kayla
 
 ### Thursday, October 1
 
@@ -44,7 +44,7 @@ _Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
 - Stage Manager: Julia
 - House Manager: Jayden
 - Sound Op: Oks
-- Usher:
+- Usher: Kayla
 
 ### Saturday, October 17
 
