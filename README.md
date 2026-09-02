@@ -33,7 +33,7 @@ _Call Time: 4:30 p.m., Event Time: 5:30 p.m.-7 p.m._
 - Stage Manager:
 - House Manager: Oks
 - Sound Op: Kayla
-- Usher: Christian
+- Usher: 
 
 ### Thursday, October 1
 
