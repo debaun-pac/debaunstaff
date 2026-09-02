@@ -24,6 +24,17 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 - Sound Op: Julia
 - Usher: Kayla
 
+### Tuesday, September 22
+
+<ins>**Doctoral Student Event**<ins>
+
+_Call Time: 4 p.m., Event Time: 5 p.m.-7 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher: 
+
 ### Thursday, October 1
 
 <ins>**National Hazing Week Guest Speaker**<ins>
