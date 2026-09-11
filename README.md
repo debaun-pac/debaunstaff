@@ -24,7 +24,7 @@ _Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
 - Sound Op: Julia
 - Usher: Kayla
 
-### Tuesday, September 22
+### Tuesday, September 29
 
 <ins>**Doctoral Student Event**<ins>
 
