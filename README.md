@@ -12,17 +12,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
-  
-### Saturday, September 12
-
-<ins>**Bare Bard: King Lear**<ins>
-
-_Call Time: 6:30 pm, Event Time: 7:30 p.m.-9:45 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Michael
-- Sound Op: Julia
-- Usher: Kayla
 
 ### Tuesday, September 29
 
@@ -35,11 +24,20 @@ _Call Time: 4:30 p.m., Event Time: 5:30 p.m.-7 p.m._
 - Sound Op: Kayla
 - Usher: 
 
-### Thursday, October 1
+### Wednesday, September 30
 
-<ins>**National Hazing Week Guest Speaker**<ins>
+<ins>**National Hazing Week Panel 1**<ins>
 
-_Call Time: TBA, Event Time: TBA (likely two presentations starting between 3 p.m. and 9 p.m.)_
+_Call Time: 2 p.m., Event Time: 3 p.m.-4 p.m._
+
+- Stage Manager: Oks
+- House Manager: Michael
+- Sound Op: Julia
+- Usher:
+
+<ins>**National Hazing Week Panel 2**<ins>
+
+_Call Time: 4 p.m., Event Time: 5 p.m.-6 p.m._
 
 - Stage Manager: Oks
 - House Manager: Michael
