@@ -33,7 +33,7 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-4 p.m._
 - Stage Manager: Oks
 - House Manager: Michael
 - Sound Op: Julia
-- Usher:
+- Usher: Jayden
 
 <ins>**National Hazing Week Panel 2**<ins>
 
@@ -41,7 +41,7 @@ _Call Time: 4 p.m., Event Time: 5 p.m.-6 p.m._
 
 - Stage Manager: Oks
 - House Manager: Michael
-- Sound Op: 
+- Sound Op: Jayden
 - Usher:
 
 ### Saturday, October 10
