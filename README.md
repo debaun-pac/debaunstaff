@@ -41,7 +41,7 @@ _Call Time: 4 p.m., Event Time: 5 p.m.-6 p.m._
 
 - Stage Manager: Oks
 - House Manager: Michael
-- Sound Op: Julia
+- Sound Op: 
 - Usher:
 
 ### Saturday, October 10
