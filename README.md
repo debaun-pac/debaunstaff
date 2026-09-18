@@ -66,3 +66,212 @@ _Call Time: 9 a.m., Event Time: 10 a.m.-11:30 a.m._
 - House Manager: Oks
 - Sound Op: Carl
 - Usher: Michael
+
+### Thursday, November 5
+
+<ins>**Rumors Performance 1**<ins>
+
+_Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
+
+- House Manager:
+- Usher:
+
+### Friday, November 6
+
+<ins>**Rumors Performance 2**<ins>
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
+
+- House Manager:
+- Usher:
+
+### Saturday, November 7
+
+<ins>**Rumors Performance 3**<ins>
+
+_Call Time: 12:30 p.m., Event Time: 2 p.m.-4 p.m._
+
+- House Manager:
+- Usher:
+
+<ins>**Rumors Performance 4**<ins>
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
+
+- House Manager:
+- Usher:
+
+### Tuesday, November 10
+
+<ins>**Midsummer Auditions**<ins>
+
+_Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
+
+- Audition Monitor:
+
+### Thursday, November 12
+
+<ins>**TECHnique Tech Rehearsal**<ins>
+
+_Call Time: TBA, Rehearsal Time: TBA_
+
+- Stage Manager:
+- Light Op:
+- Sound Op:
+- Spot Op:
+- Spot Op:
+
+### Friday, November 13
+
+<ins>**Who Runs The Lab**<ins>
+
+_Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+
+### Saturday, November 14
+
+<ins>**TECHnique Showcase**<ins>
+
+_Call Time: TBA, Event Time: TBA_
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+- Spot Op:
+- Spot Op:
+
+### Tuesday, November 17
+
+<ins>**Lip Sync Tech Rehearsal**<ins>
+
+_Call Time: TBA, Rehearsal Time: TBA_
+
+- Stage Manager:
+- Sound Op:
+- Light Op:
+- Spot Op:
+- Spot Op:
+
+### Saturday, November 21
+
+<ins>**Orchestra Concert**<ins> 
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-9:30 p.m._
+
+*Change stage setup to Concert Band afterward
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Tuesday, December 1
+
+<ins>**Lip Sync**<ins>
+
+_Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Light Op:
+- Usher:
+- Spot Op:
+- Spot Op:
+
+### Wednesday, December 2
+
+<ins>**Order of the Engineer Induction Ceremony**<ins>
+
+*Change stage setup to Jazz Band afterward
+
+_Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Friday, December 4
+
+<ins>**Concert Band Dress Rehearsal**<ins>
+
+_Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-9 p.m._
+
+- Stage Manager: Shawna
+- Sound Op: 
+
+### Saturday, December 5
+
+<ins>**Concert Band Concert**<ins>
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
+
+*Change stage setup to Choir afterward
+
+- Stage Manager: Shawna
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Monday, December 7
+
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
+
+- Sound Op:
+
+### Thursday, December 10
+
+<ins>**Choir Rehearsal**<ins>
+
+_Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
+
+- Sound Op:
+
+### Friday, December 11
+
+<ins>**Jazz Band Concert**<ins>
+
+_Call Time: 6:30 p.m., Rehearsal Time: 8 p.m.-10p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op: Carl
+- Usher: 
+
+### Saturday, December 12
+
+<ins>**Choir Tech**<ins>
+
+_Call Time: 1:30 p.m., Rehearsal Time: 2 p.m.-5 p.m._
+
+- Stage Manager:
+- Sound Op:
+
+<ins>**Choir Concert**<ins>
+
+_Call Time: 7 p.m., Rehearsal Time: 8 p.m.-10p.m._
+
+- Stage Manager:
+- House Manager:
+- Sound Op:
+- Usher:
+
+### Wednesday, December 16
+
+<ins>**Conversation with the President**<ins>
+
+_Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
+
+- Stage Manager: Shawna
+- House Mangager:
+- Sound Op: Carl
