@@ -107,7 +107,7 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
 _Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
 
-- Audition Monitor:
+- Audition Monitor: Oks
 
 ### Thursday, November 12
 
@@ -116,18 +116,18 @@ _Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
 _Call Time: TBA, Rehearsal Time: TBA_
 
 - Stage Manager:
-- Light Op:
-- Sound Op:
+- Light Op: Michael?
+- Sound Op: Oks
 - Spot Op:
 - Spot Op:
 
 ### Friday, November 13
 
-<ins>**Who Runs The Lab**<ins>
+<ins>**Who Runs The Lab?**<ins>
 
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager:
 - Sound Op:
 - Light Op:
@@ -140,9 +140,9 @@ _Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
 _Call Time: TBA, Event Time: TBA_
 
 - Stage Manager:
-- House Manager:
-- Sound Op:
-- Light Op:
+- House Manager: Jayden
+- Sound Op: Oks
+- Light Op: Michael?
 - Usher:
 - Spot Op:
 - Spot Op:
@@ -154,7 +154,7 @@ _Call Time: TBA, Event Time: TBA_
 _Call Time: TBA, Rehearsal Time: TBA_
 
 - Stage Manager:
-- Sound Op:
+- Sound Op: Oks
 - Light Op:
 - Spot Op:
 - Spot Op:
@@ -167,9 +167,9 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-9:30 p.m._
 
 *Change stage setup to Concert Band afterward
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager:
-- Sound Op:
+- Sound Op: Oks
 - Usher:
 
 ### Tuesday, December 1
@@ -180,7 +180,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
 - Stage Manager:
 - House Manager:
-- Sound Op:
+- Sound Op: Oks
 - Light Op:
 - Usher:
 - Spot Op:
@@ -194,7 +194,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
 _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager:
 - Sound Op:
 - Usher:
@@ -217,9 +217,9 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 *Change stage setup to Choir afterward
 
 - Stage Manager: Shawna
-- House Manager:
+- House Manager: Jayden
 - Sound Op:
-- Usher:
+- Usher: Oks
 
 ### Monday, December 7
 
@@ -227,7 +227,7 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
 _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
-- Sound Op:
+- Sound Op: Oks
 
 ### Thursday, December 10
 
@@ -235,7 +235,7 @@ _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
 _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
-- Sound Op:
+- Sound Op: Oks
 
 ### Friday, December 11
 
@@ -243,10 +243,10 @@ _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
 _Call Time: 6:30 p.m., Rehearsal Time: 8 p.m.-10p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - House Manager:
 - Sound Op: Carl
-- Usher: 
+- Usher: Oks
 
 ### Saturday, December 12
 
@@ -255,15 +255,15 @@ _Call Time: 6:30 p.m., Rehearsal Time: 8 p.m.-10p.m._
 _Call Time: 1:30 p.m., Rehearsal Time: 2 p.m.-5 p.m._
 
 - Stage Manager:
-- Sound Op:
+- Sound Op: Oks
 
 <ins>**Choir Concert**<ins>
 
 _Call Time: 7 p.m., Rehearsal Time: 8 p.m.-10p.m._
 
 - Stage Manager:
-- House Manager:
-- Sound Op:
+- House Manager: Jayden
+- Sound Op: Oks
 - Usher:
 
 ### Wednesday, December 16
@@ -273,5 +273,5 @@ _Call Time: 7 p.m., Rehearsal Time: 8 p.m.-10p.m._
 _Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 - Stage Manager: Shawna
-- House Mangager:
+- House Mangager: Michael
 - Sound Op: Carl
