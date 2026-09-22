@@ -82,7 +82,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
 _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
-- House Manager:
+- House Manager: Kayla
 - Usher:
 
 ### Saturday, November 7
@@ -91,14 +91,14 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
 _Call Time: 12:30 p.m., Event Time: 2 p.m.-4 p.m._
 
-- House Manager:
+- House Manager: Kayla
 - Usher:
 
 <ins>**Rumors Performance 4**<ins>
 
 _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
-- House Manager:
+- House Manager: Kayla
 - Usher:
 
 ### Tuesday, November 10
@@ -144,7 +144,7 @@ _Call Time: TBA, Event Time: TBA_
 - Sound Op: Oks
 - Light Op: Michael?
 - Usher:
-- Spot Op:
+- Spot Op: Kayla
 - Spot Op:
 
 ### Tuesday, November 17
@@ -196,7 +196,7 @@ _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
 - Stage Manager: Jayden
 - House Manager:
-- Sound Op:
+- Sound Op: Kayla
 - Usher:
 
 ### Friday, December 4
@@ -244,7 +244,7 @@ _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 _Call Time: 6:30 p.m., Rehearsal Time: 8 p.m.-10p.m._
 
 - Stage Manager: Jayden
-- House Manager:
+- House Manager: Kayla
 - Sound Op: Carl
 - Usher: Oks
 
