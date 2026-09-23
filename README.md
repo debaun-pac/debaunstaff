@@ -73,8 +73,8 @@ _Call Time: 9 a.m., Event Time: 10 a.m.-11:30 a.m._
 
 _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
-- House Manager:
-- Usher:
+- House Manager: 
+- Usher: Hima
 
 ### Friday, November 6
 
@@ -92,14 +92,14 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 _Call Time: 12:30 p.m., Event Time: 2 p.m.-4 p.m._
 
 - House Manager: Kayla
-- Usher:
+- Usher: Hima
 
 <ins>**Rumors Performance 4**<ins>
 
 _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
 - House Manager: Kayla
-- Usher:
+- Usher: Hima
 
 ### Tuesday, November 10
 
@@ -156,7 +156,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 - Stage Manager:
 - Sound Op: Oks
 - Light Op:
-- Spot Op:
+- Spot Op: Hima
 - Spot Op:
 
 ### Saturday, November 21
@@ -183,7 +183,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - Sound Op: Oks
 - Light Op:
 - Usher:
-- Spot Op:
+- Spot Op: Hima
 - Spot Op:
 
 ### Wednesday, December 2
