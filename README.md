@@ -128,7 +128,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 _Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
 
 - Stage Manager: Jayden
-- House Manager:
+- House Manager: Christian
 - Sound Op:
 - Light Op:
 - Usher:
