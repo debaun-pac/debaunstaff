@@ -139,7 +139,7 @@ _Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
 
 _Call Time: TBA, Event Time: TBA_
 
-- Stage Manager:
+- Stage Manager: Christian
 - House Manager: Jayden
 - Sound Op: Oks
 - Light Op: Michael?
@@ -179,7 +179,7 @@ _Call Time: 6:30 p.m., Event Time: 8 p.m.-9:30 p.m._
 _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
 - Stage Manager:
-- House Manager:
+- House Manager: Christian
 - Sound Op: Oks
 - Light Op:
 - Usher:
