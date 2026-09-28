@@ -30,7 +30,7 @@ _Call Time: 4:30 p.m., Event Time: 5:30 p.m.-7 p.m._
 
 _Call Time: 2 p.m., Event Time: 3 p.m.-4 p.m._
 
-- Stage Manager: Oks
+- Stage Manager:
 - House Manager: Michael
 - Sound Op: Julia
 - Usher: Jayden
