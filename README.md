@@ -123,15 +123,19 @@ _Call Time: TBA, Rehearsal Time: TBA_
 
 ### Friday, November 13
 
-<ins>**Who Runs The Lab?**<ins>
+~~<ins>**Who Runs The Lab?**<ins>~~ **Rescheduled to Spring 2027**
 
-_Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._
+~~_Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._~~
 
-- Stage Manager: Jayden
-- House Manager: Christian
-- Sound Op:
-- Light Op:
-- Usher:
+~~- Stage Manager: Jayden~~
+
+~~- House Manager: Christian~~
+
+~~- Sound Op:~~
+
+~~- Light Op:~~
+
+~~- Usher:~~
 
 ### Saturday, November 14
 
