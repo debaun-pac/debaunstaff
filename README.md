@@ -13,17 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, September 29
-
-<ins>**Doctoral Student Event**<ins>
-
-_Call Time: 4:30 p.m., Event Time: 5:30 p.m.-7 p.m._
-
-- Stage Manager:
-- House Manager: Oks
-- Sound Op: Kayla
-- Usher: 
-
 ### Wednesday, September 30
 
 <ins>**National Hazing Week Panel 1**<ins>
