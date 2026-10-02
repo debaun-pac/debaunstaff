@@ -13,27 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Wednesday, September 30
-
-<ins>**National Hazing Week Panel 1**<ins>
-
-_Call Time: 2 p.m., Event Time: 3 p.m.-4 p.m._
-
-- Stage Manager: Jayden
-- House Manager: Michael
-- Sound Op: Julia
-- Usher: Christian
-
-
-<ins>**National Hazing Week Panel 2**<ins>
-
-_Call Time: 4 p.m., Event Time: 5 p.m.-6 p.m._
-
-- Stage Manager: Jayden 
-- House Manager: Michael
-- Sound Op: Oks 
-- Usher: Christian
-
 ### Saturday, October 10
 
 <ins>**Python Bootcamp**<ins>
