@@ -135,7 +135,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 
 <ins>**Orchestra Concert**<ins> 
 
-_Call Time: 6:30 p.m., Event Time: 8 p.m.-9:30 p.m._
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-9:30 p.m._
 
 *Change stage setup to Concert Band afterward
 
@@ -184,7 +184,7 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
 <ins>**Concert Band Concert**<ins>
 
-_Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 *Change stage setup to Choir afterward
 
@@ -213,7 +213,7 @@ _Call Time: 5:45 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
 <ins>**Jazz Band Concert**<ins>
 
-_Call Time: 6:30 p.m., Rehearsal Time: 8 p.m.-10p.m._
+_Call Time: 6:30 p.m., Concert Time: 8 p.m.-10p.m._
 
 - Stage Manager: Jayden
 - House Manager: Kayla
@@ -231,7 +231,7 @@ _Call Time: 1:30 p.m., Rehearsal Time: 2 p.m.-5 p.m._
 
 <ins>**Choir Concert**<ins>
 
-_Call Time: 7 p.m., Rehearsal Time: 8 p.m.-10p.m._
+_Call Time: 7 p.m., Concert Time: 8 p.m.-10p.m._
 
 - Stage Manager:
 - House Manager: Jayden
