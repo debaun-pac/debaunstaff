@@ -13,28 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, October 10
-
-<ins>**Python Bootcamp**<ins>
-
-_Call Time: 8 a.m., Event Time: 9 a.m.-4 p.m._
-
-- Stage Manager: Julia
-- House Manager: Jayden
-- Sound Op: Oks
-- Usher: Kayla
-
-### Saturday, October 17
-
-<ins>**President's Welcome**<ins>
-
-_Call Time: 9 a.m., Event Time: 10 a.m.-11:30 a.m._
-
-- Stage Manager: Shawna
-- House Manager: Oks
-- Sound Op: Carl
-- Usher: Michael
-
 ### Thursday, November 5
 
 <ins>**Rumors Performance 1**<ins>
