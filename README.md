@@ -64,7 +64,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 - Stage Manager:
 - Light Op: Michael?
 - Sound Op: Oks
-- Spot Op:
+- Spot Op: 
 - Spot Op:
 
 ### Friday, November 13
@@ -107,7 +107,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 - Sound Op: Oks
 - Light Op:
 - Spot Op: Hima
-- Spot Op:
+- Spot Op: Julia
 
 ### Saturday, November 21
 
@@ -134,7 +134,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - Light Op:
 - Usher:
 - Spot Op: Hima
-- Spot Op:
+- Spot Op: Julia
 
 ### Wednesday, December 2
 
