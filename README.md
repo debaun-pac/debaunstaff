@@ -237,3 +237,4 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Carl
+- Usher: 
