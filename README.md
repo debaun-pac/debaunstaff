@@ -111,7 +111,7 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
 ### Wednesday, November 18
 
-<ins>**Lip Sync Tech Rehearsal 1**<ins>
+<ins>**Lip Sync Tech Rehearsal 2**<ins>
 
 _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
