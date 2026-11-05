@@ -235,5 +235,5 @@ _Call Time: 7 p.m., Concert Time: 8 p.m.-10p.m._
 _Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 - Stage Manager: Shawna
-- House Mangager: Michael
+- House Manager: Michael
 - Sound Op: Carl
