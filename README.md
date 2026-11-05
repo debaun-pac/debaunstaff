@@ -59,7 +59,7 @@ _Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
 
 <ins>**TECHnique Tech Rehearsal**<ins>
 
-_Call Time: TBA, Rehearsal Time: TBA_
+_Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
 
 - Stage Manager:
 - Light Op: Michael?
@@ -87,7 +87,7 @@ _Call Time: TBA, Rehearsal Time: TBA_
 
 <ins>**TECHnique Showcase**<ins>
 
-_Call Time: TBA, Event Time: TBA_
+_Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 
 - Stage Manager: Christian
 - House Manager: Jayden
