@@ -99,15 +99,27 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 
 ### Tuesday, November 17
 
-<ins>**Lip Sync Tech Rehearsal**<ins>
+<ins>**Lip Sync Tech Rehearsal 1**<ins>
 
-_Call Time: TBA, Rehearsal Time: TBA_
+_Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
 - Stage Manager:
 - Sound Op: Oks
 - Light Op:
 - Spot Op: Hima
 - Spot Op: Julia
+
+### Wednesday, November 18
+
+<ins>**Lip Sync Tech Rehearsal 1**<ins>
+
+_Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
+
+- Stage Manager:
+- Sound Op: 
+- Light Op:
+- Spot Op: Hima ?
+- Spot Op: Julia ?
 
 ### Saturday, November 21
 
