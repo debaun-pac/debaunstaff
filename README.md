@@ -12,6 +12,14 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 ## Events
 *(at DeBaun Auditorium unless otherwise noted)*
 
+### Friday, November 6
+
+<ins>**Rumors Performance 2**<ins>
+
+_Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
+
+- House Manager: Julia
+- Usher:
 
 ### Saturday, November 7
 
