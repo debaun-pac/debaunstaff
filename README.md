@@ -18,7 +18,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 
 _Call Time: 6:30 p.m., Event Time: 8 p.m.-10 p.m._
 
-- House Manager: 
+- House Manager: Julia
 - Usher:
 
 ### Saturday, November 7
