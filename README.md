@@ -55,7 +55,7 @@ _Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
 
 _Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 
-- Stage Manager: Christian
+- Stage Manager: 
 - House Manager: Jayden
 - Sound Op: Oks
 - Light Op: Michael
