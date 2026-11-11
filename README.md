@@ -13,13 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, November 10
-
-<ins>**Midsummer Auditions**<ins>
-
-_Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
-
-- Audition Monitor: Oks
 
 ### Thursday, November 12
 
@@ -27,7 +20,7 @@ _Call Time: 5:30 p.m., Event Time: 6 p.m.-10 p.m._
 
 _Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
 
-- Stage Manager:
+- Stage Manager: Shawna
 - Light Op: Michael
 - Sound Op: Oks
 - Spot Op: 
@@ -55,7 +48,7 @@ _Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
 
 _Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 
-- Stage Manager: 
+- Stage Manager: Shawna (Gabriel shadowing)
 - House Manager: Jayden
 - Sound Op: Oks
 - Light Op: Michael
@@ -69,9 +62,9 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 
 _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
-- Stage Manager:
+- Stage Manager: Carl (Gabriel shadowing)
 - Sound Op: Oks
-- Light Op:
+- Light Op: Shawna
 - Spot Op: Hima
 - Spot Op: Julia
 
@@ -81,11 +74,11 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
 _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
-- Stage Manager:
-- Sound Op: 
-- Light Op:
+- Stage Manager: 
+- Sound Op: Carl
+- Light Op: Shawna
 - Spot Op: Hima ?
-- Spot Op: Julia ?
+- Spot Op: Julia (9-10pm)
 
 ### Saturday, November 21
 
@@ -96,7 +89,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-9:30 p.m._
 *Change stage setup to Concert Band afterward
 
 - Stage Manager: Jayden
-- House Manager:
+- House Manager: Gabriel
 - Sound Op: Oks
 - Usher:
 
@@ -109,7 +102,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - Stage Manager:
 - House Manager: Christian
 - Sound Op: Oks
-- Light Op:
+- Light Op: Shawna?
 - Usher:
 - Spot Op: Hima
 - Spot Op: Julia
@@ -123,7 +116,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
 - Stage Manager: Jayden
-- House Manager:
+- House Manager: Shawna?
 - Sound Op: Kayla
 - Usher:
 
@@ -133,7 +126,7 @@ _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
 _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
-- Stage Manager: Shawna
+- Stage Manager: Shawna?
 - Sound Op: 
 
 ### Saturday, December 5
