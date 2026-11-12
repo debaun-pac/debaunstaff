@@ -23,7 +23,7 @@ _Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
 - Stage Manager: Shawna
 - Light Op: Michael
 - Sound Op: Oks
-- Spot Op: 
+- Spot Op: Kayla
 - Spot Op:
 
 ### Friday, November 13
@@ -52,7 +52,7 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
 - House Manager: Jayden
 - Sound Op: Oks
 - Light Op: Michael
-- Usher:
+- Usher: Hima
 - Spot Op: Kayla
 - Spot Op:
 
@@ -108,6 +108,13 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - Spot Op: Julia
 
 ### Wednesday, December 2
+
+<ins>**Winter Wonderland Audio/Lighting Setup**<ins>
+
+_Setup Time: TBD (likely morning)_
+
+- Crew:
+- Crew:
 
 <ins>**Order of the Engineer Induction Ceremony**<ins>
 
