@@ -62,7 +62,7 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-9:30 p.m._
 - Stage Manager: Jayden
 - House Manager: Gabriel
 - Sound Op: Oks
-- Usher:
+- Usher: Vincent
 
 ### Tuesday, December 1
 
@@ -74,7 +74,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - House Manager: Christian
 - Sound Op: Oks
 - Light Op: Shawna?
-- Usher:
+- Usher: Vincent
 - Spot Op: Hima
 - Spot Op: Julia
 
@@ -163,7 +163,7 @@ _Call Time: 7 p.m., Concert Time: 8 p.m.-10p.m._
 - Stage Manager:
 - House Manager: Jayden
 - Sound Op: Oks
-- Usher:
+- Usher: Vincent
 
 ### Wednesday, December 16
 
@@ -174,4 +174,4 @@ _Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 - Stage Manager: Shawna
 - House Manager: Michael
 - Sound Op: Carl
-- Usher: 
+- Usher: Vincent
