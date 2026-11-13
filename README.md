@@ -13,40 +13,11 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-
-### Thursday, November 12
-
-<ins>**TECHnique Tech Rehearsal**<ins>
-
-_Call Time: 4:30 p.m., Rehearsal Time: 5 p.m.-8:00 p.m._
-
-- Stage Manager: Shawna
-- Light Op: Michael
-- Sound Op: Oks
-- Spot Op: Kayla
-- Spot Op:
-
-### Friday, November 13
-
-~~<ins>**Who Runs The Lab?**<ins>~~ **Rescheduled to Spring 2027**
-
-~~_Call Time: 4:30 p.m., Event Time: 6 p.m.-10 p.m._~~
-
-~~- Stage Manager: Jayden~~
-
-~~- House Manager: Christian~~
-
-~~- Sound Op:~~
-
-~~- Light Op:~~
-
-~~- Usher:~~
-
 ### Saturday, November 14
 
 <ins>**TECHnique Showcase**<ins>
 
-_Call Time: 2 p.m., Event Time: 3 p.m.-5 p.m._
+_Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 - Stage Manager: Shawna (Gabriel shadowing)
 - House Manager: Jayden
