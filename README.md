@@ -134,7 +134,7 @@ _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-9 p.m._
 
 - Stage Manager: Shawna?
-- Sound Op: 
+- Sound Op: Oks
 
 ### Saturday, December 5
 
@@ -146,8 +146,8 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10 p.m._
 
 - Stage Manager: Shawna
 - House Manager: Jayden
-- Sound Op:
-- Usher: Oks
+- Sound Op: Oks
+- Usher: 
 
 ### Monday, December 7
 
