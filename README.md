@@ -20,7 +20,7 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 _Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
 
 - Stage Manager: Shawna (Gabriel shadowing)
-- House Manager: Jayden
+- House Manager: 
 - Sound Op: Oks
 - Light Op: Michael
 - Usher: Hima
