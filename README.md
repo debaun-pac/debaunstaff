@@ -59,7 +59,7 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 - Stage Manager:
 - House Manager: Christian
 - Sound Op: Oks
-- Light Op: Shawna?
+- Light Op: Kayla/Shawna
 - Usher: Vincent
 - Spot Op: Hima
 - Spot Op: Julia
