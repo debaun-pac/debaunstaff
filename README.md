@@ -139,15 +139,15 @@ _Call Time: 6:30 p.m., Concert Time: 8 p.m.-10p.m._
 
 _Call Time: 1:30 p.m., Rehearsal Time: 2 p.m.-5 p.m._
 
-- Stage Manager:
+- Stage Manager: Jayden
 - Sound Op: Oks
 
 <ins>**Choir Concert**<ins>
 
 _Call Time: 7 p.m., Concert Time: 8 p.m.-10p.m._
 
-- Stage Manager:
-- House Manager: Jayden
+- Stage Manager: Jayden
+- House Manager: 
 - Sound Op: Oks
 - Usher: Vincent
 
