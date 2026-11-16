@@ -13,20 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, November 14
-
-<ins>**TECHnique Showcase**<ins>
-
-_Call Time: 2 p.m., Event Time: 3 p.m.-4:30 p.m._
-
-- Stage Manager: Shawna (Gabriel shadowing)
-- House Manager: 
-- Sound Op: Oks
-- Light Op: Michael
-- Usher: Hima
-- Spot Op: Kayla
-- Spot Op:
-
 ### Tuesday, November 17
 
 <ins>**Lip Sync Tech Rehearsal 1**<ins>
@@ -35,7 +21,7 @@ _Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
 
 - Stage Manager: Carl (Gabriel shadowing)
 - Sound Op: Oks
-- Light Op: Shawna
+- Light Op: Shawna/Kayla
 - Spot Op: Hima
 - Spot Op: Julia
 
