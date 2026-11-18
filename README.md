@@ -149,7 +149,7 @@ _Call Time: 7 p.m., Concert Time: 8 p.m.-10p.m._
 - Stage Manager: Jayden
 - House Manager: 
 - Sound Op: Oks
-- Usher: Vincent
+- Usher: 
 
 ### Wednesday, December 16
 
