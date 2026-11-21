@@ -56,7 +56,7 @@ _Setup Time: TBD (likely morning)_
 _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
 - Stage Manager: Jayden
-- House Manager: Shawna?
+- House Manager: 
 - Sound Op: Kayla
 - Usher:
 
