@@ -13,30 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Tuesday, November 17
-
-<ins>**Lip Sync Tech Rehearsal 1**<ins>
-
-_Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
-
-- Stage Manager: Carl (Gabriel shadowing)
-- Sound Op: Oks
-- Light Op: Shawna/Kayla
-- Spot Op: Hima
-- Spot Op: Julia
-
-### Wednesday, November 18
-
-<ins>**Lip Sync Tech Rehearsal 2**<ins>
-
-_Call Time: 5:30 p.m., Rehearsal Time: 6 p.m.-10 p.m._
-
-- Stage Manager: 
-- Sound Op: Carl
-- Light Op: Shawna
-- Spot Op: Hima ?
-- Spot Op: Julia (9-10pm)
-
 ### Saturday, November 21
 
 <ins>**Orchestra Concert**<ins> 
