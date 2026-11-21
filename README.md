@@ -44,7 +44,17 @@ _Call Time: 7:30 p.m., Event Time: 9 p.m.-11 p.m._
 
 <ins>**Winter Wonderland Audio/Lighting Setup**<ins>
 
-_Setup Time: 11 a.m., Sound Check: 2 p.m., Event Time: 3:30-6:30 p.m., Breakdown: 6:30-7:30 p.m._
+_Setup Time: 11 a.m._ 
+
+- Crew:
+- Crew:
+
+_Event Time: 3:30-6:30 p.m._ 
+
+- Crew:
+- Crew:
+
+_Breakdown: 6:30-7:30 p.m._
 
 - Crew:
 - Crew:
