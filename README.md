@@ -13,19 +13,6 @@ If you’re new to the DeBaun PAC crew, feel free to sign up for events even if 
 *(at DeBaun Auditorium unless otherwise noted)*
 
 
-### Saturday, November 21
-
-<ins>**Orchestra Concert**<ins> 
-
-_Call Time: 6:30 p.m., Concert Time: 8 p.m.-9:30 p.m._
-
-*Change stage setup to Concert Band afterward
-
-- Stage Manager: Jayden
-- House Manager: Gabriel
-- Sound Op: Oks
-- Usher: Vincent
-
 ### Tuesday, December 1
 
 <ins>**Lip Sync**<ins>
