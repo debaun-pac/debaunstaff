@@ -51,7 +51,7 @@ _Setup Time: 11 a.m._
 
 _Event Time: 3:30-6:30 p.m._ 
 
-- Crew:
+- Crew: Michael
 - Crew:
 
 _Breakdown: 6:30-7:30 p.m._
@@ -66,7 +66,7 @@ _Breakdown: 6:30-7:30 p.m._
 _Call Time: 12 p.m., Event Time: 1 p.m.-3 p.m._
 
 - Stage Manager: Jayden
-- House Manager: 
+- House Manager: Michael
 - Sound Op: Kayla
 - Usher:
 
